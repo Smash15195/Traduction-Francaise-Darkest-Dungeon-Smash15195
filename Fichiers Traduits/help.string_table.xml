@@ -30,26 +30,26 @@
     <entry id="" />
     <entry id="" />
     <entry id="" />
-    <entry id="tutorial_popup_press_h_description"><![CDATA[On any screen in the game, press and hold [H] to see contextual help for controls in that mode.
+    <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyez et maintenir [H] pour avec l'aide contextuelle.
 
-Try it while in town, exploring, fighting, camping, and more.]]></entry>
-    <entry id="tutorial_popup_combat_description"><![CDATA[Combat is turn-based. On your hero's turn, [CLICK] a skill icon and then [CLICK] on a highlighted target. 
+Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
+    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUER] sur une compétences et ensuite [CLIQUER] sur votre cible. 
 
-If you can't select a particular skill, it's because that hero needs to be standing in a different spot or there are no valid targets. [Mouse Over] the skill to see the requirements.]]></entry>
-    <entry id="tutorial_popup_map_nav_description"><![CDATA[You are currently in a room.
+Si vous ne pouvez sélectionner une compétences, c'est parce que votre héros ne se trouve pas à la bonne position ou qu'il n'a pas de cibles valides. [Survoler] la compétence pour voir ses prérequis.]]></entry>
+    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous etes dans une salle.
 
-To move forth, [CLICK] on another room on the map display. This will take you to the connecting hallway.]]></entry>
-    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[While in a hallway, press [D] to move forward, [A] to move back.
+Pour avancer, [CLIQUER] sur une salle dans la mini-carte. Cela aura pour effet de vous mettre dans le couloir y menant.]]></entry>
+    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans un couloir, appuyez sur [D] pour avancer et sur [A] pour reculer.
 
-If you prefer the mouse, you can [CLICK] ahead or behind the party to move them.]]></entry>
-    <entry id="tutorial_popup_curio_description"><![CDATA[While exploring, you will often find interactive objects. [CLICK] or press [W] to investigate them. Take a look at this tent...]]></entry>
-    <entry id="tutorial_popup_bandage_description"><![CDATA[Your hero is bleeding!
+Si vous préférez la souris, vous pouvez [CLIQUER] devant ou à l'arrière du groupe pour le déplacer.]]></entry>
+    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant votre exploration, vous trouverez souvent des objets intéractifs. [CLIQUER] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
+    <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne !
 
-If you wish, you can use a bandage from inventory to stop the flow. [RIGHT-CLICK] on the bandage while it's the injured hero's turn.]]></entry>
-    <entry id="tutorial_popup_antivenom_description"><![CDATA[Your hero is blighted!
+Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour arrêter l'hémoragie. [CLIC-DROIT] sur le bandage pendant le tour du héros blessé.]]></entry>
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre heros est infecte!
 
-If you wish, you can use anti-venom from inventory to neutralize it. [RIGHT-CLICK] on the anti-venom while it's the injured hero's turn.]]></entry>
-    <entry id="tutorial_popup_torch_description"><![CDATA[The light is fading! The current torch level greatly affects many mechanics in the game. The darker it gets, the harder things get but the better the rewards. [RIGHT-CLICK] on a torch from inventory to boost the light back up.]]></entry>
+Si vous le désirez, vous pouvez utiliser un anti-venin dans votre inventaire pour neutraliser l'infection. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
+    <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte grandement beaucoup de mécanques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
     <entry id="tutorial_popup_supplies_description"><![CDATA[You'll want to take different supplies depending on what region you are going to, how long the quest is, and your own preferences. But always bring some food and torches!
 
 For your first short quest, try bringing at least 8 food and 4 torches.]]></entry>
