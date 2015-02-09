@@ -50,19 +50,19 @@ Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour
 
 Si vous le désirez, vous pouvez utiliser un anti-venin dans votre inventaire pour neutraliser l'infection. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
     <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte grandement beaucoup de mécanques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[You'll want to take different supplies depending on what region you are going to, how long the quest is, and your own preferences. But always bring some food and torches!
+    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez et du temps qu'elle nécessite et de vos préférences. Mais emportez toujours de la nourriture et des torches !
 
-For your first short quest, try bringing at least 8 food and 4 torches.]]></entry>
-    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Heroes can only have 4 active combat skills at a time. Toggle the skills on and off to change your loadout, and watch how it changes that hero's positional strength in the display above!]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have 3 camping skills active at a time. Toggle the skills on and off by clicking on them.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[This quest involves camping, and camping requires firewood. Firewood is given automatically to you on appropriate quests.
+Pour votre première petite quête, prenez au moins 8 vivres 4 torches.]]></entry>
+    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de combat. Cliquez sur les compétences et regardez comment ce qu'il se produit sur l'écran ci-dessus !]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir trois compétences de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes en nécessitant.
 
-Camping gives heroes a chance to recuperate while in the dungeon. When you are wounded or stressed and wish to camp, [RIGHT-CLICK] on the firewood in your inventory.]]></entry>
-    <entry id="tutorial_popup_camping_description"><![CDATA[Camping consists of two parts: Meal phase and Skill phase.
+Le Feu de Camp donne au héros une chance de récupérer pendant un donjon. Lorsque vous êtes blessé ou stressé et que vous voulez faire un campement, [CLIC-DROIT] sur le Bois dans votre inventaire.]]></entry>
+    <entry id="tutorial_popup_camping_description"><![CDATA[Un campement se décompose en deux parties: la phase de Repas et de la phase de Compétence.
 
-During the Meal phase, you choose how much they eat, which determines recovery. Make sure you have enough food!
+Pendant la phase de Repas, vous choisissez les rations qui déterminent la récupération de vie. Assurez-vous d'avoir assez de nourriture !
 
-Skill Phase allows you to spend Rest Points on different hero skills used for recuperation.]]></entry>
+La phase de Compétence vous permet de dépenser des Points de Repos sur les différentes compétences de campement.]]></entry>
     <entry id="tutorial_popup_stress_relief_description"><![CDATA[Heroes relieve stress by taking part in activities at the Tavern and Abbey. Each activity has different side-effects.
 
 Experiment to find the best activity for each hero, depending on their quirks!
