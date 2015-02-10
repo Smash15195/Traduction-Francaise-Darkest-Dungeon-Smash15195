@@ -26,10 +26,10 @@
     <entry id="str_ui_hunger_choice_eat"><![CDATA[Mange %.0f vivres, soigne %d%% de santé]]></entry>
     <entry id="str_ui_hunger_choice_starve"><![CDATA[Rien manger, donnera %d%% dommage de stress]]></entry>
     <entry id="str_ui_resist"><![CDATA[Resiste]]></entry>
-    <entry id="str_ui_stun"><![CDATA[Etourdissement!]]></entry>
+    <entry id="str_ui_stun"><![CDATA[Etourdi !]]></entry>
     <entry id="str_ui_no_damage"><![CDATA[Aucun dommage]]></entry>
     <entry id="str_ui_crittxt"><![CDATA[Crit !]]></entry>
-    <entry id="str_ui_miss"><![CDATA[Rater !]]></entry>
+    <entry id="str_ui_miss"><![CDATA[Rate !]]></entry>
     <entry id="str_ui_dodge"><![CDATA[Esquive !]]></entry>
     <entry id="str_ui_poison"><![CDATA[Infection]]></entry>
     <entry id="str_ui_bleed"><![CDATA[Saignement]]></entry>
@@ -1365,7 +1365,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_warrens_boss_tip_1"><![CDATA[Ancestor's Memoirs - The Swine Prince (2/3)]]></entry>
     <entry id="str_warrens_boss_tip_2"><![CDATA[Ancestor's Memoirs - The Swine Prince (3/3)]]></entry>
     <entry id="" />
-    <entry id="str_loading_screen_continue"><![CDATA[Appuyez sur [ESPACE] ou [CLIQUER] pour continuer]]></entry>
+    <entry id="str_loading_screen_continue"><![CDATA[Appuyez sur [ESPACE] ou [CLIQUEZ] pour continuer]]></entry>
     <entry id="" />
     <entry id="Town - Activity Slot Misc" />
     <entry id="str_empty_hero_slot_bar"><![CDATA[Faites glisser un héros ici.]]></entry>
@@ -1383,7 +1383,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_hero_slot_unlocked_meditation"><![CDATA[Confirmer Traitement]]></entry>
     <entry id="str_hero_slot_unlocked_prayer"><![CDATA[Confirmer Traitement]]></entry>
     <entry id="str_hero_slot_unlocked_flagellation"><![CDATA[Confirmer Traitement]]></entry>
-    <entry id="str_hero_slot_unlocked_treatment"><![CDATA[Choisissez une PARTICULARITES à enlever et [CLIQUER] sur la COCHE pour envoyer le héros en traitement.]]></entry>
+    <entry id="str_hero_slot_unlocked_treatment"><![CDATA[Choisissez une PARTICULARITES à enlever et [CLIQUEZ] sur la COCHE pour envoyer le héros en traitement.]]></entry>
     <entry id="" />
     <entry id="str_hero_slot_locked_bar"><![CDATA[Annuler Traitement]]></entry>
     <entry id="str_hero_slot_locked_gambling"><![CDATA[Annuler Traitement]]></entry>
@@ -1665,7 +1665,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="town_quest_difficulty_5"><![CDATA[Champion (Niv 5)]]></entry>
     <entry id="" />
     <entry id="Raid Quest Complete" />
-    <entry id="raid_quest_complete"><![CDATA[Quête Terminée ! [CLIQUER POUR SORTIR DU DONJON]]]></entry>
+    <entry id="raid_quest_complete"><![CDATA[Quête Terminée ! [CLIQUEZ POUR SORTIR DU DONJON]]]></entry>
     <entry id="" />
     <entry id="Quest Goal Start" />
     <entry id="town_quest_goal_start_kill_monster"><![CDATA[Tuer %d %s.]]></entry>
@@ -1813,7 +1813,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="realm_inventory_full_info"><![CDATA[[SHIFT-CLIC] sur une breloque pour la détruire]]></entry>
     <entry id="" />
     <entry id="Provision" />
-    <entry id="provision_sell_back_info"><![CDATA[[CLIQUER] dans l'inventaire pour revendre]]></entry>
+    <entry id="provision_sell_back_info"><![CDATA[[CLIQUEZ] dans l'inventaire pour revendre]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="AFFLICTION DESCRIPTIONS" />

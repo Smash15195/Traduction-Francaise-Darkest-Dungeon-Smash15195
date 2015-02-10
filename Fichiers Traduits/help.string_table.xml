@@ -33,16 +33,16 @@
     <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyez et maintenir [H] pour avec l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
-    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUER] sur une compétences et ensuite [CLIQUER] sur votre cible. 
+    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUEZ] sur une compétences et ensuite [CLIQUEZ] sur votre cible. 
 
 Si vous ne pouvez sélectionner une compétences, c'est parce que votre héros ne se trouve pas à la bonne position ou qu'il n'a pas de cibles valides. [Survoler] la compétence pour voir ses prérequis.]]></entry>
     <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous etes dans une salle.
 
-Pour avancer, [CLIQUER] sur une salle dans la mini-carte. Cela aura pour effet de vous mettre dans le couloir y menant.]]></entry>
+Pour avancer, [CLIQUEZ] sur une salle dans la mini-carte. Cela aura pour effet de vous mettre dans le couloir y menant.]]></entry>
     <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans un couloir, appuyez sur [D] pour avancer et sur [A] pour reculer.
 
-Si vous préférez la souris, vous pouvez [CLIQUER] devant ou à l'arrière du groupe pour le déplacer.]]></entry>
-    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant votre exploration, vous trouverez souvent des objets intéractifs. [CLIQUER] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
+Si vous préférez la souris, vous pouvez [CLIQUEZ] devant ou à l'arrière du groupe pour le déplacer.]]></entry>
+    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant votre exploration, vous trouverez souvent des objets intéractifs. [CLIQUEZ] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
     <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne !
 
 Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour arrêter l'hémoragie. [CLIC-DROIT] sur le bandage pendant le tour du héros blessé.]]></entry>
@@ -63,42 +63,42 @@ Le Feu de Camp donne au héros une chance de récupérer pendant un donjon. Lors
 Pendant la phase de Repas, vous choisissez les rations qui déterminent la récupération de vie. Assurez-vous d'avoir assez de nourriture !
 
 La phase de Compétence vous permet de dépenser des Points de Repos sur les différentes compétences de campement.]]></entry>
-    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Heroes relieve stress by taking part in activities at the Tavern and Abbey. Each activity has different side-effects.
+    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Héros soulagent leur stress en prenant part à des activités à la Taverne et l'Abbaye. Chaque activité a des effets secondaires.
 
-Experiment to find the best activity for each hero, depending on their quirks!
+Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Particularités !
 
-Commiting a hero to an activity [LOCKS THEM IN THAT ACTIVITY] until the next Week. You'll have to take a different hero with you on your next quest.]]></entry>
-    <entry id="tutorial_popup_afflicted_description"><![CDATA[When heroes can't take the stress any more, they become afflicted. This manifests in different behaviors and stat changes. Afflictions last until you send them to treatment in town, unless you can reduce their stress to zero during the quest.]]></entry>
-    <entry id="tutorial_popup_virtued_description"><![CDATA[Sometimes, heroes respond to the onslaught of stress by becoming heroic!
+Assigner un héros à une activité [CA LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la semaine suivante. Vous devrez prendre un héros différent avec vous pour votre prochain quête.]]></entry>
+    <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne peuvent plus obtenir de stress, ils deviennent affligés. Cela se manifeste par différents comportements et des changements de stats. Les afflictions restent jusqu'à ce que vous les guérissiez pour un traitement en ville, sauf si vous arrivez à réduire le stress à zéro pendant la quête.]]></entry>
+    <entry id="tutorial_popup_virtued_description"><![CDATA[Parfois les héros répondent au stress en devenant héroïque !
 
-This elevated state of performance will last until they camp or return to town, and confers stat bonuses and other benefits.]]></entry>
-    <entry id="tutorial_popup_death_door_description"><![CDATA[When a hero is reduced to 0 HP, they are at "Death's Door."
+Cet haut état performance durera jusqu'à un campement ou au retour en ville et donnera des bonus de stats et d'autres avantages.]]></entry>
+    <entry id="tutorial_popup_death_door_description"><![CDATA[Quand un héros atteint 0 PV, il est aux "Portes de la Mort".
 
-While in this state, they will suffer stat penalties, plus any further damage has a chance to kill them.
+Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront une chance de le tuer.
 
-Heal them to get off Death's Door!]]></entry>
-    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[The first of many heroes has given their all in service to you. You have the option of retreating from combat and abandoning this quest to save the others, or press onward.
+Soignez-le pour le faire sortir des Portes de la Mort !]]></entry>
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Le premier héros a succomber pour vous. Vous avez la possibilité de vous replier du combat et abandoner cette quête pour sauver les autres ou continuer.
 
-The choice is yours. [If this is the tutorial, retreat is unavailable.]]]></entry>
-    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Scouted traps will be visible on the ground as you approach them. Select a hero and then [CLICK] on the trap to attempt to disarm it.
+Ce choix est vôtre. [Si c'est le tutoriel, le repli n'est pas possible.]]]></entry>
+    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les pièges repérés seront visibles sur le terrain à votre approche. Sélectionnez un héros, puis [CLIQUEZ] sur le piège pour tenter de le désarmer.
 
-Some heroes are better than others at disarming.]]></entry>
-    <entry id="tutorial_popup_using_doors_description"><![CDATA[To enter a door, [CLICK] or press [W] when standing in front of it.]]></entry>
-    <entry id="tutorial_popup_stress_description"><![CDATA[Many actions and experiences cause stress. Stress damage appears above heroes' heads, in black type. Stress can also be healed, and that appears in white type.]]></entry>
-    <entry id="tutorial_popup_trinkets_description"><![CDATA[Each hero has room to equip two items, called "trinkets." Just drag the trinket from inventory over to the selected hero's slot. Trinkets generally have a trade-off: something good, something bad. Some are also class-specific.]]></entry>
-    <entry id="tutorial_popup_questparty_description"><![CDATA[Each quest has different goals and rewards, and each region has its own challenges. Experiment with various combinations to see what works!
+Certains héros sont meilleurs que d'autres pour le désarmement.]]></entry>
+    <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour ouvrir une porte, [CLIQUEZ] ou appuyez sur [W] quand vous êtes en face.]]></entry>
+    <entry id="tutorial_popup_stress_description"><![CDATA[De nombreuses actions et expériences sont sources de stress. Les dommages du stress apparaissent au-dessus de la tête des héros en caractères noirs. Le stress peut aussi être guéri et apparaît en blanc.]]></entry>
+    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros a la possibilité d'équiper deux éléments appelé "breloques." Il suffit de glisser la breloque de l'inventaire vers l'emplacement du héros sélectionné. Les Breloques ont généralement un malus et un bonus. Certains sont également spécifique à une classe.]]></entry>
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différentes groupes pour voir ceux qui fonctionnent !
 
-However, it's recommended to bring along a Vestal or an Occultist for healing.]]></entry>
-    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Heroes gain Resolve XP for each successful quest. Resolve XP in turn determines the hero's Resolve Level.
+Cependant, il est recommandé d'emporter une Vestale ou un Occultiste pour les soins.]]></entry>
+    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des XP Baroudeur pour chaque quête réussie. Les XP Baroudeur déterminent le Niveau Baroudeur du héros.
 
-Resolve Level represents the hero's veteranship, and directly acts as Stress Resistance against the horrors encountered in the dungeons.
+Le Niveau Baroudeur représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons.
 
-A low Resolve Level hero that tries a higher level quest will quickly crumble under the unimaginable stresses.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[You'll need to recruit these two heroes to fill out a party of four. [Drag and drop] them into your roster.
+Un héros au faible Niveau Baroudeur qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros de remplir votre groupe de quatre. [Glissez/Déposez-les] dans votre liste.
 
-While you're here, spend some of your starting resources on UPGRADING the Stagecoach network. This will increase the number of heroes available here in the future.
+Pendant que vous êtes ici, investisez une partie votre pécule de départ sur la modernisation de la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
 
-To upgrade, click the [+] symbol on the left, and then click the upgrade.]]></entry>
+Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mise à niveau.]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
