@@ -35,7 +35,7 @@
     <entry id="buff_stat_tooltip_resolve_check_percent"><![CDATA[%+d%% Resist Affliction]]></entry>
     <entry id="buff_stat_tooltip_scouting_chance"><![CDATA[%+d%% Chance de Reconnaissance]]></entry>
     <entry id="buff_stat_tooltip_remove_negative_quirk_chance"><![CDATA[%+d%% Chance Suppression Particularité Négative]]></entry>
-    <entry id="buff_stat_tooltip_food_consumption_percent"><![CDATA[%+d%% Plus de nourriture consommée]]></entry>
+    <entry id="buff_stat_tooltip_food_consumption_percent"><![CDATA[%+d%% nourriture consommée]]></entry>
     <entry id="buff_stat_tooltip_starving_damage_percent"><![CDATA[%+d%% DGT quand affamé]]></entry>
     <entry id="buff_stat_tooltip_resolve_xp_bonus_percent"><![CDATA[%+d%% XP Bonus Obtenus]]></entry>
     <entry id="buff_stat_tooltip_resistance_trap"><![CDATA[%+d%% Éviter/Désarmer Piège]]></entry>
