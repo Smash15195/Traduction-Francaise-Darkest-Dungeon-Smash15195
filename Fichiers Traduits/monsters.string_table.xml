@@ -3,13 +3,13 @@
   <language id="english">
     <entry id="" />
     <entry id="ATTAQUES MONSTRES" />
-    <entry id="str_monster_skill_rend"><![CDATA[Déchirure]]></entry>
-    <entry id="str_monster_skill_skull_toss"><![CDATA[Jet de Crâne]]></entry>
+    <entry id="str_monster_skill_rend"><![CDATA[Dechirure]]></entry>
+    <entry id="str_monster_skill_skull_toss"><![CDATA[Jet de Crane]]></entry>
     <entry id="str_monster_skill_howl"><![CDATA[Hurlement]]></entry>
     <entry id="str_monster_skill_grave_nibble"><![CDATA[Mange-tombe]]></entry>
-    <entry id="str_monster_skill_crossbow_shot"><![CDATA[Épinglage]]></entry>
+    <entry id="str_monster_skill_crossbow_shot"><![CDATA[Epinglage]]></entry>
     <entry id="str_monster_skill_bayonet_jab"><![CDATA[Baionnette]]></entry>
-    <entry id="str_monster_skill_crushing_blow"><![CDATA[Coup Écrasant]]></entry>
+    <entry id="str_monster_skill_crushing_blow"><![CDATA[Coup Ecrasant]]></entry>
     <entry id="str_monster_skill_ground_pound"><![CDATA[Charge au Sol]]></entry>
     <entry id="str_monster_skill_tempting_goblet"><![CDATA[Coupe Gourmande]]></entry>
     <entry id="str_monster_skill_dagger_jab"><![CDATA[Poignardage Furtif]]></entry>
@@ -60,7 +60,7 @@
     <entry id="str_monster_skill_artillery_tag"><![CDATA[Marquage Proie]]></entry>
     <entry id="str_monster_skill_artillery_blight"><![CDATA[Pluie de Verole]]></entry>
     <entry id="str_monster_skill_escape_cloud"><![CDATA[Brume d'Evasion]]></entry>
-    <entry id="str_monster_skill_point_blank_shot"><![CDATA[Tir à Bout Portant]]></entry>
+    <entry id="str_monster_skill_point_blank_shot"><![CDATA[Tir a Bout Portant]]></entry>
     <entry id="" />
     <entry id="str_monster_skill_pig_spear"><![CDATA[Porc & Pique]]></entry>
     <entry id="str_monster_skill_bull_rush"><![CDATA[Charge Sanglier]]></entry>

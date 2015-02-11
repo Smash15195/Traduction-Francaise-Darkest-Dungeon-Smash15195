@@ -30,7 +30,7 @@
     <entry id="" />
     <entry id="" />
     <entry id="" />
-    <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyez et maintenir [H] pour avec l'aide contextuelle.
+    <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyez et maintenir [H] pour afficher l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
     <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUEZ] sur une compétences et ensuite [CLIQUEZ] sur votre cible. 
@@ -41,7 +41,7 @@ Si vous ne pouvez sélectionner une compétences, c'est parce que votre héros n
 Pour avancer, [CLIQUEZ] sur une salle dans la mini-carte. Cela aura pour effet de vous mettre dans le couloir y menant.]]></entry>
     <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans un couloir, appuyez sur [D] pour avancer et sur [A] pour reculer.
 
-Si vous préférez la souris, vous pouvez [CLIQUEZ] devant ou à l'arrière du groupe pour le déplacer.]]></entry>
+Si vous préférez la souris, vous pouvez [CLIQUEZ] devant ou derrière le groupe pour le déplacer.]]></entry>
     <entry id="tutorial_popup_curio_description"><![CDATA[Pendant votre exploration, vous trouverez souvent des objets intéractifs. [CLIQUEZ] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
     <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne !
 
@@ -49,8 +49,8 @@ Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour
     <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre heros est infecte!
 
 Si vous le désirez, vous pouvez utiliser un anti-venin dans votre inventaire pour neutraliser l'infection. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
-    <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte grandement beaucoup de mécanques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez et du temps qu'elle nécessite et de vos préférences. Mais emportez toujours de la nourriture et des torches !
+    <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
+    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches !
 
 Pour votre première petite quête, prenez au moins 8 vivres 4 torches.]]></entry>
     <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de combat. Cliquez sur les compétences et regardez comment ce qu'il se produit sur l'écran ci-dessus !]]></entry>
@@ -67,7 +67,7 @@ La phase de Compétence vous permet de dépenser des Points de Repos sur les dif
 
 Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Particularités !
 
-Assigner un héros à une activité [CA LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la semaine suivante. Vous devrez prendre un héros différent avec vous pour votre prochain quête.]]></entry>
+Assigner un héros à une activité [LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la semaine suivante. Vous devrez prendre un héros différent avec vous pour votre prochaine quête.]]></entry>
     <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne peuvent plus obtenir de stress, ils deviennent affligés. Cela se manifeste par différents comportements et des changements de stats. Les afflictions restent jusqu'à ce que vous les guérissiez pour un traitement en ville, sauf si vous arrivez à réduire le stress à zéro pendant la quête.]]></entry>
     <entry id="tutorial_popup_virtued_description"><![CDATA[Parfois les héros répondent au stress en devenant héroïque !
 
@@ -77,7 +77,7 @@ Cet haut état performance durera jusqu'à un campement ou au retour en ville et
 Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront une chance de le tuer.
 
 Soignez-le pour le faire sortir des Portes de la Mort !]]></entry>
-    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Le premier héros a succomber pour vous. Vous avez la possibilité de vous replier du combat et abandoner cette quête pour sauver les autres ou continuer.
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Voilà le premier héros a succomber pour vous. Vous avez la possibilité de vous replier du combat et abandoner cette quête pour sauver les autres ou continuer.
 
 Ce choix est vôtre. [Si c'est le tutoriel, le repli n'est pas possible.]]]></entry>
     <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les pièges repérés seront visibles sur le terrain à votre approche. Sélectionnez un héros, puis [CLIQUEZ] sur le piège pour tenter de le désarmer.
@@ -94,7 +94,7 @@ Cependant, il est recommandé d'emporter une Vestale ou un Occultiste pour les s
 Le Niveau Baroudeur représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons.
 
 Un héros au faible Niveau Baroudeur qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros de remplir votre groupe de quatre. [Glissez/Déposez-les] dans votre liste.
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros pour remplir votre groupe de quatre. [Glissez et Déposez-les] dans votre liste.
 
 Pendant que vous êtes ici, investisez une partie votre pécule de départ sur la modernisation de la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
 

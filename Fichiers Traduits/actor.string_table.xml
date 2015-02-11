@@ -6,7 +6,7 @@
     <entry id="buff_stat_tooltip_combat_stat_add_defense_rating"><![CDATA[%+d ESQUIVE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_protection_rating"><![CDATA[%+d%% PROT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_speed_rating"><![CDATA[%+d VIT]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_add_attack_rating"><![CDATA[%+d ATQ]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_add_attack_rating"><![CDATA[%+d ATT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_crit_chance"><![CDATA[%+d%% CRT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_max_hp"><![CDATA[%+d PV MAX]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_damage_low"><![CDATA[%+d%% DGT]]></entry>
@@ -14,7 +14,7 @@
     <entry id="buff_stat_tooltip_combat_stat_multiply_defense_rating"><![CDATA[%+d ESQUIVE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_protection_rating"><![CDATA[%+d%% PROT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_speed_rating"><![CDATA[%+d%% VIT]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_multiply_attack_rating"><![CDATA[%+d%% ATQ]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_multiply_attack_rating"><![CDATA[%+d%% ATT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_crit_chance"><![CDATA[%+d%% CRT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_max_hp"><![CDATA[%+d%% PV MAX]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[%+d%% Soin Reçu]]></entry>
