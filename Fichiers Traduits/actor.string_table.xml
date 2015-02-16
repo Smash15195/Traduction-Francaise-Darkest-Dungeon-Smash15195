@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="english">
-    <entry id="PARTICULARITES" />
+    <entry id="TRAITS" />
     <entry id="buff_stat_tooltip_combat_stat_add_damage_low"><![CDATA[%+d DGT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_defense_rating"><![CDATA[%+d ESQUIVE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_protection_rating"><![CDATA[%+d%% PROT]]></entry>
@@ -34,7 +34,7 @@
     <entry id="buff_stat_tooltip_move_chance"><![CDATA[%+d%% chance to Comptécences Pousser/Tirer]]></entry>
     <entry id="buff_stat_tooltip_resolve_check_percent"><![CDATA[%+d%% Resist Affliction]]></entry>
     <entry id="buff_stat_tooltip_scouting_chance"><![CDATA[%+d%% Chance de Reconnaissance]]></entry>
-    <entry id="buff_stat_tooltip_remove_negative_quirk_chance"><![CDATA[%+d%% Chance Suppression Particularité Négative]]></entry>
+    <entry id="buff_stat_tooltip_remove_negative_quirk_chance"><![CDATA[%+d%% Chance Suppression Trait Négatif]]></entry>
     <entry id="buff_stat_tooltip_food_consumption_percent"><![CDATA[%+d%% nourriture consommée]]></entry>
     <entry id="buff_stat_tooltip_starving_damage_percent"><![CDATA[%+d%% DGT quand affamé]]></entry>
     <entry id="buff_stat_tooltip_resolve_xp_bonus_percent"><![CDATA[%+d%% XP Bonus Obtenus]]></entry>

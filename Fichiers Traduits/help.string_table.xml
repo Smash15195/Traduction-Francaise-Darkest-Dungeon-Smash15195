@@ -65,7 +65,7 @@ Pendant la phase de Repas, vous choisissez les rations qui déterminent la récu
 La phase de Compétence vous permet de dépenser des Points de Repos sur les différentes compétences de campement.]]></entry>
     <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Héros soulagent leur stress en prenant part à des activités à la Taverne et l'Abbaye. Chaque activité a des effets secondaires.
 
-Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Particularités !
+Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Traits !
 
 Assigner un héros à une activité [LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la semaine suivante. Vous devrez prendre un héros différent avec vous pour votre prochaine quête.]]></entry>
     <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne peuvent plus obtenir de stress, ils deviennent affligés. Cela se manifeste par différents comportements et des changements de stats. Les afflictions restent jusqu'à ce que vous les guérissiez pour un traitement en ville, sauf si vous arrivez à réduire le stress à zéro pendant la quête.]]></entry>
@@ -230,7 +230,7 @@ Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mis
     <entry id="str_weald_tip"><![CDATA[Le Weald est plein de chemins de longs et sinueux. Emportez beaucoup de torches.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Méfiez-vous de la marque de la mort, vous pourriez vous prendre des coups d'artillerie.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Les sentiers sont jonchés de pièges toxiques.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[Bête et humain corrompu habitent ces bosquets.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Bêtes et humains corrompus habitent ces bosquets.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Si vous vivez pour l'amour du risque et du noir, emportez peu de torches...]]></entry>
     <entry id="str_weald_tip"><![CDATA[Chaque région a ses propres défis. Organisez votre groupe et vos provisions en conséquence.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Un objet bien utilisé peut souvent vous protéger contre les dangers des objets interactifs que vous rencontrez.]]></entry>

@@ -112,11 +112,11 @@
     <entry id="" />
     <entry id="TOWN ACTIVITY RESULTS AND STORIES / ACTIVITY LOG" />
     <entry id="str_stress"><![CDATA[stress]]></entry>
-    <entry id="str_new_quirk_colon"><![CDATA[Nouvelle Particularité:]]></entry>
+    <entry id="str_new_quirk_colon"><![CDATA[Nouveau Trait:]]></entry>
     <entry id="str_new_buff_colon"><![CDATA[Nouveau Buff:]]></entry>
     <entry id="str_gained"><![CDATA[obtenu]]></entry>
     <entry id="str_lost"><![CDATA[perdu]]></entry>
-    <entry id="str_quirk_removed"><![CDATA[Particularité enlevée:]]></entry>
+    <entry id="str_quirk_removed"><![CDATA[Trait enlevé:]]></entry>
     <entry id="str_no_affliction"><![CDATA[et n'est plus]]></entry>
     <entry id="str_still_missing"><![CDATA[fait encore défaut.]]></entry>
     <entry id="str_gold"><![CDATA[ou]]></entry>
