@@ -46,9 +46,9 @@ Si vous préférez la souris, vous pouvez [CLIQUEZ] devant ou derrière le group
     <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne !
 
 Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour arrêter l'hémoragie. [CLIC-DROIT] sur le bandage pendant le tour du héros blessé.]]></entry>
-    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre heros est infecte!
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre heros est infecte !
 
-Si vous le désirez, vous pouvez utiliser un anti-venin dans votre inventaire pour neutraliser l'infection. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
+Si vous le désirez, vous pouvez utiliser un anti-venin dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
     <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
     <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches !
 
@@ -220,7 +220,7 @@ Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mis
     <entry id="LOADING SCREEN TIPS" />
     <entry id="str_crypts_tip"><![CDATA[Les Ruines portent tous les signes de fouillent frénétique de votre ancêtre...]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Idoles et sanctuaires sacrés ont été corrompus pour favoriser les dieux païens. L'eau bénite peut vous aider à restaurer leurs états originels.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[Les morts-vivants ne peuvent pas saigner mais ils peuvent être infecté.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Les morts-vivants ne peuvent pas saigner mais ils peuvent être empoisonné.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Si vous vivez pour l'amour du risque et du noir, emportez peu de torches...]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Chaque région a ses propres défis. Organisez votre groupe et vos provisions en conséquence.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Un objet bien utilisé peut souvent vous protéger contre les dangers des objets interactifs que vous rencontrez.]]></entry>

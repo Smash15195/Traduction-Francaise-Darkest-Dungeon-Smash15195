@@ -403,13 +403,13 @@
     <entry id="str_death_attack_monster"><![CDATA[a été tué par une bête]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[a péri contre un(e)]]></entry>
     <entry id="str_death_bleed_monster"><![CDATA[a saigné à mort.]]></entry>
-    <entry id="str_death_poisoned_monster"><![CDATA[a succombé à l'Infection.]]></entry>
+    <entry id="str_death_poisoned_monster"><![CDATA[a succombé au poison.]]></entry>
     <entry id="str_death_attack_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
     <entry id="str_death_bleed_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
     <entry id="str_death_poisoned_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
     <entry id="str_death_healing_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
     <entry id="" />
-    <entry id="str_death_poisoned_unknown"><![CDATA[a succombé à l'Infection.]]></entry>
+    <entry id="str_death_poisoned_unknown"><![CDATA[a succombé au poison.]]></entry>
     <entry id="str_death_bleed_unknown"><![CDATA[a saigné à mort.]]></entry>
     <entry id="" />
     <entry id="str_death_unknown_unknown"><![CDATA[a succombé à un danger inconnu.]]></entry>
