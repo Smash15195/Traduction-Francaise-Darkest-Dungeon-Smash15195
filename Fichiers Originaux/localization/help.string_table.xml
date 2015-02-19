@@ -65,7 +65,9 @@ During the Meal phase, you choose how much they eat, which determines recovery. 
 Skill Phase allows you to spend Rest Points on different hero skills used for recuperation.]]></entry>
     <entry id="tutorial_popup_stress_relief_description"><![CDATA[Heroes relieve stress by taking part in activities at the Tavern and Abbey. Each activity has different side-effects.
 
-Experiment to find the best for each hero, depending on their quirks!]]></entry>
+Experiment to find the best activity for each hero, depending on their quirks!
+
+Commiting a hero to an activity [LOCKS THEM IN THAT ACTIVITY] until the next Week. You'll have to take a different hero with you on your next quest.]]></entry>
     <entry id="tutorial_popup_afflicted_description"><![CDATA[When heroes can't take the stress any more, they become afflicted. This manifests in different behaviors and stat changes. Afflictions last until you send them to treatment in town, unless you can reduce their stress to zero during the quest.]]></entry>
     <entry id="tutorial_popup_virtued_description"><![CDATA[Sometimes, heroes respond to the onslaught of stress by becoming heroic!
 

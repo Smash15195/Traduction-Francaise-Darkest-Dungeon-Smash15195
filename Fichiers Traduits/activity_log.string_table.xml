@@ -82,7 +82,7 @@
     <entry id="" />
     <entry id="" />
     <entry id="str_upper_the_[BUILDING]"><![CDATA[Le]]></entry>
-    <entry id="str_building_upgraded_to_percent"><![CDATA[mis à niveau vers]]></entry>
+    <entry id="str_building_upgraded_to_percent"><![CDATA[amélioré(e) à]]></entry>
     <entry id="str_[UPGRADE_TYPE]_upgrade_lvl_[UPGRADE_LEVEL]" />
     <entry id="" />
     <entry id="" />
@@ -106,8 +106,8 @@
     <entry id="str_caretaker_goal_plot_kill_hag_3"><![CDATA[Vaincre la Sorcière Acariâtre]]></entry>
     <entry id="str_caretaker_goal_hero_resolve"><![CDATA[Atteindre %s pour obtenir Niveau 6]]></entry>
     <entry id="str_caretaker_goals_heading"><![CDATA[Objectifs du Gardien]]></entry>
-    <entry id="str_caretaker_goals_quest_goals_heading"><![CDATA[Objectifs de quete]]></entry>
-    <entry id="str_caretaker_goals_roster_goals_heading"><![CDATA[Objectifs d'Equipe]]></entry>
+    <entry id="str_caretaker_goals_quest_goals_heading"><![CDATA[Objectifs de Quête]]></entry>
+    <entry id="str_caretaker_goals_roster_goals_heading"><![CDATA[Objectifs d'Équipe]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="TOWN ACTIVITY RESULTS AND STORIES / ACTIVITY LOG" />

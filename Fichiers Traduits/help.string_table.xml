@@ -8,25 +8,25 @@
     <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Mouvement]]></entry>
     <entry id="tutorial_popup_curio_title"><![CDATA[Objets Interactifs]]></entry>
     <entry id="tutorial_popup_bandage_title"><![CDATA[Bandage]]></entry>
-    <entry id="tutorial_popup_antivenom_title"><![CDATA[Soigner l'Infection]]></entry>
+    <entry id="tutorial_popup_antivenom_title"><![CDATA[Soigner le Poison]]></entry>
     <entry id="tutorial_popup_torch_title"><![CDATA[La Torche]]></entry>
-    <entry id="tutorial_popup_supplies_title"><![CDATA[Provisions pour l'Expedition]]></entry>
-    <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Changer les Competences de Combat]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[Changer les Competences de Campement]]></entry>
+    <entry id="tutorial_popup_supplies_title"><![CDATA[Provisions pour l'Expédition]]></entry>
+    <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Les Compétences de Combat]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[Les Compétences de Campement]]></entry>
     <entry id="tutorial_popup_camping_quest_title"><![CDATA[Bois et Campement]]></entry>
     <entry id="tutorial_popup_camping_title"><![CDATA[Les Avantages du Campement]]></entry>
     <entry id="tutorial_popup_stress_relief_title"><![CDATA[Soulager le Stress]]></entry>
     <entry id="tutorial_popup_afflicted_title"><![CDATA[Affligé !]]></entry>
     <entry id="tutorial_popup_virtued_title"><![CDATA[Vertueux !]]></entry>
     <entry id="tutorial_popup_death_door_title"><![CDATA[Porte de la Mort]]></entry>
-    <entry id="tutorial_popup_consider_retreat_title"><![CDATA[La discretion est la meilleure partie de la bravoure...]]></entry>
-    <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Neutraliser les Pieges]]></entry>
+    <entry id="tutorial_popup_consider_retreat_title"><![CDATA[Le sauve-qui-peut...]]></entry>
+    <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Neutraliser les Pièges]]></entry>
     <entry id="tutorial_popup_using_doors_title"><![CDATA[Entrer dans les Portes]]></entry>
     <entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
     <entry id="tutorial_popup_trinkets_title"><![CDATA[Breloques]]></entry>
     <entry id="tutorial_popup_questparty_title"><![CDATA[Formation du Groupe]]></entry>
     <entry id="tutorial_popup_resolve_level_title"><![CDATA[Gain de Niveau !]]></entry>
-    <entry id="tutorial_popup_stage_coach_title"><![CDATA[La Diligence est votre fournisseur de sang frais]]></entry>
+    <entry id="tutorial_popup_stage_coach_title"><![CDATA[Votre fournisseur de sang frais]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
@@ -35,8 +35,8 @@
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
     <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUEZ] sur une compétences et ensuite [CLIQUEZ] sur votre cible. 
 
-Si vous ne pouvez sélectionner une compétences, c'est parce que votre héros ne se trouve pas à la bonne position ou qu'il n'a pas de cibles valides. [Survoler] la compétence pour voir ses prérequis.]]></entry>
-    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous etes dans une salle.
+Si vous ne pouvez sélectionner une compétences, c'est parce que votre héros ne se trouve pas à la bonne position ou qu'il n'a pas de cibles valides. [Survolez] la compétence pour connaitre ses prérequis.]]></entry>
+    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous êtes dans une salle.
 
 Pour avancer, [CLIQUEZ] sur une salle dans la mini-carte. Cela aura pour effet de vous mettre dans le couloir y menant.]]></entry>
     <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans un couloir, appuyez sur [D] pour avancer et sur [A] pour reculer.
@@ -46,9 +46,9 @@ Si vous préférez la souris, vous pouvez [CLIQUEZ] devant ou derrière le group
     <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne !
 
 Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour arrêter l'hémoragie. [CLIC-DROIT] sur le bandage pendant le tour du héros blessé.]]></entry>
-    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre heros est infecte !
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre héros est infecté !
 
-Si vous le désirez, vous pouvez utiliser un anti-venin dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
+Si vous le désirez, vous pouvez utiliser un antivenin dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
     <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
     <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches !
 
@@ -227,7 +227,7 @@ Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mis
     <entry id="str_crypts_tip"><![CDATA[Vous pouvez vous replier d'un combat et même abandonner des quêtes. Si les choses tournent mal, mieux vaut vivre pour combattre un autre jour.]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_weald_tip"><![CDATA[Le Weald est plein de chemins de longs et sinueux. Emportez beaucoup de torches.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Le Weald est parsemé de chemins de longs et sinueux. Emportez beaucoup de torches.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Méfiez-vous de la marque de la mort, vous pourriez vous prendre des coups d'artillerie.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Les sentiers sont jonchés de pièges toxiques.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Bêtes et humains corrompus habitent ces bosquets.]]></entry>
