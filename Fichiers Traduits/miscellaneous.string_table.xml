@@ -1883,6 +1883,11 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
     <entry id="curio_announcement_purge_format"><![CDATA[%s Trait enlevé]]></entry>
+    <entry id="" />
+    <entry id="CORRUPT SAVE" />
+    <entry id="corrupt_save_confirm_question"><![CDATA[Votre fichier de sauvegarde semble avoir été corrompu. Nous recommandons de sauvegarder manuellement avant de poursuivre:]]></entry>
+    <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Charger à partir d'une sauvegarde de secours.]]></entry>
+    <entry id="corrupt_save_confirm_answer_load_corrupted_save"><![CDATA[Tenter de charger. (Non recommandé.)]]></entry>
   </language>
   <language id="french">
     <entry id="" />

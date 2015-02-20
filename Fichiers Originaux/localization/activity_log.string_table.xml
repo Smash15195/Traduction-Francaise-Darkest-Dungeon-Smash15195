@@ -322,10 +322,11 @@
     <entry id="str_blacksmith_armour_upgrade_lvl_3"><![CDATA[Better armor can now be crafted.]]></entry>
     <entry id="str_blacksmith_armour_upgrade_lvl_4"><![CDATA[Better armor can now be crafted.]]></entry>
     <entry id="" />
-    <entry id="str_blacksmith_cost_upgrade_lvl_1"><![CDATA[The blacksmith is now more efficient at his craft.]]></entry>
-    <entry id="str_blacksmith_cost_upgrade_lvl_2"><![CDATA[The blacksmith is now more efficient at his craft.]]></entry>
-    <entry id="str_blacksmith_cost_upgrade_lvl_3"><![CDATA[The blacksmith is now more efficient at his craft.]]></entry>
-    <entry id="str_blacksmith_cost_upgrade_lvl_4"><![CDATA[The blacksmith is now more efficient at his craft.]]></entry>
+    <entry id="str_blacksmith_cost_upgrade_lvl_1"><![CDATA[The blacksmith is now more efficient at his craft, making upgrades cheaper.]]></entry>
+    <entry id="str_blacksmith_cost_upgrade_lvl_2"><![CDATA[The blacksmith is now more efficient at his craft, making upgrades cheaper.]]></entry>
+    <entry id="str_blacksmith_cost_upgrade_lvl_3"><![CDATA[The blacksmith is now more efficient at his craft, making upgrades cheaper.]]></entry>
+    <entry id="str_blacksmith_cost_upgrade_lvl_4"><![CDATA[The blacksmith is now more efficient at his craft, making upgrades cheaper.]]></entry>
+    <entry id="str_blacksmith_cost_upgrade_lvl_5"><![CDATA[The blacksmith is now more efficient at his craft, making upgrades cheaper.]]></entry>
     <entry id="" />
     <entry id="str_guild_skill_levels_upgrade_lvl_1"><![CDATA[Better skill trainers have arrived, allowing for more advanced instruction.]]></entry>
     <entry id="str_guild_skill_levels_upgrade_lvl_2"><![CDATA[Better skill trainers have arrived, allowing for more advanced instruction.]]></entry>
@@ -399,7 +400,8 @@
     <entry id="ASSEMBLED STRINGS" />
     <entry id="str_death_hunger_hunger"><![CDATA[perished of hunger.]]></entry>
     <entry id="str_death_trap_trap"><![CDATA[was skewered by a trap.]]></entry>
-    <entry id="str_death_obstacle_obstacle"><![CDATA[collapsed while clearing an obstacle.]]></entry>
+    <entry id="str_death_trap_obstacle"><![CDATA[collapsed permanently while clearing an obstacle.]]></entry>
+    <entry id="str_death_obstacle_obstacle"><![CDATA[collapsed permanently while clearing an obstacle.]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[was slain by a vile]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[met their end against a]]></entry>
     <entry id="str_death_bleed_monster"><![CDATA[bled out.]]></entry>
@@ -743,6 +745,7 @@
     <entry id="str_blacksmith_cost_upgrade_lvl_2" />
     <entry id="str_blacksmith_cost_upgrade_lvl_3" />
     <entry id="str_blacksmith_cost_upgrade_lvl_4" />
+    <entry id="str_blacksmith_cost_upgrade_lvl_5" />
     <entry id="" />
     <entry id="str_guild_skill_levels_upgrade_lvl_1" />
     <entry id="str_guild_skill_levels_upgrade_lvl_2" />
@@ -816,6 +819,7 @@
     <entry id="ASSEMBLED STRINGS" />
     <entry id="str_death_hunger_hunger" />
     <entry id="str_death_trap_trap" />
+    <entry id="str_death_trap_obstacle" />
     <entry id="str_death_obstacle_obstacle" />
     <entry id="str_death_attack_monster" />
     <entry id="str_death_attack_monster" />
@@ -1160,6 +1164,7 @@
     <entry id="str_blacksmith_cost_upgrade_lvl_2" />
     <entry id="str_blacksmith_cost_upgrade_lvl_3" />
     <entry id="str_blacksmith_cost_upgrade_lvl_4" />
+    <entry id="str_blacksmith_cost_upgrade_lvl_5" />
     <entry id="" />
     <entry id="str_guild_skill_levels_upgrade_lvl_1" />
     <entry id="str_guild_skill_levels_upgrade_lvl_2" />
@@ -1233,6 +1238,7 @@
     <entry id="ASSEMBLED STRINGS" />
     <entry id="str_death_hunger_hunger" />
     <entry id="str_death_trap_trap" />
+    <entry id="str_death_trap_obstacle" />
     <entry id="str_death_obstacle_obstacle" />
     <entry id="str_death_attack_monster" />
     <entry id="str_death_attack_monster" />
@@ -1577,6 +1583,7 @@
     <entry id="str_blacksmith_cost_upgrade_lvl_2" />
     <entry id="str_blacksmith_cost_upgrade_lvl_3" />
     <entry id="str_blacksmith_cost_upgrade_lvl_4" />
+    <entry id="str_blacksmith_cost_upgrade_lvl_5" />
     <entry id="" />
     <entry id="str_guild_skill_levels_upgrade_lvl_1" />
     <entry id="str_guild_skill_levels_upgrade_lvl_2" />
@@ -1650,6 +1657,7 @@
     <entry id="ASSEMBLED STRINGS" />
     <entry id="str_death_hunger_hunger" />
     <entry id="str_death_trap_trap" />
+    <entry id="str_death_trap_obstacle" />
     <entry id="str_death_obstacle_obstacle" />
     <entry id="str_death_attack_monster" />
     <entry id="str_death_attack_monster" />
@@ -1994,6 +2002,7 @@
     <entry id="str_blacksmith_cost_upgrade_lvl_2" />
     <entry id="str_blacksmith_cost_upgrade_lvl_3" />
     <entry id="str_blacksmith_cost_upgrade_lvl_4" />
+    <entry id="str_blacksmith_cost_upgrade_lvl_5" />
     <entry id="" />
     <entry id="str_guild_skill_levels_upgrade_lvl_1" />
     <entry id="str_guild_skill_levels_upgrade_lvl_2" />
@@ -2067,6 +2076,7 @@
     <entry id="ASSEMBLED STRINGS" />
     <entry id="str_death_hunger_hunger" />
     <entry id="str_death_trap_trap" />
+    <entry id="str_death_trap_obstacle" />
     <entry id="str_death_obstacle_obstacle" />
     <entry id="str_death_attack_monster" />
     <entry id="str_death_attack_monster" />

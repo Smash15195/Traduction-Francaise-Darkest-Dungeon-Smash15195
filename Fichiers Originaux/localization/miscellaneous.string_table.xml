@@ -1883,6 +1883,11 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
     <entry id="curio_announcement_purge_format"><![CDATA[%s Quirk Removed!]]></entry>
+    <entry id="" />
+    <entry id="CORRUPT SAVE" />
+    <entry id="corrupt_save_confirm_question"><![CDATA[Your save file appears to have been corrupted. We recommend manually backing up your save before continuing:]]></entry>
+    <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Load from backup.]]></entry>
+    <entry id="corrupt_save_confirm_answer_load_corrupted_save"><![CDATA[Attempt to load anyway. (Not recommended.)]]></entry>
   </language>
   <language id="french">
     <entry id="" />
@@ -3762,6 +3767,11 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
     <entry id="curio_announcement_purge_format" />
+    <entry id="" />
+    <entry id="CORRUPT SAVE" />
+    <entry id="corrupt_save_confirm_question" />
+    <entry id="corrupt_save_confirm_answer_load_backup" />
+    <entry id="corrupt_save_confirm_answer_load_corrupted_save" />
   </language>
   <language id="italian">
     <entry id="" />
@@ -5641,6 +5651,11 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
     <entry id="curio_announcement_purge_format" />
+    <entry id="" />
+    <entry id="CORRUPT SAVE" />
+    <entry id="corrupt_save_confirm_question" />
+    <entry id="corrupt_save_confirm_answer_load_backup" />
+    <entry id="corrupt_save_confirm_answer_load_corrupted_save" />
   </language>
   <language id="german">
     <entry id="" />
@@ -7520,6 +7535,11 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
     <entry id="curio_announcement_purge_format" />
+    <entry id="" />
+    <entry id="CORRUPT SAVE" />
+    <entry id="corrupt_save_confirm_question" />
+    <entry id="corrupt_save_confirm_answer_load_backup" />
+    <entry id="corrupt_save_confirm_answer_load_corrupted_save" />
   </language>
   <language id="spanish">
     <entry id="" />
@@ -9399,6 +9419,11 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
     <entry id="curio_announcement_purge_format" />
+    <entry id="" />
+    <entry id="CORRUPT SAVE" />
+    <entry id="corrupt_save_confirm_question" />
+    <entry id="corrupt_save_confirm_answer_load_backup" />
+    <entry id="corrupt_save_confirm_answer_load_corrupted_save" />
   </language>
 </root>
 
