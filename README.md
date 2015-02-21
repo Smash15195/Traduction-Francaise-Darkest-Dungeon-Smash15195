@@ -1,4 +1,4 @@
-Traduction-francaise-The-Long-Dark
+Traduction Française Darkest Dungeon
 ==================================
 
 ## Ressources
