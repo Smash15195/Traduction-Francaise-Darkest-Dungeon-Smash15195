@@ -89,11 +89,11 @@ Certains héros sont meilleurs que d'autres pour le désarmement.]]></entry>
     <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différentes groupes pour voir ceux qui fonctionnent !
 
 Cependant, il est recommandé d'emporter une Vestale ou un Occultiste pour les soins.]]></entry>
-    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des XP Baroudeur pour chaque quête réussie. Les XP Baroudeur déterminent le Niveau Baroudeur du héros.
+    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des XP Lucidité pour chaque quête réussie. Les XP Lucidité déterminent le Niveau de lucidité du héros.
 
-Le Niveau Baroudeur représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons.
+Le Niveau Lucidité représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons.
 
-Un héros au faible Niveau Baroudeur qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
+Un héros au faible Niveau Lucidité qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
     <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros pour remplir votre groupe de quatre. [Glissez et Déposez-les] dans votre liste.
 
 Pendant que vous êtes ici, investisez une partie votre pécule de départ sur la modernisation de la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
@@ -108,36 +108,36 @@ Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mis
     <entry id="" />
     <entry id="" />
     <entry id="ONSCREEN HELPS" />
-    <entry id="str_help_town_0"><![CDATA[[RIGHT-CLICK] on a hero in the roster to inspect their detailed character sheet. They can be renamed or dismissed permanently from there.]]></entry>
-    <entry id="str_help_town_1"><![CDATA[[CLICK] on buildings to use them to interact with your heroes.]]></entry>
-    <entry id="str_help_town_2"><![CDATA[STAGECOACH: recruit new heroes]]></entry>
-    <entry id="str_help_town_3"><![CDATA[BLACKSMITH: upgrade heroes' weapons and armor]]></entry>
-    <entry id="str_help_town_4"><![CDATA[GUILD: upgrade heroes' combat skills]]></entry>
-    <entry id="str_help_town_5"><![CDATA[SURVIVALIST: upgrade heroes' camping skills]]></entry>
-    <entry id="str_help_town_6"><![CDATA[TAVERN: send heroes for stress relief]]></entry>
-    <entry id="str_help_town_7"><![CDATA[ABBEY: send heroes for stress relief]]></entry>
-    <entry id="str_help_town_8"><![CDATA[SANITARIUM: treat heroes' negative quirks and diseases]]></entry>
-    <entry id="str_help_town_9"><![CDATA[NOMAD'S WAGON: purchase rare items]]></entry>
+    <entry id="str_help_town_0"><![CDATA[[CLIC-DROIT] sur un héros dans la liste pour voir sa fiche de personnage. Ils peuvent être renommés ou congédiés de cette fiche.]]></entry>
+    <entry id="str_help_town_1"><![CDATA[[CLIQUEZ] sur un bâtiment pour interagir avec.]]></entry>
+    <entry id="str_help_town_2"><![CDATA[DILIGENCE: pour recruter de nouveaux héros]]></entry>
+    <entry id="str_help_town_3"><![CDATA[FORGERON: améliore les armes et armures de héros]]></entry>
+    <entry id="str_help_town_4"><![CDATA[GUILDE: améliore les compétences de combat]]></entry>
+    <entry id="str_help_town_5"><![CDATA[SURVIVALISTE: améliore les compétences de campement]]></entry>
+    <entry id="str_help_town_6"><![CDATA[TAVERNE: Fait baisser le stress des héros]]></entry>
+    <entry id="str_help_town_7"><![CDATA[ABBAYE: Fait baisser le stress des héros]]></entry>
+    <entry id="str_help_town_8"><![CDATA[SANATORIUM: Soigne les Traits et Maladies de vos héros]]></entry>
+    <entry id="str_help_town_9"><![CDATA[CHARIOT INTINERANT: boutique d'objets rares]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_help_town_stage_coach_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_stage_coach_1"><![CDATA[[RIGHT-CLICK] on new heroes to inspect them.]]></entry>
-    <entry id="str_help_town_stage_coach_2"><![CDATA[[DRAG] new heroes to your roster to recruit them.]]></entry>
+    <entry id="str_help_town_stage_coach_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
+    <entry id="str_help_town_stage_coach_1"><![CDATA[[CLIC-DROIT] sur les héros pour voir leur fiche.]]></entry>
+    <entry id="str_help_town_stage_coach_2"><![CDATA[[GLISSEZ] les nouveaux héros dans votre liste pour les recruter.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_blacksmith_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_blacksmith_1"><![CDATA[[DRAG] a hero from your roster into the Blacksmith to see their weapon and armor upgrade options.]]></entry>
-    <entry id="str_help_town_blacksmith_2"><![CDATA[[CLICK] on upgrades to purchase them. You may need to upgrade the Blacksmith before purchasing some hero upgrades.]]></entry>
+    <entry id="str_help_town_blacksmith_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
+    <entry id="str_help_town_blacksmith_1"><![CDATA[[GLISSEZ] un héros de votre liste chez le Forgeron pour voir les améliorations d'arme possible.]]></entry>
+    <entry id="str_help_town_blacksmith_2"><![CDATA[[CLIQUEZ] sur une amélioration pour l'acheter. Vous devrez mettre à niveau le Forgeron pour acheter de meilleures améliorations.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_guild_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_guild_1"><![CDATA[[DRAG] a hero from your roster into the Guild to see their skill upgrade options.]]></entry>
-    <entry id="str_help_town_guild_2"><![CDATA[[CLICK] on skills or upgrades to purchase them. You may need to upgrade the Guild before purchasing some hero upgrades.]]></entry>
+    <entry id="str_help_town_guild_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
+    <entry id="str_help_town_guild_1"><![CDATA[[GLISSEZ] un héros de votre liste dans la Guilde pour voir les améliorations de compétences possible.]]></entry>
+    <entry id="str_help_town_guild_2"><![CDATA[[CLIQUEZ] sur une amélioration pour l'acheter. Vous devrez mettre à niveau la Guilde pour acheter de meilleures améliorations.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_camping_trainer_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_camping_trainer_1"><![CDATA[[CLICK] on a hero in your roster to load them into the Guild and see their combat skill upgrade options.]]></entry>
-    <entry id="str_help_town_camping_trainer_2"><![CDATA[[CLICK] on skills or upgrades to purchase them. You may need to upgrade the Survivalist before purchasing some hero upgrades.]]></entry>
+    <entry id="str_help_town_camping_trainer_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
+    <entry id="str_help_town_camping_trainer_1"><![CDATA[[GLISSEZ] un héros de votre liste dans la Guilde pour voir les améliorations de combat possible.]]></entry>
+    <entry id="str_help_town_camping_trainer_2"><![CDATA[[CLIQUEZ] sur une amélioration pour l'acheter. Vous devrez mettre à niveau la Survivaliste pour acheter de meilleures améliorations.]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_help_town_tavern_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
+    <entry id="str_help_town_tavern_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
     <entry id="str_help_town_tavern_1"><![CDATA[[DRAG] a hero into the appropriate slot to start a stress-relieving activity.]]></entry>
     <entry id="str_help_town_tavern_2"><![CDATA[Some quirks will block a hero from taking part in that activity.]]></entry>
     <entry id="str_help_town_tavern_3"><![CDATA[Each activity has different costs, stress relief values, and possible side-effects. You will have to discover some of them through play.]]></entry>
@@ -145,7 +145,7 @@ Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mis
     <entry id="str_help_town_tavern_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
     <entry id="str_help_town_tavern_6"><![CDATA[[SHIFT-CLICK] on a building slot to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_abbey_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
+    <entry id="str_help_town_abbey_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
     <entry id="str_help_town_abbey_1"><![CDATA[[DRAG] a hero into the appropriate slot to start a stress-relieving activity.]]></entry>
     <entry id="str_help_town_abbey_2"><![CDATA[Some quirks will block a hero from taking part in that activity.]]></entry>
     <entry id="str_help_town_abbey_3"><![CDATA[Each activity has different costs, stress relief values, and possible side-effects. You will have to discover some of them through play.]]></entry>
@@ -153,14 +153,14 @@ Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mis
     <entry id="str_help_town_abbey_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
     <entry id="str_help_town_abbey_6"><![CDATA[[SHIFT-CLICK] on a building slot to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_sanitarium_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
+    <entry id="str_help_town_sanitarium_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
     <entry id="str_help_town_sanitarium_1"><![CDATA[[DRAG] a hero into the treatment slot, select a quirk to remove, and then pay to begin treatment.]]></entry>
     <entry id="str_help_town_sanitarium_2"><![CDATA[Committing the hero to treatment will make them unavailable for the next quest.]]></entry>
     <entry id="str_help_town_sanitarium_3"><![CDATA[You will need to upgrade the building to unlock additional treatment slots.]]></entry>
     <entry id="str_help_town_sanitarium_4"><![CDATA[[SHIFT-CLICK] on a building slot to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_nomad_wagon_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_nomad_wagon_1"><![CDATA[[CLICK] on available items to purchase them.]]></entry>
+    <entry id="str_help_town_nomad_wagon_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
+    <entry id="str_help_town_nomad_wagon_1"><![CDATA[[CLIQUEZ] sur les objets pour les acheter.]]></entry>
     <entry id="" />
     <entry id="str_help_town_quest_select_0"><![CDATA[[CLICK] on available quests to inspect them.]]></entry>
     <entry id="str_help_town_quest_select_1"><![CDATA[[CLICK] on heroes or [DRAG] them into the party slots to form an adventuring party.]]></entry>

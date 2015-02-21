@@ -1885,7 +1885,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="curio_announcement_purge_format"><![CDATA[%s Quirk Removed!]]></entry>
     <entry id="" />
     <entry id="CORRUPT SAVE" />
-    <entry id="corrupt_save_confirm_question"><![CDATA[Your save file appears to have been corrupted. We recommend manually backing up your save before continuing:]]></entry>
+    <entry id="corrupt_save_confirm_question"><![CDATA[Your save file appears to have been corrupted. We recommend backing up your save files to your Desktop or other location before continuing.]]></entry>
     <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Load from backup.]]></entry>
     <entry id="corrupt_save_confirm_answer_load_corrupted_save"><![CDATA[Attempt to load anyway. (Not recommended.)]]></entry>
   </language>

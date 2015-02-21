@@ -1103,12 +1103,12 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="occultist_armour_4"><![CDATA["L'Inquisition Noire"]]></entry>
     <entry id="upgrade_tree_name_occultist.armour"><![CDATA[Toges]]></entry>
     <entry id="" />
-    <entry id="vestal_armour_0"><![CDATA[Robe Usée et Plate]]></entry>
-    <entry id="vestal_armour_1"><![CDATA[Robe Légère et Plate]]></entry>
+    <entry id="vestal_armour_0"><![CDATA[Robe Usée de Plate]]></entry>
+    <entry id="vestal_armour_1"><![CDATA[Robe Légère de Plate]]></entry>
     <entry id="vestal_armour_2"><![CDATA[Robe Fine, Plate Martelée]]></entry>
     <entry id="vestal_armour_3"><![CDATA[Robe de Soie, Plate Trempée]]></entry>
     <entry id="vestal_armour_4"><![CDATA["Le Saint Rempart"]]></entry>
-    <entry id="upgrade_tree_name_vestal.armour"><![CDATA[Robe et Plate]]></entry>
+    <entry id="upgrade_tree_name_vestal.armour"><![CDATA[Robe de Plate]]></entry>
     <entry id="" />
     <entry id="hellion_armour_0"><![CDATA[Cuir Usé, Fourrures en lambeaux]]></entry>
     <entry id="hellion_armour_1"><![CDATA[Cuir Recousu & Fourrures]]></entry>
@@ -1332,7 +1332,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="" />
     <entry id="town_activity_description_bar"><![CDATA[Noyer ses soucis.]]></entry>
     <entry id="town_activity_description_gambling"><![CDATA[Le plaisir de gagner.]]></entry>
-    <entry id="town_activity_description_brothel"><![CDATA[Plaisirs de la chair.]]></entry>
+    <entry id="town_activity_description_brothel"><![CDATA[Les plaisirs de la chair.]]></entry>
     <entry id="" />
     <entry id="town_activity_description_meditation"><![CDATA[La paix à travers la méditation.]]></entry>
     <entry id="town_activity_description_prayer"><![CDATA[Prier une puissance supérieure.]]></entry>
@@ -1443,8 +1443,8 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="UPGRADE" />
     <entry id="upgrade_prerequisite_tooltip_title"><![CDATA[Prérequis:]]></entry>
     <entry id="upgrade_prerequisite_requirement_tooltip_body_format"><![CDATA[%s Niveau %d]]></entry>
-    <entry id="upgrade_prerequisite_resolve_level_tooltip_body_format"><![CDATA[Niveau Baroudeur Héros: %d]]></entry>
-    <entry id="action_select_hero"><![CDATA[Faites glisser un héros de la liste ici.]]></entry>
+    <entry id="upgrade_prerequisite_resolve_level_tooltip_body_format"><![CDATA[Niveau Lucidité Héros: %d]]></entry>
+    <entry id="action_select_hero"><![CDATA[Faites glisser un héros ici.]]></entry>
     <entry id="" />
     <entry id="GUILD" />
     <entry id="action_verbose_body_guild_bounty_hunter"><![CDATA[Un bourreau mono-cible et spécialiste du contrôle de foules, brutale et efficace. Pour le Chasseur de Primes, la planification est la clé - marquer les cibles pour augmenter les dommages ou capitaliser les opportunties sur un ennemi assommé. Il peut également faire des ravages sur l'ordre d'un groupe ennemi en utilisant son grappin, grenades incapacitantes et puissant uppercut.]]></entry>
@@ -1499,7 +1499,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="upgrade_tree_name_guild.skill_levels"><![CDATA[Maître Instructeur]]></entry>
     <entry id="" />
     <entry id="upgrade_tree_name_stage_coach.numrecruits"><![CDATA[Réseau Diligence]]></entry>
-    <entry id="upgrade_tree_name_stage_coach.rostersize"><![CDATA[Caserne Héros]]></entry>
+    <entry id="upgrade_tree_name_stage_coach.rostersize"><![CDATA[Caserne de Héros]]></entry>
     <entry id="upgrade_tree_name_tavern.bar"><![CDATA[Bar]]></entry>
     <entry id="upgrade_tree_name_tavern.gambling"><![CDATA[Salle de Jeu]]></entry>
     <entry id="upgrade_tree_name_tavern.brothel"><![CDATA[Bordel]]></entry>
@@ -1583,7 +1583,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="raid_results_quest_inventory_title"><![CDATA[Récompenses de Quêtes]]></entry>
     <entry id="raid_results_party_gold_inventory_title"><![CDATA[Trésors Obtenus]]></entry>
     <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Souvenirs Obtenus]]></entry>
-    <entry id="raid_results_hero_resolve_from_quest"><![CDATA[+%d XP Baroudeur]]></entry>
+    <entry id="raid_results_hero_resolve_from_quest"><![CDATA[+%d XP Lucidité]]></entry>
     <entry id="raid_results_new_quirks_title"><![CDATA[Trait(s) Obtenu(s):]]></entry>
     <entry id="raid_results_progression_heroes"><![CDATA[Suivant]]></entry>
     <entry id="raid_results_progression_return_to_town"><![CDATA[Retour au Hameau]]></entry>
@@ -1620,7 +1620,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="" />
     <entry id="Resolve Bar" />
     <entry id="resolve_bar_tooltip_level_line_format"><![CDATA[Niv: %d]]></entry>
-    <entry id="resolve_bar_tooltip_xp_line_format"><![CDATA[XP Baroudeur: %d/%d]]></entry>
+    <entry id="resolve_bar_tooltip_xp_line_format"><![CDATA[XP Lucidité: %d/%d]]></entry>
     <entry id="resolve_bar_tooltip_affliction_format"><![CDATA[Affliction: %s]]></entry>
     <entry id="resolve_bar_tooltip_additional_stress_format"><![CDATA[Stress: %d/%d]]></entry>
     <entry id="" />
@@ -1885,7 +1885,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="curio_announcement_purge_format"><![CDATA[%s Trait enlevé]]></entry>
     <entry id="" />
     <entry id="CORRUPT SAVE" />
-    <entry id="corrupt_save_confirm_question"><![CDATA[Votre fichier de sauvegarde semble avoir été corrompu. Nous recommandons de sauvegarder manuellement avant de poursuivre:]]></entry>
+    <entry id="corrupt_save_confirm_question"><![CDATA[Votre fichier de sauvegarde semble avoir été corrompu. Nous recommandons de déplacer vos sauvegardes sur le bureau ou ailleurs avant de poursuivre:]]></entry>
     <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Charger à partir d'une sauvegarde de secours.]]></entry>
     <entry id="corrupt_save_confirm_answer_load_corrupted_save"><![CDATA[Tenter de charger. (Non recommandé.)]]></entry>
   </language>
