@@ -5,7 +5,7 @@
     <entry id="str_curio_title_nothing"><![CDATA[Error - no curio found!]]></entry>
     <entry id="str_curio_content_nothing"><![CDATA[Error - no curio found!]]></entry>
     <entry id="" />
-    <entry id="str_curio_title_bandits_trapped_chest"><![CDATA[Coffre piégé de Bandit]]></entry>
+    <entry id="str_curio_title_bandits_trapped_chest"><![CDATA[Coffre Piégé]]></entry>
     <entry id="str_curio_content_bandits_trapped_chest"><![CDATA[Quelque chose semble étrange avec celui-ci...]]></entry>
     <entry id="str_curio_tooltip_investigate_bandits_trapped_chest"><![CDATA[Ouvrir le coffre...]]></entry>
     <entry id="str_curio_bandits_trapped_chest_effect"><![CDATA[Il est piégé !]]></entry>

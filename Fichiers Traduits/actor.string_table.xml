@@ -27,11 +27,11 @@
     <entry id="buff_stat_tooltip_resistance_disease"><![CDATA[%+d%% Résist. Maladie]]></entry>
     <entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[%+d%% Résist. Debuff]]></entry>
     <entry id="buff_stat_tooltip_resistance_death_blow"><![CDATA[%+d%% Résist. Coup Mortel]]></entry>
-    <entry id="buff_stat_tooltip_poison_chance"><![CDATA[%+d%% chance de Compétences Poison]]></entry>
-    <entry id="buff_stat_tooltip_bleed_chance"><![CDATA[%+d%% chance de Compétences Saignement]]></entry>
-    <entry id="buff_stat_tooltip_stun_chance"><![CDATA[%+d%% chance de Compétences Étourdissement]]></entry>
-    <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[%+d%% chance de Compétences Debuff]]></entry>
-    <entry id="buff_stat_tooltip_move_chance"><![CDATA[%+d%% chance de Comptécences Pousser/Tirer]]></entry>
+    <entry id="buff_stat_tooltip_poison_chance"><![CDATA[%+d%% Compétence Poison]]></entry>
+    <entry id="buff_stat_tooltip_bleed_chance"><![CDATA[%+d%% Compétence Saignement]]></entry>
+    <entry id="buff_stat_tooltip_stun_chance"><![CDATA[%+d%% Compétence Étourdissement]]></entry>
+    <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[%+d%% Compétence Debuff]]></entry>
+    <entry id="buff_stat_tooltip_move_chance"><![CDATA[%+d%% Comptécence Pousser/Tirer]]></entry>
     <entry id="buff_stat_tooltip_resolve_check_percent"><![CDATA[%+d%% Resist. Affliction]]></entry>
     <entry id="buff_stat_tooltip_scouting_chance"><![CDATA[%+d%% Chance de Reconnaissance]]></entry>
     <entry id="buff_stat_tooltip_remove_negative_quirk_chance"><![CDATA[%+d%% Chance Suppression Trait Négatif]]></entry>
@@ -49,8 +49,8 @@
     <entry id="buff_rule_tooltip_monsterSize"><![CDATA[(Taille Monstre:%d)%s]]></entry>
     <entry id="buff_rule_tooltip_lightbelow"><![CDATA[(Torche -%d)%s]]></entry>
     <entry id="buff_rule_tooltip_lightabove"><![CDATA[(Torche +%d)%s]]></entry>
-    <entry id="buff_rule_tooltip_hpbelow"><![CDATA[(Santé < %d%%)%s]]></entry>
-    <entry id="buff_rule_tooltip_hpabove"><![CDATA[(Santé > %d%%)%s]]></entry>
+    <entry id="buff_rule_tooltip_hpbelow"><![CDATA[(Santé - %d%%)%s]]></entry>
+    <entry id="buff_rule_tooltip_hpabove"><![CDATA[(Santé + %d%%)%s]]></entry>
     <entry id="buff_rule_tooltip_afflicted"><![CDATA[(Affligé)%s]]></entry>
     <entry id="buff_rule_tooltip_virtued"><![CDATA[(Vertu)%s]]></entry>
     <entry id="buff_rule_tooltip_meleeonly"><![CDATA[(Corps à corps)%s]]></entry>
@@ -98,7 +98,7 @@
     <entry id="buff_rule_data_tooltip_eldritch"><![CDATA[Eldritch]]></entry>
     <entry id="buff_rule_data_tooltip_crypts"><![CDATA[Ruines]]></entry>
     <entry id="buff_rule_data_tooltip_weald"><![CDATA[Weald]]></entry>
-    <entry id="buff_rule_data_tooltip_warrens"><![CDATA[Souterrains]]></entry>
+    <entry id="buff_rule_data_tooltip_warrens"><![CDATA[Cryptes]]></entry>
     <entry id="buff_rule_data_tooltip_cove"><![CDATA[Crique]]></entry>
     <entry id="buff_rule_data_tooltip_bar"><![CDATA[Bar]]></entry>
     <entry id="buff_rule_data_tooltip_gambling"><![CDATA[Jeux d'argent]]></entry>
