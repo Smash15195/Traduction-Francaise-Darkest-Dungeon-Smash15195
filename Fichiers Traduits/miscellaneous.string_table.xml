@@ -604,8 +604,8 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_inventory_description_heirloombust"><![CDATA[Un buste sculpté d'une personne autrefois éminente.]]></entry>
     <entry id="str_inventory_title_heirloomportrait"><![CDATA[Portrait]]></entry>
     <entry id="str_inventory_description_heirloomportrait"><![CDATA[Une peinture à l'huile d'une relation éloignée de la famille.]]></entry>
-    <entry id="str_inventory_title_heirloomdeed"><![CDATA[Acte]]></entry>
-    <entry id="str_inventory_description_heirloomdeed"><![CDATA[Preuves écrites des concessions de terres dans les générations passées.]]></entry>
+    <entry id="str_inventory_title_heirloomdeed"><![CDATA[Titre]]></entry>
+    <entry id="str_inventory_description_heirloomdeed"><![CDATA[Preuve écrite des concessions de terres des générations passées.]]></entry>
     <entry id="str_inventory_title_heirloomcrest"><![CDATA[Écusson]]></entry>
     <entry id="str_inventory_description_heirloomcrest"><![CDATA[Une marque d'honneur acquise par la famille il y a longtemps.]]></entry>
     <entry id="str_inventory_title_quest_itemancestor_portrait"><![CDATA[Portrait d'Ancêtre]]></entry>
@@ -1183,7 +1183,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="" />
     <entry id="camping_respite_title"><![CDATA[REPOS]]></entry>
     <entry id="camping_respite_description"><![CDATA[Utilisez les compétences de Campement pour renforcer la santé physique et mentale de votre troupe.]]></entry>
-    <entry id="camping_respite_rest"><![CDATA[REPOS]]></entry>
+    <entry id="camping_respite_rest"><![CDATA[DORMIR]]></entry>
     <entry id="" />
     <entry id="town_name_quest_select"><![CDATA[Votre Domaine]]></entry>
     <entry id="town_name_provision"><![CDATA[Echoppe]]></entry>
@@ -1586,7 +1586,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="raid_results_hero_resolve_from_quest"><![CDATA[+%d XP Lucidité]]></entry>
     <entry id="raid_results_new_quirks_title"><![CDATA[Trait(s) Obtenu(s):]]></entry>
     <entry id="raid_results_progression_heroes"><![CDATA[Suivant]]></entry>
-    <entry id="raid_results_progression_return_to_town"><![CDATA[Retour au Hameau]]></entry>
+    <entry id="raid_results_progression_return_to_town"><![CDATA[Retour Hameau]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
