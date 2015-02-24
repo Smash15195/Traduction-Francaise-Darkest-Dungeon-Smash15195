@@ -337,7 +337,7 @@
     <entry id="str_curio_travellers_tent_scout"><![CDATA[Une carte de la région se trouve à l'intérieur.]]></entry>
     <entry id="" />
     <entry id="str_curio_title_travellers_tent_tutorial"><![CDATA[Tente de Brigand]]></entry>
-    <entry id="str_curio_content_travellers_tent_tutorial"><![CDATA[Clairement là où les bandit campent.]]></entry>
+    <entry id="str_curio_content_travellers_tent_tutorial"><![CDATA[Des bandits campent ici.]]></entry>
     <entry id="str_curio_tooltip_investigate_travellers_tent_tutorial"><![CDATA[Regarder à l'intérieure...]]></entry>
     <entry id="str_curio_travellers_tent_tutorial_loot"><![CDATA[Les brigands ont laissé des objets de valeur !]]></entry>
     <entry id="" />

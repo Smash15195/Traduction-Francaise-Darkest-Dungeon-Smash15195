@@ -33,7 +33,7 @@
     <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyez et maintenir [H] pour afficher l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
-    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUEZ] sur une compétences et ensuite [CLIQUEZ] sur votre cible. 
+    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUEZ] sur une compétences et ensuite [CLIQUEZ] sur votre cible.
 
 Si vous ne pouvez sélectionner une compétences, c'est parce que votre héros ne se trouve pas à la bonne position ou qu'il n'a pas de cibles valides. [Survolez] la compétence pour connaitre ses prérequis.]]></entry>
     <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous êtes dans une salle.
@@ -50,22 +50,22 @@ Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour
 
 Si vous le désirez, vous pouvez utiliser un antivenin dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros infecté.]]></entry>
     <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleure sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches !
+    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches 
 
 Pour votre première petite quête, prenez au moins 8 vivres 4 torches.]]></entry>
     <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de combat. Cliquez sur les compétences et regardez comment ce qu'il se produit sur l'écran ci-dessus !]]></entry>
     <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir trois compétences de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes en nécessitant.
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes en nécessitant
 
 Le Feu de Camp donne au héros une chance de récupérer pendant un donjon. Lorsque vous êtes blessé ou stressé et que vous voulez faire un campement, [CLIC-DROIT] sur le Bois dans votre inventaire.]]></entry>
     <entry id="tutorial_popup_camping_description"><![CDATA[Un campement se décompose en deux parties: la phase de Repas et de la phase de Compétence.
 
-Pendant la phase de Repas, vous choisissez les rations qui déterminent la récupération de vie. Assurez-vous d'avoir assez de nourriture !
+Pendant la phase de Repas, vous choisissez les rations qui déterminent la récupération de vie. Assurez-vous d'avoir assez de nourriture 
 
 La phase de Compétence vous permet de dépenser des Points de Repos sur les différentes compétences de campement.]]></entry>
     <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Héros soulagent leur stress en prenant part à des activités à la Taverne et l'Abbaye. Chaque activité a des effets secondaires.
 
-Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Traits !
+Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Traits 
 
 Assigner un héros à une activité [LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la semaine suivante. Vous devrez prendre un héros différent avec vous pour votre prochaine quête.]]></entry>
     <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne peuvent plus obtenir de stress, ils deviennent affligés. Cela se manifeste par différents comportements et des changements de stats. Les afflictions restent jusqu'à ce que vous les guérissiez avec un traitement en ville, sauf si vous arrivez à réduire le stress à zéro pendant la quête.]]></entry>
@@ -74,29 +74,29 @@ Assigner un héros à une activité [LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la 
 Cet haut état performance durera jusqu'à un campement ou au retour en ville et donnera des bonus de stats et d'autres avantages.]]></entry>
     <entry id="tutorial_popup_death_door_description"><![CDATA[Quand un héros atteint 0 PV, il est aux "Portes de la Mort".
 
-Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront une chance de le tuer.
+Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront une chance de le tuer
 
 Soignez-le pour le faire sortir des Portes de la Mort !]]></entry>
-    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Voilà le premier héros a succomber pour vous. Vous avez la possibilité de vous replier du combat et abandoner cette quête pour sauver les autres ou continuer.
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Voilà le premier héros a succomber pour vous. Vous avez la possibilité de vous replier du combat et abandoner cette quête pour sauver les autres ou continuer
 
 Ce choix est vôtre. [Si c'est le tutoriel, le repli n'est pas possible.]]]></entry>
-    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les pièges repérés seront visibles sur le terrain à votre approche. Sélectionnez un héros, puis [CLIQUEZ] sur le piège pour tenter de le désarmer.
+    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les pièges repérés seront visibles sur le terrain à votre approche. Sélectionnez un héros, puis [CLIQUEZ] sur le piège pour tenter de le désarmer
 
 Certains héros sont meilleurs que d'autres pour le désarmement.]]></entry>
     <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour ouvrir une porte, [CLIQUEZ] ou appuyez sur [W] quand vous êtes en face.]]></entry>
     <entry id="tutorial_popup_stress_description"><![CDATA[De nombreuses actions et expériences sont sources de stress. Les dommages du stress apparaissent au-dessus de la tête des héros en caractères noirs. Le stress peut aussi être guéri et apparaît en blanc.]]></entry>
     <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros a la possibilité d'équiper deux éléments appelé "breloques." Il suffit de glisser la breloque de l'inventaire vers l'emplacement du héros sélectionné. Les Breloques ont généralement un malus et un bonus. Certains sont également spécifique à une classe.]]></entry>
-    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différentes groupes pour voir ceux qui fonctionnent !
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différentes groupes pour voir ceux qui fonctionnent 
 
 Cependant, il est recommandé d'emporter une Vestale ou un Occultiste pour les soins.]]></entry>
     <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des XP Lucidité pour chaque quête réussie. Les XP Lucidité déterminent le Niveau de lucidité du héros.
 
-Le Niveau Lucidité représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons.
+Le Niveau Lucidité représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons
 
 Un héros au faible Niveau Lucidité qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros pour remplir votre groupe de quatre. [Glissez et Déposez-les] dans votre liste.
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros pour remplir votre groupe de quatre. [Glissez-les] dans votre liste.
 
-Pendant que vous êtes ici, investisez une partie votre pécule de départ sur la modernisation de la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
+Pendant que vous êtes ici, investissez une partie votre pécule de départ sur la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
 
 Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mise à niveau.]]></entry>
     <entry id="" />
