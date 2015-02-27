@@ -1,0 +1,49 @@
+resistances: .stun 20% .poison 50% .bleed 30% .disease 30% .move 20% .debuff 30% .death_blow 67% .trap 40%
+weapon: .name "grave_robber_weapon_0" .atk 0% .dmg 4 7 .crit 5% .spd 6
+weapon: .name "grave_robber_weapon_1" .atk 0% .dmg 5 8 .crit 5.5% .spd 6 .upgradeRequirementCode 0
+weapon: .name "grave_robber_weapon_2" .atk 0% .dmg 6 9 .crit 6% .spd 7 .upgradeRequirementCode 1
+weapon: .name "grave_robber_weapon_3" .atk 0% .dmg 7 10 .crit 6.5% .spd 7 .upgradeRequirementCode 2
+weapon: .name "grave_robber_weapon_4" .atk 0% .dmg 8 11 .crit 7% .spd 8 .upgradeRequirementCode 3
+armour: .name "grave_robber_armour_0" .def 10% .prot 0 .hp 20 .spd 0
+armour: .name "grave_robber_armour_1" .def 15% .prot 0 .hp 24 .spd 0 .upgradeRequirementCode 0
+armour: .name "grave_robber_armour_2" .def 20% .prot 0 .hp 28 .spd 0 .upgradeRequirementCode 1
+armour: .name "grave_robber_armour_3" .def 25% .prot 0 .hp 32 .spd 0 .upgradeRequirementCode 2
+armour: .name "grave_robber_armour_4" .def 30% .prot 0 .hp 36 .spd 0 .upgradeRequirementCode 3
+combat_skill: .id "pick" .level 0 .type "CaC" .atk 90% .dmg 0% .crit 5% .launch 321 .target 123 
+combat_skill: .id "pick" .level 1 .type "CaC" .atk 95% .dmg 0% .crit 6% .launch 321 .target 123 
+combat_skill: .id "pick" .level 2 .type "CaC" .atk 100% .dmg 0% .crit 7% .launch 321 .target 123 
+combat_skill: .id "pick" .level 3 .type "CaC" .atk 105% .dmg 0% .crit 8% .launch 321 .target 123 
+combat_skill: .id "pick" .level 4 .type "CaC" .atk 110% .dmg 0% .crit 9% .launch 321 .target 123 
+combat_skill: .id "lunge" .level 0 .type "CaC" .atk 90% .dmg 40% .crit 10% .move 0 2 .launch 43 .target 123 
+combat_skill: .id "lunge" .level 1 .type "CaC" .atk 95% .dmg 40% .crit 11% .move 0 2 .launch 43 .target 123 
+combat_skill: .id "lunge" .level 2 .type "CaC" .atk 100% .dmg 40% .crit 12% .move 0 2 .launch 43 .target 123 
+combat_skill: .id "lunge" .level 3 .type "CaC" .atk 105% .dmg 40% .crit 13% .move 0 2 .launch 43 .target 123 
+combat_skill: .id "lunge" .level 4 .type "CaC" .atk 110% .dmg 40% .crit 14% .move 0 2 .launch 43 .target 123 
+combat_skill: .id "flashing_daggers" .level 0 .type "A Distance" .atk 90% .dmg -40% .crit 5% .launch 432 .target ~23  .generation_guaranteed true
+combat_skill: .id "flashing_daggers" .level 1 .type "A Distance" .atk 95% .dmg -40% .crit 6% .launch 432 .target ~23 
+combat_skill: .id "flashing_daggers" .level 2 .type "A Distance" .atk 100% .dmg -40% .crit 7% .launch 432 .target ~23 
+combat_skill: .id "flashing_daggers" .level 3 .type "A Distance" .atk 105% .dmg -40% .crit 8% .launch 432 .target ~23 
+combat_skill: .id "flashing_daggers" .level 4 .type "A Distance" .atk 110% .dmg -40% .crit 9% .launch 432 .target ~23 
+combat_skill: .id "shadow_fade" .level 0 .type "CaC" .atk 90% .dmg -100% .crit 0% .move 1 0 .launch 21 .target 12  .effect "Stun 1" "Dodge 1"
+combat_skill: .id "shadow_fade" .level 1 .type "CaC" .atk 95% .dmg -100% .crit 1% .move 1 0 .launch 21 .target 12  .effect "Stun 2" "Dodge 2"
+combat_skill: .id "shadow_fade" .level 2 .type "CaC" .atk 100% .dmg -100% .crit 2% .move 1 0 .launch 21 .target 12  .effect "Stun 3" "Dodge 3"
+combat_skill: .id "shadow_fade" .level 3 .type "CaC" .atk 105% .dmg -100% .crit 3% .move 1 0 .launch 21 .target 12  .effect "Stun 4" "Dodge 4"
+combat_skill: .id "shadow_fade" .level 4 .type "CaC" .atk 110% .dmg -100% .crit 4% .move 1 0 .launch 21 .target 12  .effect "Stun 5" "Dodge 5"
+combat_move_skill: .id "move" .level 0 .type "Déplacer" .move 2 2 .launch 4321
+combat_skill: .id "thrown_dagger" .level 0 .type "A Distance" .atk 80% .dmg 0% .crit 10% .launch 432 .target 234  .effect "GR Acc Buff 1" .generation_guaranteed true
+combat_skill: .id "thrown_dagger" .level 1 .type "A Distance" .atk 85% .dmg 0% .crit 11% .launch 432 .target 234  .effect "GR Acc Buff 2"
+combat_skill: .id "thrown_dagger" .level 2 .type "A Distance" .atk 90% .dmg 0% .crit 12% .launch 432 .target 234  .effect "GR Acc Buff 3"
+combat_skill: .id "thrown_dagger" .level 3 .type "A Distance" .atk 95% .dmg 0% .crit 13% .launch 432 .target 234  .effect "GR Acc Buff 4"
+combat_skill: .id "thrown_dagger" .level 4 .type "A Distance" .atk 100% .dmg 0% .crit 14% .launch 432 .target 234  .effect "GR Acc Buff 5"
+combat_skill: .id "poison_dart" .level 0 .type "A Distance" .atk 80% .dmg -50% .crit 5% .launch 43 .target 234  .effect "Blight 1" "GR Acc Buff 1"
+combat_skill: .id "poison_dart" .level 1 .type "A Distance" .atk 85% .dmg -50% .crit 6% .launch 43 .target 234  .effect "Blight 1" "GR Acc Buff 2"
+combat_skill: .id "poison_dart" .level 2 .type "A Distance" .atk 90% .dmg -50% .crit 7% .launch 43 .target 234  .effect "Blight 2" "GR Acc Buff 3"
+combat_skill: .id "poison_dart" .level 3 .type "A Distance" .atk 95% .dmg -50% .crit 8% .launch 43 .target 234  .effect "Blight 2" "GR Acc Buff 4"
+combat_skill: .id "poison_dart" .level 4 .type "A Distance" .atk 100% .dmg -50% .crit 9% .launch 43 .target 234  .effect "Blight 3" "GR Acc Buff 5"
+combat_skill: .id "toxin_trickery" .level 0 .type "CaC" .atk 0% .dmg 0% .crit 0% .launch 4321 .target   .effect "Shadow Blood 1"
+combat_skill: .id "toxin_trickery" .level 1 .type "CaC" .atk 0% .dmg 0% .crit 0% .launch 4321 .target   .effect "Shadow Blood 2"
+combat_skill: .id "toxin_trickery" .level 2 .type "CaC" .atk 0% .dmg 0% .crit 0% .launch 4321 .target   .effect "Shadow Blood 3"
+combat_skill: .id "toxin_trickery" .level 3 .type "CaC" .atk 0% .dmg 0% .crit 0% .launch 4321 .target   .effect "Shadow Blood 4"
+combat_skill: .id "toxin_trickery" .level 4 .type "CaC" .atk 0% .dmg 0% .crit 0% .launch 4321 .target   .effect "Shadow Blood 5"
+tag: .id "light"
+id_index: .index 6
