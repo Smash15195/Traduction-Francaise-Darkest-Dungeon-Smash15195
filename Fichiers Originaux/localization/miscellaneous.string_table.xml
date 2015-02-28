@@ -817,7 +817,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="combat_skill_name_hellion_iron_swan"><![CDATA[Iron Swan]]></entry>
     <entry id="combat_skill_name_hellion_barbaric_yawp"><![CDATA[Barbaric YAWP!]]></entry>
     <entry id="combat_skill_name_hellion_if_it_bleeds"><![CDATA[If It Bleeds]]></entry>
-    <entry id="combat_skill_name_hellion_breakthru"><![CDATA[Breakthru]]></entry>
+    <entry id="combat_skill_name_hellion_breakthru"><![CDATA[Breakthrough]]></entry>
     <entry id="combat_skill_name_hellion_adrenaline_rush"><![CDATA[Adrenaline Rush]]></entry>
     <entry id="combat_skill_name_hellion_bleed_out"><![CDATA[Bleed Out]]></entry>
     <entry id="combat_skill_name_hellion_move"><![CDATA[Move]]></entry>
@@ -825,7 +825,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="upgrade_tree_name_hellion.iron_swan"><![CDATA[Iron Swan]]></entry>
     <entry id="upgrade_tree_name_hellion.barbaric_yawp"><![CDATA[Barbaric YAWP!]]></entry>
     <entry id="upgrade_tree_name_hellion.if_it_bleeds"><![CDATA[If It Bleeds]]></entry>
-    <entry id="upgrade_tree_name_hellion.breakthru"><![CDATA[Breakthru]]></entry>
+    <entry id="upgrade_tree_name_hellion.breakthru"><![CDATA[Breakthrough]]></entry>
     <entry id="upgrade_tree_name_hellion.adrenaline_rush"><![CDATA[Adrenaline Rush]]></entry>
     <entry id="upgrade_tree_name_hellion.bleed_out"><![CDATA[Bleed Out]]></entry>
     <entry id="" />
@@ -1212,7 +1212,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="town_quest_goal_start_tutorial_room"><![CDATA[Find your way to the Hamlet...]]></entry>
     <entry id="" />
     <entry id="town_quest_name_kill_boss+2+crypts+kill_necromancer"><![CDATA[Kill the Necromancer]]></entry>
-    <entry id="town_quest_description_kill_boss+2+crypts+kill_necromancer"><![CDATA[A Necromancer is performing unspeakable rituals in the shattered halls of your ancestral home… it must be stopped.]]></entry>
+    <entry id="town_quest_description_kill_boss+2+crypts+kill_necromancer"><![CDATA[A Necromancer is performing unspeakable rituals in the shattered halls of your ancestral home. It must be stopped.]]></entry>
     <entry id="town_quest_name_kill_boss+3+crypts+kill_necromancer"><![CDATA[Hunt the Necromancer]]></entry>
     <entry id="town_quest_description_kill_boss+3+crypts+kill_necromancer"><![CDATA[Deep within the shattered vaults of your ancestral home, a Necromancer is performing unspeakable rituals… even raising the dead! It must be stopped.]]></entry>
     <entry id="" />
@@ -1464,7 +1464,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="action_verbose_body_blacksmith_grave_robber"><![CDATA[A light coat is all the Graverobber will wear, she favours mobility and dexterity over protection.  Concealed within her garment are razor sharp throwing daggers, and buckled to her back - a pickaxe!]]></entry>
     <entry id="action_verbose_body_blacksmith_hellion"><![CDATA[Crude leather and furs may offer little protection, but the Hellion lives to bear the scars of battle proudly.  Her priority is wreacking havoc with her massive glaive and bathing in the blood of her adversaries.]]></entry>
     <entry id="action_verbose_body_blacksmith_highwayman"><![CDATA[The Highwayman's reinforced overcoat will dull a knife-strike, but he relies more on evasion than damage mitigation.  His flintlock and short sword afford him great versatility; he is never out of position, or caught unawares.]]></entry>
-    <entry id="action_verbose_body_blacksmith_occultist"><![CDATA[Scholarly robes, better suited to the library than the harsh realities of adventuring, are all the Occultist has brought with him.  His rituals and chants require deft movements of hand and finger, so better he be unencumbered that he may channel the power of his morbid fetish: the polished skull of dead man.]]></entry>
+    <entry id="action_verbose_body_blacksmith_occultist"><![CDATA[Scholarly robes, better suited to the library than the harsh realities of adventuring, are all the Occultist has brought with him.  His rituals and chants require deft movements of hand and finger, so better he be unencumbered that he may channel the power of his morbid fetish: the polished skull of a dead man.]]></entry>
     <entry id="action_verbose_body_blacksmith_plague_doctor"><![CDATA[The Plague Doctor wears only light cloth - intent on remaining as far from melee combat as possible.  From a distance she lobs toxic sachets that can blind, disorient, and eat away at her foes.]]></entry>
     <entry id="action_verbose_body_blacksmith_vestal"><![CDATA[Blessed plate mail encases the Vestal as she delivers terrible violence and healing comfort in equal measure.  A mace in one hand, and holy book in the other - a study in contrasts, and all the more effective for it!]]></entry>
     <entry id="action_verbose_body_blacksmith_jester"><![CDATA[Clad only in mildewed cloth, the Jester makes a mockery of battle.  Only a fool would underestimate the viscious bloodletting power of his sharpened sickle, or the discordant throng of his lute.]]></entry>
@@ -1474,9 +1474,9 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="action_verbose_body_camping_trainer_bounty_hunter"><![CDATA[At camp, like in combat, the Bounty Hunter is all about preparedness.  He can instruct another party member on the nuances of combat, or he can take time to study his notes, bettering his odds against 'big game'.  Scouting ahead can increase a party's knowledge of lurking threats, while tracking increases the party's chance of maintaining the element of surprise.]]></entry>
     <entry id="action_verbose_body_camping_trainer_crusader"><![CDATA[Righteousness and conviction inspire compelling speeches around the campfire!  In the face of mounting stress, the Crusader is a leader, standing tall and refusing to break.  His unshakable belief can assuage companions' fears, reassuring them that despite the hardships they will most certainly endure, all will be well in the end.]]></entry>
     <entry id="action_verbose_body_camping_trainer_grave_robber"><![CDATA[The Grave Robber is restless, and prefers to wander while the party camps, always on the lookout for trinkets and baubles.  She may reluctantly confess to pilfering an item in the Hamlet prior to departure, or entertain those with a similarly morbid sense of humour with a biting and ironic wit.]]></entry>
-    <entry id="action_verbose_body_camping_trainer_hellion"><![CDATA[At camp, the Hellion mutters blasphemies and sharpens her blade, eager to put it to use against the enemy hordes.  Raucus and untamed, the she is a study in contrasts - sitting stoically preparing for battle, or peels with the unhinged laughter of the damned.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_hellion"><![CDATA[At camp, the Hellion mutters blasphemies and sharpens her blade, eager to put it to use against the enemy hordes.  Raucous and untamed, she is a study in contrasts - sitting stoically preparing for battle, or pealing with the unhinged laughter of the damned.]]></entry>
     <entry id="action_verbose_body_camping_trainer_highwayman"><![CDATA[The Highwayman relishes cynical preparedness and off-color jokes around the campfire.  A life spent running and hiding has taught him the tenuous benefit of perimeter alarms, and late-night investigations into the encroaching shadows.]]></entry>
-    <entry id="action_verbose_body_camping_trainer_occultist"><![CDATA[At rest, the Occultist will attempt communion with the dark and impossible forces of the void in an effort to strengthen himself and the party.  Such efforts are frequently taxing, however, exacting a toll is darkness and stress.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_occultist"><![CDATA[At rest, the Occultist will attempt communion with the dark and impossible forces of the void in an effort to strengthen himself and the party. Such efforts are frequently taxing, however, exacting a toll in darkness and stress.]]></entry>
     <entry id="action_verbose_body_camping_trainer_plague_doctor"><![CDATA[The Plague Doctor makes use of experimental remedies and risky healing practices to cure her companions' ailments, and restore their vigor.  Eager to prove the effectiveness of her latest untested concotion, she will inject herself - blindly faithful in its beneficial results.]]></entry>
     <entry id="action_verbose_body_camping_trainer_vestal"><![CDATA[Prayers, chants, and blessings bring peace and solace to the Vestal and her party.  She can improve a companion's combat prowess, or instead focus on reducing the group's stress, and making the campsite a safe pace for a good night's rest.]]></entry>
     <entry id="action_verbose_body_camping_trainer_leper"><![CDATA[A loner and an outcast, the Leper will tend to shun the others in his group, preferring instead to mend his own dying body at the expense of the horror such an undertaking brings forth.  In order to reduce his stress, the Leper can remove his mask, but such a thing is sure to unsettle his companions.]]></entry>

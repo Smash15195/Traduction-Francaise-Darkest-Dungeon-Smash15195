@@ -2540,7 +2540,7 @@
     <entry id="bounty_hunter+str_comment_ally_hit_paranoid"><![CDATA[Someone fouled up!]]></entry>
     <entry id="crusader+str_comment_ally_hit_paranoid"><![CDATA[The Light forsakes us? But why??]]></entry>
     <entry id="crusader+str_comment_ally_hit_paranoid"><![CDATA[The final judgment is soon upon us, I fear...]]></entry>
-    <entry id="grave_robber+str_comment_ally_hit_paranoid"><![CDATA[It is as thought they know our every move...]]></entry>
+    <entry id="grave_robber+str_comment_ally_hit_paranoid"><![CDATA[It is as though they know our every move...]]></entry>
     <entry id="grave_robber+str_comment_ally_hit_paranoid"><![CDATA[I do not like this! They are too powerful!]]></entry>
     <entry id="hellion+str_comment_ally_hit_paranoid"><![CDATA[They smell our fear...]]></entry>
     <entry id="hellion+str_comment_ally_hit_paranoid"><![CDATA[They have hunted us! They know our weaknesses!]]></entry>
@@ -3359,7 +3359,7 @@
     <entry id="trigger_curio_quirk_egomania"><![CDATA[Look! I cut quite the heroic figure, do I not?]]></entry>
     <entry id="trigger_curio_quirk_hylomania"><![CDATA[I came from nothing, but I'll not end with nothing!]]></entry>
     <entry id="trigger_curio_quirk_sitiomania"><![CDATA[Let my by... I am famished!]]></entry>
-    <entry id="trigger_curio_quirk_plutomania"><![CDATA[Is that the sparkle of coin, I see?!]]></entry>
+    <entry id="trigger_curio_quirk_plutomania"><![CDATA[Is that the sparkle of coin I see?]]></entry>
     <entry id="trigger_curio_quirk_necromania"><![CDATA[Let me see! I must see!]]></entry>
     <entry id="trigger_curio_quirk_dipsomania"><![CDATA[By gods light and dark, I hope this liquid has some kick...]]></entry>
     <entry id="trigger_curio_quirk_paranormania"><![CDATA[Let me investigate. I sense the work of spirits!]]></entry>
@@ -3817,7 +3817,7 @@
     <entry id="" />
     <entry id="str_meditation_committed"><![CDATA[Breathe in. Breathe out. This too shall pass.]]></entry>
     <entry id="str_meditation_committed"><![CDATA[I will touch the thoughts lightly, and let them go.]]></entry>
-    <entry id="str_meditation_committed"><![CDATA[There is nothing outside of myself, and nothign within.]]></entry>
+    <entry id="str_meditation_committed"><![CDATA[There is nothing outside of myself, and nothing within.]]></entry>
     <entry id="str_meditation_committed"><![CDATA[Death, glory, pain, and pleasure. We are all one.]]></entry>
     <entry id="str_meditation_committed"><![CDATA[Tranquility...at last.]]></entry>
     <entry id="" />
