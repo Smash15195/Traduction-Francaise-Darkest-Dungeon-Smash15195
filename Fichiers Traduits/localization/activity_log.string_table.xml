@@ -104,7 +104,7 @@
     <entry id="str_caretaker_goal_plot_kill_hag_1"><![CDATA[Vaincre la Sorcière Rabougri]]></entry>
     <entry id="str_caretaker_goal_plot_kill_hag_2"><![CDATA[Vaincre la Sorcière]]></entry>
     <entry id="str_caretaker_goal_plot_kill_hag_3"><![CDATA[Vaincre la Sorcière Acariâtre]]></entry>
-    <entry id="str_caretaker_goal_hero_resolve"><![CDATA[Atteindre %s pour obtenir Niveau 6]]></entry>
+    <entry id="str_caretaker_goal_hero_resolve"><![CDATA[Atteindre le Niveau 6 avec un(e) %s ]]></entry>
     <entry id="str_caretaker_goals_heading"><![CDATA[Objectifs du Gardien]]></entry>
     <entry id="str_caretaker_goals_quest_goals_heading"><![CDATA[Objectifs de Quête]]></entry>
     <entry id="str_caretaker_goals_roster_goals_heading"><![CDATA[Objectifs d'Équipe]]></entry>
@@ -187,7 +187,7 @@
     <entry id="str_brothel_add_buff_townBrothelSPDDebuff_story_desc"><![CDATA[épuisé]]></entry>
     <entry id="str_brothel_add_buff_townBrothelSPDDebuff_story_post"><![CDATA[après ses prouesses dans le Bordel.]]></entry>
     <entry id="" />
-    <entry id="str_flagellation_add_buff_townFlagellationDMGLowBuff_story_pre"><![CDATA[se sent fort(e) et puissant(e)]]></entry>
+    <entry id="str_flagellation_add_buff_townFlagellationDMGLowBuff_story_pre"><![CDATA[se sent]]></entry>
     <entry id="str_flagellation_add_buff_townFlagellationDMGLowBuff_story_desc"><![CDATA[fort(e) et puissant(e)]]></entry>
     <entry id="str_flagellation_add_buff_townFlagellationDMGLowBuff_story_post"><![CDATA[après les châtiments corporel.]]></entry>
     <entry id="" />
