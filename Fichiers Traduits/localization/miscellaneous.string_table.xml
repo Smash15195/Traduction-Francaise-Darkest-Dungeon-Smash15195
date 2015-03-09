@@ -470,7 +470,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_inventory_title_trinketcalming_crystal"><![CDATA[Cristal Apaisant]]></entry>
     <entry id="str_inventory_title_trinketworrystone"><![CDATA[Fluorite]]></entry>
     <entry id="str_inventory_title_trinketblood_charm"><![CDATA[Charme de Sang]]></entry>
-    <entry id="str_inventory_title_trinketbloodthirst_ring"><![CDATA[Anneau Sanguinaire]]></entry>
+    <entry id="str_inventory_title_trinketbloodthirst_ring"><![CDATA[Anneau des Nibelungen]]></entry>
     <entry id="str_inventory_title_trinketchirurgeons_charm"><![CDATA[Charme Opératoire]]></entry>
     <entry id="str_inventory_title_trinketcrest_of_the_1100"><![CDATA[Crête du 1100]]></entry>
     <entry id="str_inventory_title_trinkethealth_stone"><![CDATA[Pierre de Santé]]></entry>
@@ -491,10 +491,10 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_inventory_title_trinketbleed_charm"><![CDATA[Charme de Saignement]]></entry>
     <entry id="str_inventory_title_trinketblight_charm"><![CDATA[Charme de Poison]]></entry>
     <entry id="str_inventory_title_trinketdebuff_charm"><![CDATA[Charme de Debuff]]></entry>
-    <entry id="str_inventory_title_trinketstun_amulet"><![CDATA[Charme d'Etourdissement]]></entry>
+    <entry id="str_inventory_title_trinketstun_amulet"><![CDATA[Collier Brisingar]]></entry>
     <entry id="str_inventory_title_trinketmove_amulet"><![CDATA[Amulette de Mouvement]]></entry>
-    <entry id="str_inventory_title_trinketbleed_amulet"><![CDATA[Amulette de Saignement]]></entry>
-    <entry id="str_inventory_title_trinketblight_amulet"><![CDATA[Amulette Infectieuse]]></entry>
+    <entry id="str_inventory_title_trinketbleed_amulet"><![CDATA[Collier d'Harmonie]]></entry>
+    <entry id="str_inventory_title_trinketblight_amulet"><![CDATA[Collier de Shiva]]></entry>
     <entry id="str_inventory_title_trinketdebuff_amulet"><![CDATA[Amulette de Debuff]]></entry>
     <entry id="str_inventory_title_trinketsolar_bracer"><![CDATA[Bracelet Solaire]]></entry>
     <entry id="str_inventory_title_trinketsolar_crown"><![CDATA[Couronne Solaire]]></entry>
@@ -509,7 +509,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_inventory_title_trinketberserk_charm"><![CDATA[Charme Berserk]]></entry>
     <entry id="str_inventory_title_trinketbook_of_sanity"><![CDATA[Livre de Santé Mentale]]></entry>
     <entry id="str_inventory_title_trinketbrawlers_gloves"><![CDATA[Gants de Bagarreur]]></entry>
-    <entry id="str_inventory_title_trinketfocus_ring"><![CDATA[Anneau de Concentration]]></entry>
+    <entry id="str_inventory_title_trinketfocus_ring"><![CDATA[Anneau de Gygès]]></entry>
     <entry id="str_inventory_title_trinketswift_cloak"><![CDATA[Cape de Rapidité]]></entry>
     <entry id="str_inventory_title_trinketbook_of_constitution"><![CDATA[Livre de Constitution]]></entry>
     <entry id="str_inventory_title_trinketheros_ring"><![CDATA[Anneau du Héros]]></entry>
