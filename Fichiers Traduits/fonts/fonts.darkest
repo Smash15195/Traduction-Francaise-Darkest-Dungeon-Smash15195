@@ -27,6 +27,7 @@ font:   .id "help_text"                                     .file "fonts/font_sm
 
 font:	.id "town_quest_select_dungeon_name"				.file "fonts/font_smash15195-m.fnt"
 font:	.id "town_quest_select_dungeon_level"				.file "fonts/font_smash15195_m_0.fnt"
+font:	.id "town_quest_select_party_name"					.file "fonts/font_smash15195_m_0.fnt"
 
 font:	.id "town_quest_name"								.file "fonts/font_smash15195-m.fnt"
 font:	.id "town_quest_description"						.file "fonts/font_smash15195_0.fnt"

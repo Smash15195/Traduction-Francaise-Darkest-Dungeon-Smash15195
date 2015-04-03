@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+    <entry id="party_name_test"><![CDATA[The Testers]]></entry>
+  </language>
+  <language id="french" />
+  <language id="italian" />
+  <language id="german" />
+  <language id="spanish" />
+</root>
+
