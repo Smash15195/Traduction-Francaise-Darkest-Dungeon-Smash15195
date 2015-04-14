@@ -2,6 +2,20 @@
 <root>
   <language id="english">
     <entry id="party_name_test"><![CDATA[The Testers]]></entry>
+    <entry id="party_name_0"><![CDATA[The Usual Suspects]]></entry>
+    <entry id="party_name_1"><![CDATA[The Privateers]]></entry>
+    <entry id="party_name_2"><![CDATA[The New Wave]]></entry>
+    <entry id="party_name_3"><![CDATA[Make it Bleed]]></entry>
+    <entry id="party_name_4"><![CDATA[Women Scorned]]></entry>
+    <entry id="party_name_5"><![CDATA[World of Tanks]]></entry>
+    <entry id="party_name_6"><![CDATA[Bulletproof Vestal]]></entry>
+    <entry id="party_name_7"><![CDATA[Masked Magic]]></entry>
+    <entry id="party_name_8"><![CDATA[Mission Impossible]]></entry>
+    <entry id="party_name_9"><![CDATA[Stunrise Stunset]]></entry>
+    <entry id="party_name_10"><![CDATA[Warrens Buff-it]]></entry>
+    <entry id="party_name_11"><![CDATA[Of Blight And Blood]]></entry>
+    <entry id="party_name_12"><![CDATA[Leper Colony]]></entry>
+    <entry id="party_name_13"><![CDATA[Critical Condition]]></entry>
   </language>
   <language id="french" />
   <language id="italian" />

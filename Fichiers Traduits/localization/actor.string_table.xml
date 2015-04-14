@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="english">
-    <entry id="TRAITS" />
     <entry id="buff_stat_tooltip_combat_stat_add_damage_low"><![CDATA[%+d DGT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_defense_rating"><![CDATA[%+d ESQUIVE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_protection_rating"><![CDATA[%+d%% PROT]]></entry>
@@ -18,6 +17,7 @@
     <entry id="buff_stat_tooltip_combat_stat_multiply_crit_chance"><![CDATA[%+d%% CRT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_max_hp"><![CDATA[%+d%% PV MAX]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[%+d%% Soin Reçu]]></entry>
+    <entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[%+d%% Soin Reçu]]></entry>	
     <entry id="buff_stat_tooltip_stress_dmg_percent"><![CDATA[%+d%% Rst. Stress]]></entry>
     <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[%+d%% Soin Stress]]></entry>
     <entry id="buff_stat_tooltip_resistance_stun"><![CDATA[%+d%% Rst. Étourdissement]]></entry>
@@ -41,10 +41,6 @@
     <entry id="buff_stat_tooltip_resistance_trap"><![CDATA[%+d%% Éviter/Désarmer Piège]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_weapon"><![CDATA[%-d%% Coût Amélioration Arme]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_armour"><![CDATA[%-d%% Coût Amélioration Armure]]></entry>
-    <entry id="" />
-    <entry id="" />
-    <entry id="" />
-    <entry id="" />
     <entry id="buff_rule_tooltip_always"><![CDATA[%s]]></entry>
     <entry id="buff_rule_tooltip_monsterSize"><![CDATA[(Taille Monstre:%d) %s]]></entry>
     <entry id="buff_rule_tooltip_lightbelow"><![CDATA[(Torche -%d) %s]]></entry>
@@ -67,8 +63,6 @@
     <entry id="buff_rule_tooltip_in_activity"><![CDATA[(En activité: %s) %s]]></entry>
     <entry id="buff_rule_tooltip_in_corridor"><![CDATA[(Dans Couloir) %s]]></entry>
     <entry id="buff_rule_tooltip_stress_below"><![CDATA[(Stress en-dessous: %d) %s]]></entry>
-    <entry id="" />
-    <entry id="" />
     <entry id="buff_rule_tooltip_always_false"><![CDATA[PAS %s]]></entry>
     <entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[(Taille Monstre Pas:%d) %s]]></entry>
     <entry id="buff_rule_tooltip_lightbelow_false"><![CDATA[(Torche pas -%d) %s]]></entry>
@@ -85,9 +79,6 @@
     <entry id="buff_rule_tooltip_at_deaths_door_false"><![CDATA[(Pas aux portes de la mort) %s]]></entry>
     <entry id="buff_rule_tooltip_in_rank_false"><![CDATA[(Pas au Rang:%d) %s]]></entry>
     <entry id="buff_rule_tooltip_in_camp_false"><![CDATA[(Pas dans Campement:) %s]]></entry>
-    <entry id="" />
-    <entry id="" />
-    <entry id="" />
     <entry id="buff_rule_data_tooltip_stunned"><![CDATA[Étourdi]]></entry>
     <entry id="buff_rule_data_tooltip_tagged"><![CDATA[Marqué]]></entry>
     <entry id="buff_rule_data_tooltip_poisoned"><![CDATA[Empoisonné]]></entry>
@@ -106,9 +97,6 @@
     <entry id="buff_rule_data_tooltip_meditation"><![CDATA[Méditation]]></entry>
     <entry id="buff_rule_data_tooltip_prayer"><![CDATA[Prière]]></entry>
     <entry id="buff_rule_data_tooltip_flagellation"><![CDATA[Flagellation]]></entry>
-    <entry id="" />
-    <entry id="" />
-    <entry id="" />
     <entry id="buff_bsrc_skill"><![CDATA[Autre Compétence]]></entry>
     <entry id="buff_bsrc_instantSkill"><![CDATA[Compétence Choisie]]></entry>
     <entry id="buff_bsrc_affliction"><![CDATA[Affliction]]></entry>
@@ -120,16 +108,15 @@
     <entry id="buff_bsrc_town"><![CDATA[Ville]]></entry>
     <entry id="buff_bsrc_curio"><![CDATA[Curio]]></entry>
     <entry id="buff_bsrc_stun"><![CDATA[Étourdi]]></entry>
-    <entry id="" />
-    <entry id="" />
-    <entry id="EFFECTS" />
     <entry id="effect_tooltip_self"><![CDATA[Sur soi:]]></entry>
     <entry id="effect_tooltip_target"><![CDATA[Cible:]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[Groupe:]]></entry>
     <entry id="effect_tooltip_stress_format"><![CDATA[Stress %+d]]></entry>
     <entry id="effect_tooltip_stress_heal_format"><![CDATA[Soin Stress %+d]]></entry>
     <entry id="effect_tooltip_stun_format"><![CDATA[Étourdissement: %d%%]]></entry>
+	<entry id="effect_tooltip_unstun_format"><![CDATA[Chc Évit. Étourdiss: %d%%]]></entry>
     <entry id="effect_tooltip_tag"><![CDATA[Marque la Cible]]></entry>
+	<entry id="effect_tooltip_untag"><![CDATA[Chc Évit. Marque: %d%%]]></entry>
     <entry id="effect_tooltip_cure_format"><![CDATA[Soin Poison/Saignement %d%%]]></entry>
     <entry id="effect_tooltip_dot_poison_format"><![CDATA[Poison %d pts/tr pendant %d trs]]></entry>
     <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Saignement %d pts/tr pendant %d trs]]></entry>
@@ -142,10 +129,7 @@
     <entry id="effect_tooltip_move_backward"><![CDATA[POUSSE de %d]]></entry>
     <entry id="effect_tooltip_shuffle_single"><![CDATA[Déplace un Membre]]></entry>
     <entry id="effect_tooltip_shuffle_group"><![CDATA[Mélange le Groupe]]></entry>
-    <entry id="" />
-    <entry id="" />
-    <entry id="" />
-    <entry id="SKILL" />
+    <entry id="skill_random_target"><![CDATA[cible aléatoire]]></entry>
     <entry id="skill_heal_format"><![CDATA[soigne %d-%d]]></entry>
     <entry id="skill_party_heal_format"><![CDATA[Soin de Groupe %d-%d]]></entry>
   </language>
@@ -167,6 +151,7 @@
     <entry id="buff_stat_tooltip_combat_stat_multiply_crit_chance"><![CDATA[%+d%% CRT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_max_hp"><![CDATA[%+d%% MAX HP]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[%+d%% Heal Received]]></entry>
+
     <entry id="buff_stat_tooltip_stress_dmg_percent"><![CDATA[%+d%% Stress Resist]]></entry>
     <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[%+d%% Stress Heal]]></entry>
     <entry id="buff_stat_tooltip_resistance_stun"><![CDATA[%+d%% Stun Resist]]></entry>

@@ -114,6 +114,7 @@ font:   .id "town_graveyard_story"                          .file "fonts/font_sm
 
 font:	.id "character_panel_position_pips_title"			.file "fonts/font_smash15195_0.fnt"
 font:	.id "character_panel_target_pips_title"				.file "fonts/font_smash15195_0.fnt"
+font:	.id "character_panel_palette_number"				.file "fonts/font_smash15195_0.fnt"
 
 font:	.id "roster_full"									.file "fonts/font_smash15195-m.fnt"
 

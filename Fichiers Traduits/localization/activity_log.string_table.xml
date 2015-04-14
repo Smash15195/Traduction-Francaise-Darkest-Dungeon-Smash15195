@@ -15,7 +15,7 @@
     <entry id="str_difficulty_5"><![CDATA[Niv. 5]]></entry>
     <entry id="str_difficulty_6"><![CDATA[Niv. 6]]></entry>
     <entry id="" />
-    <entry id="str_perished"><![CDATA[ont péri au cours de la quête.]]></entry>
+    <entry id="str_perished"><![CDATA[a/ont péri au cours de la quête.]]></entry>
     <entry id="str_allperished"><![CDATA[ont été réuni dans une mort héroïque. Il n'y a aucun survivants.]]></entry>
     <entry id="" />
     <entry id="str_embarked_on_explore_crypts"><![CDATA[sont partis explorer les Ruines.]]></entry>
@@ -30,7 +30,7 @@
     <entry id="str_embarked_on_kill_boss_weald"><![CDATA[sont partis dans le Weald, déterminé à chasser et tuer la Sorcière cannibale.]]></entry>
     <entry id="str_embarked_on_kill_boss_warrens"><![CDATA[ont pénétré profondément dans les Cryptes avec comme objectif de détruire le gargantuesque Prince Porcin.]]></entry>
     <entry id="" />
-    <entry id="str_embarked_on_gather_crypts"><![CDATA[partez récupérer les Saintes Reliques profondément enfouies dans les cryptes en ruine de la terre ancestrale.]]></entry>
+    <entry id="str_embarked_on_gather_crypts"><![CDATA[sont partis récupérer les Saintes Reliques profondément enfouies dans les cryptes en ruine de la terre ancestrale.]]></entry>
     <entry id="str_embarked_on_gather_weald"><![CDATA[se sont lancé à la recherche de médicaments indispensables perdu le long d'une ancienne route dans le Weald.]]></entry>
     <entry id="str_embarked_on_gather_warrens"><![CDATA[sont partis récupérer des denrées alimentaires que le Prince a volé et caché dans les Cryptes.]]></entry>
     <entry id="" />
@@ -91,7 +91,7 @@
     <entry id="str_{BUILDING]_unlocked" />
     <entry id="" />
     <entry id="str_tutorial_all_alive"><![CDATA[vous ont escorté avec succès au Hameau.]]></entry>
-    <entry id="str_tutorial_all_perished"><![CDATA[ont péri sur l'Ancienne Route, mais vous vous êtes enfui à travers les arbres et revenu au Hameau.]]></entry>
+    <entry id="str_tutorial_all_perished"><![CDATA[ont péri sur l'Ancien Sentier, mais vous vous êtes enfui à travers les arbres et revenu au Hameau.]]></entry>
     <entry id="str_tutorial_alive_perished_mixed_mid"><![CDATA[vous ont escorté avec succès à Hameau, mais]]></entry>
     <entry id="str_tutorial_alive_perished_mixed_end"><![CDATA[ont rencontré la mort sur l'Ancienne Route.]]></entry>
     <entry id="" />

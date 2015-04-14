@@ -59,6 +59,7 @@
     <entry id="str_ui_disarm"><![CDATA[Désarmé !]]></entry>
     <entry id="str_ambush_title"><![CDATA[Guet-apens !]]></entry>
     <entry id="pass_ability_description"><![CDATA[PASSER LE TOUR (le héros subira du stress)]]></entry>
+	<entry id="str_camping_longer_quests_only"><![CDATA[(Seules les quêtes longues et moyennes proposent le campement.)]]></entry>
     <entry id="str_hero_cant_dismiss_confirm"><![CDATA[Vous ne pouvez pas renvoyer les héros tombés au combat. Ils ne sont déjà rien de plus que de la poussière.]]></entry>
     <entry id="str_hero_cant_dismiss_ok"><![CDATA[OK]]></entry>
     <entry id="str_hero_cant_dismiss_confirm_ok"><![CDATA[OK]]></entry>
@@ -885,10 +886,10 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="crusader_weapon_3"><![CDATA[Estramacon]]></entry>
     <entry id="crusader_weapon_4"><![CDATA["La Grande Croisade"]]></entry>
     <entry id="upgrade_tree_name_crusader.weapon"><![CDATA[Estramacon]]></entry>
-    <entry id="highwayman_weapon_0"><![CDATA[Lame Rouillée à Silex]]></entry>
-    <entry id="highwayman_weapon_1"><![CDATA[Revolver à lame Versatile]]></entry>
-    <entry id="highwayman_weapon_2"><![CDATA[Revolver à Lame Poli]]></entry>
-    <entry id="highwayman_weapon_3"><![CDATA[Revolver Cannelé à bord tranchant]]></entry>
+    <entry id="highwayman_weapon_0"><![CDATA[Silex et Lame rouillée]]></entry>
+    <entry id="highwayman_weapon_1"><![CDATA[Revolver et Lame versatile]]></entry>
+    <entry id="highwayman_weapon_2"><![CDATA[Revolver et Lame polie]]></entry>
+    <entry id="highwayman_weapon_3"><![CDATA[Revolver et Cannelé]]></entry>
     <entry id="highwayman_weapon_4"><![CDATA["Tonnerre & Foudre"]]></entry>
     <entry id="upgrade_tree_name_highwayman.weapon"><![CDATA[Revolver & Lame]]></entry>
     <entry id="occultist_weapon_0"><![CDATA[Crâne Cabossé]]></entry>
@@ -999,6 +1000,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="leper_armour_3"><![CDATA[Plastron Bronzé]]></entry>
     <entry id="leper_armour_4"><![CDATA["Indomptable"]]></entry>
     <entry id="upgrade_tree_name_leper.armour"><![CDATA[Plastron Bronzé]]></entry>
+    <entry id="dungeon_name_tutorial"><![CDATA[L'ancien Sentier]]></entry>
     <entry id="dungeon_name_cove"><![CDATA[Crique]]></entry>
     <entry id="dungeon_name_crypts"><![CDATA[Ruines]]></entry>
     <entry id="dungeon_name_darkestdungeon"><![CDATA[Darkest Dungeon]]></entry>
@@ -1134,7 +1136,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="town_activity_description_brothel"><![CDATA[Les plaisirs de la chair.]]></entry>
     <entry id="town_activity_description_meditation"><![CDATA[La paix à travers la méditation.]]></entry>
     <entry id="town_activity_description_prayer"><![CDATA[Prier une puissance supérieure.]]></entry>
-    <entry id="town_activity_description_flagellation"><![CDATA[L flagellation apporte l'absolution.]]></entry>
+    <entry id="town_activity_description_flagellation"><![CDATA[La flagellation apporte l'absolution.]]></entry>
     <entry id="town_activity_description_treatment"><![CDATA[Soigne la maladie mentale et physique.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Les Ruines portent tous les signes de fouillent frénétique de votre ancêtre...]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Idoles et sanctuaires sacrés ont été corrompus pour favoriser les dieux païens. L'eau bénite peut vous aider à restaurer leurs états originels.]]></entry>
@@ -1186,6 +1188,10 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_hero_dismiss_confirm_no"><![CDATA[Non]]></entry>
     <entry id="str_hero_slot_unlocked_stagecoach_tt"><![CDATA[Faites glisser le héros dans votre liste pour le recruter]]></entry>
     <entry id="str_roster_list_full"><![CDATA[Liste Complète]]></entry>
+	<entry id="str_sort_roster_by_level"><![CDATA[Trier par Niveau]]></entry>
+    <entry id="str_sort_roster_by_stress"><![CDATA[Trier par Stress]]></entry>
+    <entry id="str_sort_roster_by_class"><![CDATA[Trier par Classe]]></entry>
+    <entry id="str_sort_roster_by_building"><![CDATA[Trier par Activité]]></entry>
     <entry id="hero_class_name_crusader"><![CDATA[Croisé]]></entry>
     <entry id="hero_class_name_bounty_hunter"><![CDATA[Chasseur de Prime]]></entry>
     <entry id="hero_class_name_vestal"><![CDATA[Vestale]]></entry>
@@ -1308,7 +1314,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="building_upgrade_title"><![CDATA[Amélioré à:]]></entry>
     <entry id="raid_results_quest_result_was_completed"><![CDATA[Victoire]]></entry>
     <entry id="raid_results_quest_result_was_not_completed_defeat"><![CDATA[Défaite]]></entry>
-	<entry id="raid_results_quest_result_was_not_completed_escape"><![CDATA[Évasion]]></entry>
+	<entry id="raid_results_quest_result_was_not_completed_escape"><![CDATA[Fuite]]></entry>
     <entry id="raid_results_quest_inventory_title"><![CDATA[Récompenses de Quêtes]]></entry>
     <entry id="raid_results_party_gold_inventory_title"><![CDATA[Trésors Obtenus]]></entry>
     <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Souvenirs Obtenus]]></entry>
@@ -1346,6 +1352,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="character_title_target_pips"><![CDATA[Cible Préférée]]></entry>
     <entry id="character_panel_rename_tt"><![CDATA[Renommer Héros]]></entry>
     <entry id="character_panel_dismiss_tt"><![CDATA[Congédier Héros]]></entry>
+	<entry id="character_panel_change_colour"><![CDATA[Changer la Tenue]]></entry>
     <entry id="resistance_name_stun"><![CDATA[Etourdiss.]]></entry>
     <entry id="resistance_name_move"><![CDATA[Déplacem.]]></entry>
     <entry id="resistance_name_poison"><![CDATA[Poison]]></entry>
@@ -1365,7 +1372,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="town_quest_difficulty_1"><![CDATA[Apprenti (Niv 1)]]></entry>
     <entry id="town_quest_difficulty_3"><![CDATA[Vétéran (Niv 3)]]></entry>
     <entry id="town_quest_difficulty_5"><![CDATA[Champion (Niv 5)]]></entry>
-    <entry id="raid_quest_complete"><![CDATA[Quête Terminée ! [CLIQUEZ POUR SORTIR DU DONJON]]]></entry>
+    <entry id="raid_quest_complete"><![CDATA[Quête Terminée [CLIQUEZ POUR SORTIR]]]></entry>
     <entry id="town_quest_goal_start_kill_monster"><![CDATA[Tuer %d %s.]]></entry>
     <entry id="town_quest_goal_start_explore_room"><![CDATA[Explorer %.0f%% des salles.]]></entry>
     <entry id="town_quest_goal_start_battle_room"><![CDATA[Faire %.0f%% des combats en salle.]]></entry>

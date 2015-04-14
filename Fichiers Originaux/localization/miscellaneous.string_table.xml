@@ -59,6 +59,7 @@
     <entry id="str_ui_disarm"><![CDATA[Disarmed!]]></entry>
     <entry id="str_ambush_title"><![CDATA[Ambush!]]></entry>
     <entry id="pass_ability_description"><![CDATA[PASS TURN (hero will suffer stress)]]></entry>
+    <entry id="str_camping_longer_quests_only"><![CDATA[(Only medium and long quests feature camping.)]]></entry>
     <entry id="str_hero_cant_dismiss_confirm"><![CDATA[You may not dismiss fallen heroes. They are already nothing more than dust.]]></entry>
     <entry id="str_hero_cant_dismiss_ok"><![CDATA[OK]]></entry>
     <entry id="str_hero_cant_dismiss_confirm_ok"><![CDATA[OK]]></entry>
@@ -999,6 +1000,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="leper_armour_3"><![CDATA[Bronzed Chestplate]]></entry>
     <entry id="leper_armour_4"><![CDATA["Indomitable"]]></entry>
     <entry id="upgrade_tree_name_leper.armour"><![CDATA[Bronzed Chestplate]]></entry>
+    <entry id="dungeon_name_tutorial"><![CDATA[The Old Road]]></entry>
     <entry id="dungeon_name_cove"><![CDATA[Cove]]></entry>
     <entry id="dungeon_name_crypts"><![CDATA[Ruins]]></entry>
     <entry id="dungeon_name_darkestdungeon"><![CDATA[Darkest Dungeon]]></entry>
@@ -1186,6 +1188,10 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="str_hero_dismiss_confirm_no"><![CDATA[No]]></entry>
     <entry id="str_hero_slot_unlocked_stagecoach_tt"><![CDATA[Drag Hero to Roster to recruit]]></entry>
     <entry id="str_roster_list_full"><![CDATA[Roster Full]]></entry>
+    <entry id="str_sort_roster_by_level"><![CDATA[Sort by Level]]></entry>
+    <entry id="str_sort_roster_by_stress"><![CDATA[Sort by Stress]]></entry>
+    <entry id="str_sort_roster_by_class"><![CDATA[Sort by Class]]></entry>
+    <entry id="str_sort_roster_by_building"><![CDATA[Sort by Activity]]></entry>
     <entry id="hero_class_name_crusader"><![CDATA[Crusader]]></entry>
     <entry id="hero_class_name_bounty_hunter"><![CDATA[Bounty Hunter]]></entry>
     <entry id="hero_class_name_vestal"><![CDATA[Vestal]]></entry>
@@ -1346,6 +1352,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="character_title_target_pips"><![CDATA[Preferred Target]]></entry>
     <entry id="character_panel_rename_tt"><![CDATA[Rename Hero]]></entry>
     <entry id="character_panel_dismiss_tt"><![CDATA[Dismiss Hero]]></entry>
+    <entry id="character_panel_change_colour"><![CDATA[Switch Outfit]]></entry>
     <entry id="resistance_name_stun"><![CDATA[Stun]]></entry>
     <entry id="resistance_name_move"><![CDATA[Move]]></entry>
     <entry id="resistance_name_poison"><![CDATA[Blight]]></entry>
