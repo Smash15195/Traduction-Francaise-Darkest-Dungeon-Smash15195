@@ -30,6 +30,26 @@
     <entry id="menu_base_element_watch_intro"><![CDATA[Watch Intro Cinematic]]></entry>
     <entry id="menu_base_element_exit_campaign"><![CDATA[Exit to Main Menu]]></entry>
     <entry id="menu_base_element_exit_game"><![CDATA[Exit to Desktop]]></entry>
+    <entry id="str_media_video"><![CDATA[Prologue]]></entry>
+    <entry id="str_media_boss_quests"><![CDATA[The Ancestor's Path]]></entry>
+    <entry id="str_plot_kill_necromancer_1_audio_line"><![CDATA[Mastery Over Life and Death]]></entry>
+    <entry id="str_plot_kill_necromancer_2_audio_line"><![CDATA[The Visitors]]></entry>
+    <entry id="str_plot_kill_necromancer_3_audio_line"><![CDATA[The Dead Reviving The Dead]]></entry>
+    <entry id="str_plot_kill_prophet_1_audio_line"><![CDATA[The Wandering Prophet]]></entry>
+    <entry id="str_plot_kill_prophet_2_audio_line"><![CDATA[Time and Time Again]]></entry>
+    <entry id="str_plot_kill_prophet_3_audio_line"><![CDATA[An Uncommon Corporeal Resilience]]></entry>
+    <entry id="str_plot_kill_hag_1_audio_line"><![CDATA[Comfortable Study]]></entry>
+    <entry id="str_plot_kill_hag_2_audio_line"><![CDATA[Professional Respect]]></entry>
+    <entry id="str_plot_kill_hag_3_audio_line"><![CDATA[Welcome in the Wild]]></entry>
+    <entry id="str_plot_kill_brigand_cannon_1_audio_line"><![CDATA[Awe and Ire]]></entry>
+    <entry id="str_plot_kill_brigand_cannon_2_audio_line"><![CDATA[The Application of Force]]></entry>
+    <entry id="str_plot_kill_brigand_cannon_3_audio_line"><![CDATA[Compliance and Order]]></entry>
+    <entry id="str_plot_kill_swine_prince_1_audio_line"><![CDATA[Ways and Rituals]]></entry>
+    <entry id="str_plot_kill_swine_prince_2_audio_line"><![CDATA[Flesh of Man]]></entry>
+    <entry id="str_plot_kill_swine_prince_3_audio_line"><![CDATA[The Great Thing]]></entry>
+    <entry id="str_plot_kill_formless_flesh_1_audio_line"><![CDATA[A Troubling Surplus]]></entry>
+    <entry id="str_plot_kill_formless_flesh_2_audio_line"><![CDATA[The Sewer's Solution]]></entry>
+    <entry id="str_plot_kill_formless_flesh_3_audio_line"><![CDATA[A Loathsome Pile]]></entry>
   </language>
   <language id="french" />
   <language id="italian" />

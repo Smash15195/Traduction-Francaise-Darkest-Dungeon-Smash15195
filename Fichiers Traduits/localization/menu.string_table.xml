@@ -30,6 +30,26 @@
     <entry id="menu_base_element_watch_intro"><![CDATA[Voir cinématique d'intro]]></entry>
     <entry id="menu_base_element_exit_campaign"><![CDATA[Quitter vers menu principal]]></entry>
     <entry id="menu_base_element_exit_game"><![CDATA[Retourner au bureau]]></entry>
+    <entry id="str_media_video"><![CDATA[Prologue]]></entry>
+    <entry id="str_media_boss_quests"><![CDATA[La voie de notre aïeul]]></entry>
+    <entry id="str_plot_kill_necromancer_1_audio_line"><![CDATA[Maîtrise de la vie et la mort]]></entry>
+    <entry id="str_plot_kill_necromancer_2_audio_line"><![CDATA[Les Visiteurs]]></entry>
+    <entry id="str_plot_kill_necromancer_3_audio_line"><![CDATA[La mort recussite la mort]]></entry>
+    <entry id="str_plot_kill_prophet_1_audio_line"><![CDATA[Le Prophète Errant]]></entry>
+    <entry id="str_plot_kill_prophet_2_audio_line"><![CDATA[Maintes et maintes fois]]></entry>
+    <entry id="str_plot_kill_prophet_3_audio_line"><![CDATA[Une résilience corporelle peu commune]]></entry>
+    <entry id="str_plot_kill_hag_1_audio_line"><![CDATA[Étude Confortable]]></entry>
+    <entry id="str_plot_kill_hag_2_audio_line"><![CDATA[Respect Professionnel]]></entry>
+    <entry id="str_plot_kill_hag_3_audio_line"><![CDATA[Bienvenue dans la nature]]></entry>
+    <entry id="str_plot_kill_brigand_cannon_1_audio_line"><![CDATA[Fascination et Courroux]]></entry>
+    <entry id="str_plot_kill_brigand_cannon_2_audio_line"><![CDATA[L'application de la force]]></entry>
+    <entry id="str_plot_kill_brigand_cannon_3_audio_line"><![CDATA[Respect et Ordre]]></entry>
+    <entry id="str_plot_kill_swine_prince_1_audio_line"><![CDATA[Voies et Rituels]]></entry>
+    <entry id="str_plot_kill_swine_prince_2_audio_line"><![CDATA[Chair de l'homme]]></entry>
+    <entry id="str_plot_kill_swine_prince_3_audio_line"><![CDATA[Une Bonne Chose]]></entry>
+    <entry id="str_plot_kill_formless_flesh_1_audio_line"><![CDATA[Un Surplus Inquiétant]]></entry>
+    <entry id="str_plot_kill_formless_flesh_2_audio_line"><![CDATA[De Chair et de Sang]]></entry>
+    <entry id="str_plot_kill_formless_flesh_3_audio_line"><![CDATA[Une Masse Répugnante]]></entry>	
   </language>
   <language id="french" />
   <language id="italian" />
