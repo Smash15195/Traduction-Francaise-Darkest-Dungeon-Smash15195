@@ -63,7 +63,7 @@
     <entry id="str_returned_from_cleanse_weald_failure"><![CDATA[n'ont pas été à la hauteur des créatures féroces dans le Weald.]]></entry>
     <entry id="str_returned_from_cleanse_warrens_failure"><![CDATA[se sont replié face à la puissance du Prince Porcin dans les Cryptes.]]></entry>
     <entry id="str_returned_from_kill_boss_crypts_success"><![CDATA[ont occis le terrible Nécromancien !]]></entry>
-    <entry id="str_returned_from_kill_boss_weald_success"><![CDATA[ont mis à la vie de la Sorcière cannibales !]]></entry>
+    <entry id="str_returned_from_kill_boss_weald_success"><![CDATA[ont mis fin à la vie de la Sorcière cannibales !]]></entry>
     <entry id="str_returned_from_kill_boss_warrens_success"><![CDATA[ont renvoyé le Prince Porcin en enfer !]]></entry>	
     <entry id="str_returned_from_kill_boss_crypts_failure"><![CDATA[ont été incapables d'arrêter le Nécromancien.]]></entry>
     <entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[n'ont pas pu arrêter la Sorcière.]]></entry>
