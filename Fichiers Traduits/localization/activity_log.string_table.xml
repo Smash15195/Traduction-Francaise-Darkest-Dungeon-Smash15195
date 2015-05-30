@@ -83,9 +83,9 @@
     <entry id="str_returned_from_plot_kill_swine_prince_1_success"><![CDATA[ont renvoyé le Prince Porcin en enfer !]]></entry>
     <entry id="str_returned_from_plot_kill_swine_prince_2_success"><![CDATA[ont renvoyé le Roi Porcin en enfer !]]></entry>
     <entry id="str_returned_from_plot_kill_swine_prince_3_success"><![CDATA[ont renvoyé le Dieu Porcin en enfer !]]></entry>
-    <entry id="str_returned_from_plot_kill_formless_flesh_1_success"><![CDATA[ont arrêté le battement de coeur de la Chair Inachevée !]]></entry>
-    <entry id="str_returned_from_plot_kill_formless_flesh_2_success"><![CDATA[ont arrêté le battement de coeur de la Chair Instable !]]></entry>
-    <entry id="str_returned_from_plot_kill_formless_flesh_3_success"><![CDATA[ont arrêté le battement de coeur de la Chair Déformée !]]></entry>
+    <entry id="str_returned_from_plot_kill_formless_flesh_1_success"><![CDATA[ont arrêté les battements de coeur de la Chair Inachevée !]]></entry>
+    <entry id="str_returned_from_plot_kill_formless_flesh_2_success"><![CDATA[ont arrêté les battements de coeur de la Chair Instable !]]></entry>
+    <entry id="str_returned_from_plot_kill_formless_flesh_3_success"><![CDATA[ont arrêté les battements de coeur de la Chair Déformée !]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_1_failure"><![CDATA[ont été incapables d'arrêter l'Apprenti Nécromancien.]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_2_failure"><![CDATA[ont été incapables d'arrêter Nécromancien.]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_3_failure"><![CDATA[ont été incapables d'arrêter le Seigneur Nécromancien.]]></entry>
@@ -147,11 +147,11 @@
 	<entry id="str_caretaker_goal_plot_kill_prophet_1"><![CDATA[Vaincre le Prophète Bruyant]]></entry>
     <entry id="str_caretaker_goal_plot_kill_prophet_2"><![CDATA[Vaincre le Prophète Fulminant]]></entry>
     <entry id="str_caretaker_goal_plot_kill_prophet_3"><![CDATA[Vaincre le Prophète Baragouineur]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_brigand_cannon_1"><![CDATA[Vaincre le Brigant au canon de 8 livres]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_brigand_cannon_2"><![CDATA[Vaincre le Brigant au canon de 12 livres]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_brigand_cannon_3"><![CDATA[Vaincre le Brigant au canon de 16 livres]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_formless_flesh_1"><![CDATA[Vaicre la Chair Inachevée]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_formless_flesh_2"><![CDATA[Vaicnre la Chair Instable]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_brigand_cannon_1"><![CDATA[Détruire le canon de 8 livres]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_brigand_cannon_2"><![CDATA[Détruire le canon de 12 livres]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_brigand_cannon_3"><![CDATA[Détruire le canon de 16 livres]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_formless_flesh_1"><![CDATA[Vaincre la Chair Inachevée]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_formless_flesh_2"><![CDATA[Vaincre la Chair Instable]]></entry>
     <entry id="str_caretaker_goal_plot_kill_formless_flesh_3"><![CDATA[Vaincre la Chair Déformée]]></entry>
     <entry id="str_caretaker_goal_hero_resolve"><![CDATA[Atteindre le Niveau 6 avec un(e) %s ]]></entry>
     <entry id="str_caretaker_goals_heading"><![CDATA[Objectifs du Gardien]]></entry>
@@ -383,7 +383,7 @@
     <entry id="str_death_bleed_unknown"><![CDATA[a saigné à mort.]]></entry>
     <entry id="str_death_unknown_unknown"><![CDATA[a succombé à un danger inconnu.]]></entry>
     <entry id="str_death_captor_monster"><![CDATA[a été bouilli à mort par la Sorcière]]></entry>
-    <entry id="str_death_heart_attack"><![CDATA[had a heart attack due to unsustainable stress.]]></entry>
+    <entry id="str_death_heart_attack"><![CDATA[a eu une crise cardiaque à cause du stress.]]></entry>
   </language>
   <language id="french" />
   <language id="italian" />

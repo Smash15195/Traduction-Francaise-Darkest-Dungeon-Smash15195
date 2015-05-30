@@ -31,7 +31,7 @@
     <entry id="str_ui_poison"><![CDATA[Poison]]></entry>
     <entry id="str_ui_bleed"><![CDATA[Saignement]]></entry>
     <entry id="str_ui_cured"><![CDATA[Guéri !]]></entry>
-    <entry id="str_ui_cure_failed"><![CDATA[Echec Guérison]]></entry>
+    <entry id="str_ui_cure_failed"><![CDATA[Échec Guérison]]></entry>
     <entry id="str_ui_pass"><![CDATA[Passe]]></entry>
     <entry id="str_ui_tagged"><![CDATA[Marqué !]]></entry>
     <entry id="str_ui_deathblow"><![CDATA[COUP FATAL !]]></entry>
@@ -368,14 +368,14 @@ Augmente le Stress, dégâts des monstres, le butin, les critiques subit]]></ent
 Augmente fortement le Stress, dégâts des monstres, le butin, les critiques subit]]></entry>
     <entry id="str_torch_info_4"><![CDATA[TÉNÈBRES
 Augmente énorment le Stress, dégâts des monstres, le butin, les critiques subit]]></entry>
-    <entry id="str_reduce_torch_tip"><![CDATA[[SHIFT+CLIC] pour réduire la torche]]></entry>
-    <entry id="str_snuff_torch_tip"><![CDATA[[SHIFT+CTRL+CLIC] pour étouffer la torche]]></entry>
-    <entry id="str_stat_maxhp"><![CDATA[POINTS SANTE MAX]]></entry>
+    <entry id="str_reduce_torch_tip"><![CDATA[[Shift+Clic] réduire la torche]]></entry>
+    <entry id="str_snuff_torch_tip"><![CDATA[[Shift+Ctrl+Clic] étouffer la torche]]></entry>
+    <entry id="str_stat_maxhp"><![CDATA[PTS SANTE MAX]]></entry>
     <entry id="str_stat_accuracy"><![CDATA[PRECISION]]></entry>
     <entry id="str_stat_damage"><![CDATA[DEGATS]]></entry>
-    <entry id="str_stat_crit"><![CDATA[CHANCES DE CRITIQUE]]></entry>
+    <entry id="str_stat_crit"><![CDATA[CHC DE CRITIQUE]]></entry>
     <entry id="str_stat_defense"><![CDATA[ESQUIVE]]></entry>
-    <entry id="str_stat_protection"><![CDATA[POINTS DE PROTECTION]]></entry>
+    <entry id="str_stat_protection"><![CDATA[PTS PROTECTION]]></entry>
     <entry id="str_stat_speed"><![CDATA[VITESSE]]></entry>
     <entry id="str_stat_base_skill"><![CDATA[Compétence]]></entry>
     <entry id="str_stat_base_weapon"><![CDATA[Arme]]></entry>
@@ -683,7 +683,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="town_progression_forward_set_off"><![CDATA[Marche Arrière]]></entry>
     <entry id="town_quest_rewards"><![CDATA[Récompenses]]></entry>
     <entry id="str_sanitarium_remove_quirk_format"><![CDATA[Supprimer %s]]></entry>
-    <entry id="str_statue_ancestor_quote"><![CDATA["Le moment venu, vous connaitrez l'étendue tragique de mes erreurs..."]]></entry>
+    <entry id="str_statue_ancestor_quote"><![CDATA["Le moment venu, vous verrez mes erreurs..."]]></entry>
     <entry id="str_part"><![CDATA[Partie]]></entry>
     <entry id="str_media_house_of_ruin"><![CDATA[Demeure en Ruine]]></entry>
     <entry id="str_media_old_road"><![CDATA[Ancien Sentier]]></entry>	
@@ -1092,7 +1092,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_caretaker_prayer"><![CDATA[Oh Lumière, brûle mon âme ! Ha ha ha ha ha !]]></entry>
     <entry id="str_caretaker_flagellation"><![CDATA[Prenez mon sang comme vous avez pris mon esprit !  Whoo-hahahaha !]]></entry>
     <entry id="str_caretaker_flagellation"><![CDATA[Du fouet pour chacun de vous ! Pas un bout de peau doit rester !]]></entry>
-    <entry id="str_start_screen_scroll"><![CDATA[MAJ MONSTRES  & FRÉNÉSIE: Arbalètrier et Homme d'Armes sont maintenant disponible au recrutement! De nouveaux boss dans tous les donjons ! Ainsi que de nouveaux trésors cachés dans le noir !]]></entry>
+    <entry id="str_start_screen_scroll"><![CDATA[MAJ DÉMONS & FRÉNÉSIE: Arbalètrier et Homme d'Armes sont maintenant disponible au recrutement! De nouveaux boss dans tous les donjons ! Ainsi que de nouveaux trésors cachés dans le noir !]]></entry>
     <entry id="str_build_number"><![CDATA[Version: %d]]></entry>
     <entry id="str_start_screen_button"><![CDATA[Campagne]]></entry>
     <entry id="str_start_screen_week_format"><![CDATA[Semaine %d]]></entry>

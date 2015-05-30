@@ -25,6 +25,7 @@
     <entry id="menu_options_element_combat_pivot_camera"><![CDATA[Combat Pivot Camera]]></entry>
     <entry id="menu_options_element_extra_bark_time"><![CDATA[Extra Bark Time (seconds)]]></entry>
     <entry id="menu_options_element_bark_dismissal"><![CDATA[Bark Dismissal]]></entry>
+    <entry id="menu_options_element_blur"><![CDATA[Blur Effect]]></entry>
     <entry id="menu_base_element_view_options"><![CDATA[Options]]></entry>
     <entry id="menu_base_element_view_controls"><![CDATA[Controls]]></entry>
     <entry id="menu_base_element_watch_intro"><![CDATA[Watch Intro Cinematic]]></entry>
