@@ -47,9 +47,14 @@ font:	.id "town_activity_log_entry"						.file "fonts/font_smash15195_0.fnt"
 font:	.id "town_activity_log_week_title"   				.file "fonts/font_smash15195-l.fnt"
 font:   .id "town_activity_hero_portrait_name"              .file "fonts/font_smash15195-m.fnt"
 
+font:	.id "town_statue_archive_entry"						.file "fonts/font_smash15195_0.fnt"
+font:   .id "town_statue_quote"                             .file "fonts/font_smash15195-m.fnt"
+font:	.id "town_statue_media_heading"						.file "fonts/font_smash15195-m.fnt"
+
 font:   .id "caretaker_goal_entry"                          .file "fonts/font_smash15195_0.fnt"
 font:   .id "caretaker_goal_type_heading"                   .file "fonts/font_smash15195-l.fnt"
 
+font:	.id "town_building_info"							.file "fonts/font_smash15195_0.fnt"
 font:	.id "town_building_upgrade_verbose"					.file "fonts/font_smash15195_0.fnt"
 font:	.id "town_building_upgrade_title"					.file "fonts/font_smash15195_m_0.fnt"
 font:	.id "town_building_upgrade_percent"					.file "fonts/font_smash15195-l.fnt"
@@ -102,6 +107,9 @@ font:	.id "realm_inventory_inventory_full_info"			.file "fonts/font_smash15195_m
 
 font:	.id "provision_sell_back_info"						.file "fonts/font_smash15195_m_0.fnt"
 
+font:	.id "provision_quest_info_dungeon_name"				.file "fonts/font_smash15195-m.fnt"
+font:	.id "provision_quest_info_specs"					.file "fonts/font_smash15195_0.fnt"
+
 font:	.id "raid_loading_screen_title"						.file "fonts/font_smash15195-l.fnt"
 font:	.id "raid_loading_screen_tip"						.file "fonts/font_smash15195_0.fnt"
 
@@ -111,6 +119,7 @@ font:	.id "town_screen_building_description"				.file "fonts/font_smash15195_m_0
 font:	.id "hero_slot_name"								.file "fonts/font_smash15195-m.fnt"
 
 font:   .id "town_graveyard_story"                          .file "fonts/font_smash15195_m_0.fnt"
+font:   .id "town_graveyard_hero_name"                      .file "fonts/font_smash15195-m.fnt"
 
 font:	.id "character_panel_position_pips_title"			.file "fonts/font_smash15195_0.fnt"
 font:	.id "character_panel_target_pips_title"				.file "fonts/font_smash15195_0.fnt"
