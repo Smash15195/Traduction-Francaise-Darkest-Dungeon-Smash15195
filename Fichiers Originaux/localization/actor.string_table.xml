@@ -4,7 +4,7 @@
     <entry id="buff_stat_tooltip_combat_stat_add_damage_low"><![CDATA[%+d DMG]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_defense_rating"><![CDATA[%+d DODGE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_protection_rating"><![CDATA[%+d%% PROT]]></entry>
-    <entry id="buff_stat_tooltip_actor_combat_stat_add_protection_rating"><![CDATA[%+d PROT]]></entry>
+    <entry id="buff_stat_tooltip_actor_combat_stat_add_protection_rating"><![CDATA[%+d%% PROT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_speed_rating"><![CDATA[%+d SPD]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_attack_rating"><![CDATA[%+d ACC]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_crit_chance"><![CDATA[%+d%% CRT]]></entry>
