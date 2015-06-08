@@ -1045,7 +1045,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="trinket_rarity_common"><![CDATA[Common]]></entry>
     <entry id="trinket_rarity_very_common"><![CDATA[Common]]></entry>
     <entry id="trinket_rarity_rare"><![CDATA[Rare]]></entry>
-    <entry id="trinket_rarity_very_rare"><![CDATA[Ancestral]]></entry>
+    <entry id="trinket_rarity_very_rare"><![CDATA[Very Rare]]></entry>
     <entry id="trinket_rarity_ancestral"><![CDATA[Ancestral]]></entry>
     <entry id="trinket_rarity_ancestral_shambler"><![CDATA[Ancestral]]></entry>
     <entry id="realm_inventory_trinket_sell_description"><![CDATA[Sell trinket for:]]></entry>

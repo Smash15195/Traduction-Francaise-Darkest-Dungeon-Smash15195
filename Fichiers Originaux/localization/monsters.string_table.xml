@@ -100,6 +100,7 @@
     <entry id="str_monster_skill_cannon_misfire"><![CDATA[MISFIRE!]]></entry>
     <entry id="str_monster_skill_cannon_summon"><![CDATA[Reinforcments!]]></entry>
     <entry id="str_monster_skill_light_fuse"><![CDATA[Fire in the Hole!]]></entry>
+    <entry id="str_monster_skill_hot_shot"><![CDATA[Hot Shot]]></entry>
     <entry id="str_monstername_maggot_A"><![CDATA[Maggot]]></entry>
     <entry id="str_monstername_maggot_B"><![CDATA[Twitching Maggot]]></entry>
     <entry id="str_monstername_maggot_C"><![CDATA[Bulbous Maggot]]></entry>

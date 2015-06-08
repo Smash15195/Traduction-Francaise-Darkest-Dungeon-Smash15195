@@ -100,6 +100,7 @@
     <entry id="str_monster_skill_cannon_misfire"><![CDATA[ALLUMAGE RATÉ !]]></entry>
     <entry id="str_monster_skill_cannon_summon"><![CDATA[Renforts !]]></entry>
     <entry id="str_monster_skill_light_fuse"><![CDATA[Feu à volonté !]]></entry>	
+    <entry id="str_monster_skill_hot_shot"><![CDATA[Tir Brûlant]]></entry>	
     <entry id="str_monstername_maggot_A"><![CDATA[Asticot]]></entry>
     <entry id="str_monstername_maggot_B"><![CDATA[Asticot Gigoteur]]></entry>
     <entry id="str_monstername_maggot_C"><![CDATA[Asticot Bulbeux]]></entry>

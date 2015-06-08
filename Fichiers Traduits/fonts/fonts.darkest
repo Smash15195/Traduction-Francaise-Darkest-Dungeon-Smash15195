@@ -147,4 +147,10 @@ font:	.id "menu_options_element_name"						.file "fonts/font_smash15195_0.fnt"
 font:	.id "menu_options_element_control"					.file "fonts/font_smash15195_0.fnt"
 font:	.id "menu_options_require_restart"					.file "fonts/font_smash15195_0.fnt"
 
+font:	.id "loot_take_all_tooltip"					        .file "fonts/font_smash15195_0.fnt"
+font:	.id "loot_close_tooltip"					        .file "fonts/font_smash15195_0.fnt"
+
+font:	.id "event_hunger_eat_tooltip"		    	        .file "fonts/font_smash15195_0.fnt"
+font:	.id "event_hunger_starve_tooltip" 			        .file "fonts/font_smash15195_0.fnt"
+
 font:	.id "round_display_number"							.file "fonts/dwarvenaxe-l.fnt"

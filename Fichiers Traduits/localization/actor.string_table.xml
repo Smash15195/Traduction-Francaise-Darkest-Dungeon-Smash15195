@@ -139,6 +139,10 @@
     <entry id="skill_random_target"><![CDATA[cible aléatoire]]></entry>
     <entry id="skill_heal_format"><![CDATA[soigne %d-%d]]></entry>
     <entry id="skill_party_heal_format"><![CDATA[Soin de Groupe %d-%d]]></entry>
+    <entry id="monster_tooltip_hp_format"><![CDATA[PV: %.0f/%.0f]]></entry>
+    <entry id="monster_tooltip_prot_format"><![CDATA[PROT: %.0f%%]]></entry>
+    <entry id="monster_tooltip_dodge_format"><![CDATA[ESQUIVE: %0.f]]></entry>
+    <entry id="monster_tooltip_speed_format"><![CDATA[VIT: %0.f]]></entry>	
   </language>
   <language id="french" />
   <language id="italian" />
