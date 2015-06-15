@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="english">
-    <entry id="party_name_test"><![CDATA[The Testers]]></entry>
+    <entry id="party_name_default"><![CDATA[Build a Party From the Roster]]></entry>
     <entry id="party_name_0"><![CDATA[The Usual Suspects]]></entry>
     <entry id="party_name_1"><![CDATA[The Privateers]]></entry>
     <entry id="party_name_2"><![CDATA[Blood Money]]></entry>

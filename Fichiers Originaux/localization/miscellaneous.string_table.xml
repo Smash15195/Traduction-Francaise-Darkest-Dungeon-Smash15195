@@ -36,7 +36,7 @@
     <entry id="str_ui_tagged"><![CDATA[Marked!]]></entry>
     <entry id="str_ui_deathblow"><![CDATA[DEATHBLOW!]]></entry>
     <entry id="str_ui_deathdoor"><![CDATA[%s is at Death's Door!]]></entry>
-    <entry id="str_ui_deathavoided"><![CDATA[Death's Door!]]></entry>
+    <entry id="str_ui_death_avoided"><![CDATA[Death's Door!]]></entry>
     <entry id="str_ui_buff"><![CDATA[Buff!]]></entry>
     <entry id="str_ui_debuff"><![CDATA[Debuff!]]></entry>
     <entry id="str_ui_stun_resist"><![CDATA[Stun Resist]]></entry>
@@ -63,7 +63,7 @@
     <entry id="str_ui_disarm"><![CDATA[Disarmed!]]></entry>
     <entry id="str_ambush_title"><![CDATA[Ambush!]]></entry>
     <entry id="str_cant_use_torch_during_ambush"><![CDATA[Can't use torches during an ambush!]]></entry>
-    <entry id="str_cant_use_torch_at_limit"><![CDATA[Our torches are fully ablaze. No need to use more.]]></entry>
+    <entry id="str_cant_use_torch_at_limit"><![CDATA[It's no use...this is all the light we are getting for now.]]></entry>
     <entry id="pass_ability_description"><![CDATA[PASS TURN (hero will suffer stress)]]></entry>
     <entry id="str_camping_longer_quests_only"><![CDATA[(Only medium and long quests feature camping.)]]></entry>
     <entry id="str_hero_cant_dismiss_confirm"><![CDATA[You need at least 4 heroes to venture on. This one cannot go just yet.]]></entry>
@@ -542,6 +542,16 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="str_inventory_title_trinketberserk_mask"><![CDATA[Berserk Mask]]></entry>
     <entry id="str_inventory_title_trinketimmunity_mask"><![CDATA[Immunity Mask]]></entry>
     <entry id="str_inventory_title_trinketfasting_seal"><![CDATA[Fasting Seal]]></entry>
+    <entry id="str_inventory_title_trinketcleansing_eyepatch"><![CDATA[Cleansing Eyepatch]]></entry>
+    <entry id="str_inventory_title_trinketsly_eyepatch"><![CDATA[Sly Eyepatch]]></entry>
+    <entry id="str_inventory_title_trinketlongevity_eyepatch"><![CDATA[Longevity Eyepatch]]></entry>
+    <entry id="str_inventory_title_trinketrampart_shield"><![CDATA[Rampart Shield]]></entry>
+    <entry id="str_inventory_title_trinketguardians_shield"><![CDATA[Guardian's Shield]]></entry>
+    <entry id="str_inventory_title_trinketsturdy_greaves"><![CDATA[Sturdy Greaves]]></entry>
+    <entry id="str_inventory_title_trinketvengeful_greaves"><![CDATA[Vengeful Greaves]]></entry>
+    <entry id="str_inventory_title_trinketmedics_greaves"><![CDATA[Medic's Greaves]]></entry>
+    <entry id="str_inventory_title_trinketbulls_eye_bandana"><![CDATA[Bull's Eye Bandana]]></entry>
+    <entry id="str_inventory_title_trinketwrathful_bandana"><![CDATA[Wrathful Bandana]]></entry>
     <entry id="str_inventory_title_trinketancestors_pen"><![CDATA[Ancestor's Pen]]></entry>
     <entry id="str_inventory_title_trinketancestors_pistol"><![CDATA[Ancestor's Pistol]]></entry>
     <entry id="str_inventory_title_trinketancestors_coat"><![CDATA[Ancestor's Coat]]></entry>
@@ -618,7 +628,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="str_inventory_description_supplybandage"><![CDATA[Use to staunch the flow of bleeding.]]></entry>
     <entry id="str_inventory_title_supplytorch"><![CDATA[Torch]]></entry>
     <entry id="str_inventory_description_supplytorch"><![CDATA[Increases the light level.]]></entry>
-    <entry id="str_inventory_gold_value_format"><![CDATA[[Value: %d gold ea]]]></entry>
+    <entry id="str_inventory_gold_value_format"><![CDATA[[Value: %s gold ea]]]></entry>
     <entry id="str_darkness_title_0"><![CDATA[RADIANT LIGHT]]></entry>
     <entry id="str_darkness_title_1"><![CDATA[DIM LIGHT]]></entry>
     <entry id="str_darkness_title_2"><![CDATA[SHADOWY]]></entry>
@@ -983,6 +993,8 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
     <entry id="character_panel_rename_tt"><![CDATA[Rename Hero]]></entry>
     <entry id="character_panel_dismiss_tt"><![CDATA[Dismiss Hero]]></entry>
     <entry id="character_panel_change_colour"><![CDATA[Switch Outfit]]></entry>
+    <entry id="character_panel_previous_hero_tooltip"><![CDATA[Previous Hero]]></entry>
+    <entry id="character_panel_next_hero_tooltip"><![CDATA[Next Hero]]></entry>
     <entry id="resistance_name_stun"><![CDATA[Stun]]></entry>
     <entry id="resistance_name_move"><![CDATA[Move]]></entry>
     <entry id="resistance_name_poison"><![CDATA[Blight]]></entry>

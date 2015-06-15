@@ -3,6 +3,7 @@
   <language id="english">
     <entry id="str_curio_title_nothing"><![CDATA[Error - no curio found!]]></entry>
     <entry id="str_curio_content_nothing"><![CDATA[Error - no curio found!]]></entry>
+    <entry id="str_curio_no_negative_quirks_to_remove"><![CDATA[No negative quirks to remove.]]></entry>
     <entry id="str_curio_title_bandits_trapped_chest"><![CDATA[Bandit's Trapped Chest]]></entry>
     <entry id="str_curio_content_bandits_trapped_chest"><![CDATA[Something doesn't look quite right with this one...]]></entry>
     <entry id="str_curio_tooltip_investigate_bandits_trapped_chest"><![CDATA[Open the chest...]]></entry>

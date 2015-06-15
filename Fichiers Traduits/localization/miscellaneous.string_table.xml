@@ -36,7 +36,7 @@
     <entry id="str_ui_tagged"><![CDATA[Marqué !]]></entry>
     <entry id="str_ui_deathblow"><![CDATA[COUP FATAL !]]></entry>
     <entry id="str_ui_deathdoor"><![CDATA[%s est aux Portes de la Mort !]]></entry>
-    <entry id="str_ui_deathavoided"><![CDATA[aux Portes de la Mort !]]></entry>
+    <entry id="str_ui_death_avoided"><![CDATA[aux Portes de la Mort !]]></entry>
     <entry id="str_ui_buff"><![CDATA[Buff !]]></entry>
     <entry id="str_ui_debuff"><![CDATA[Debuff !]]></entry>
     <entry id="str_ui_stun_resist"><![CDATA[Rst. Etourdiss.]]></entry>
@@ -63,7 +63,7 @@
     <entry id="str_ui_disarm"><![CDATA[Désarmé !]]></entry>
     <entry id="str_ambush_title"><![CDATA[Guet-apens !]]></entry>
     <entry id="str_cant_use_torch_during_ambush"><![CDATA[Utilisation des torches impossible dans un Guet-apens!]]></entry>
-    <entry id="str_cant_use_torch_at_limit"><![CDATA[Nos torches sont toutes embrasé. Pas besoin d'en utiliser plus.]]></entry>	
+    <entry id="str_cant_use_torch_at_limit"><![CDATA[Nos torches sont toutes brulées. On a plus de lumière.]]></entry>	
     <entry id="pass_ability_description"><![CDATA[PASSER LE TOUR (le héros subira du stress)]]></entry>
 	<entry id="str_camping_longer_quests_only"><![CDATA[(Seules les quêtes longues et moyennes proposent le campement.)]]></entry>
     <entry id="str_hero_cant_dismiss_confirm"><![CDATA[Vous avez besoin de 4 héros pour vos aventures. Il ne peut pas être congédié.]]></entry>
@@ -542,6 +542,16 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_inventory_title_trinketberserk_mask"><![CDATA[Masque Berserk]]></entry>
     <entry id="str_inventory_title_trinketimmunity_mask"><![CDATA[Masque d'Immunité]]></entry>
     <entry id="str_inventory_title_trinketfasting_seal"><![CDATA[Sceau de Jeûne]]></entry>
+    <entry id="str_inventory_title_trinketcleansing_eyepatch"><![CDATA[Cache-oeil Curatif]]></entry>
+    <entry id="str_inventory_title_trinketsly_eyepatch"><![CDATA[Cache-oeil Surnois]]></entry>
+    <entry id="str_inventory_title_trinketlongevity_eyepatch"><![CDATA[Cache-oeil Longuevy]]></entry>
+    <entry id="str_inventory_title_trinketrampart_shield"><![CDATA[Bouclier Ancile]]></entry>
+    <entry id="str_inventory_title_trinketguardians_shield"><![CDATA[Bouclier du Gardien]]></entry>
+    <entry id="str_inventory_title_trinketsturdy_greaves"><![CDATA[Jambières Robustes]]></entry>
+    <entry id="str_inventory_title_trinketvengeful_greaves"><![CDATA[Jambières Vengeresses]]></entry>
+    <entry id="str_inventory_title_trinketmedics_greaves"><![CDATA[Jambières Médicinales]]></entry>
+    <entry id="str_inventory_title_trinketbulls_eye_bandana"><![CDATA[Bandana Taurin]]></entry>
+    <entry id="str_inventory_title_trinketwrathful_bandana"><![CDATA[Bandana du Courroux]]></entry>	
 	<entry id="str_inventory_title_trinketancestors_pen"><![CDATA[Plume Familiale]]></entry>
     <entry id="str_inventory_title_trinketancestors_pistol"><![CDATA[Pistolet Familial]]></entry>
     <entry id="str_inventory_title_trinketancestors_coat"><![CDATA[Veste Familiale]]></entry>
@@ -618,7 +628,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_inventory_description_supplybandage"><![CDATA[Utile pour contenir une hémoragie.]]></entry>
     <entry id="str_inventory_title_supplytorch"><![CDATA[Torche]]></entry>
     <entry id="str_inventory_description_supplytorch"><![CDATA[Augmente le niveau de lumière.]]></entry>
-    <entry id="str_inventory_gold_value_format"><![CDATA[[Valeur: %d or]]]></entry>
+    <entry id="str_inventory_gold_value_format"><![CDATA[[Valeur: %s or]]]></entry>
     <entry id="str_darkness_title_0"><![CDATA[LUMIÈRE RADIEUSE]]></entry>
     <entry id="str_darkness_title_1"><![CDATA[LUMIÈRE VIVE]]></entry>
     <entry id="str_darkness_title_2"><![CDATA[PENOMBRE]]></entry>
@@ -983,6 +993,8 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="character_panel_rename_tt"><![CDATA[Renommer Héros]]></entry>
     <entry id="character_panel_dismiss_tt"><![CDATA[Congédier Héros]]></entry>
 	<entry id="character_panel_change_colour"><![CDATA[Changer la Tenue]]></entry>
+    <entry id="character_panel_previous_hero_tooltip"><![CDATA[Héros Précédent]]></entry>
+    <entry id="character_panel_next_hero_tooltip"><![CDATA[Héros Suivant]]></entry>	
     <entry id="resistance_name_stun"><![CDATA[Etourdiss.]]></entry>
     <entry id="resistance_name_move"><![CDATA[Déplacem.]]></entry>
     <entry id="resistance_name_poison"><![CDATA[Poison]]></entry>

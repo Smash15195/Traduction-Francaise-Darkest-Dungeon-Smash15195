@@ -43,8 +43,8 @@
     <entry id="buff_stat_tooltip_resistance_trap"><![CDATA[%+d%% Éviter/Désarmer Piège]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_weapon"><![CDATA[%-d%% Coût Amélioration Arme]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_armour"><![CDATA[%-d%% Coût Amélioration Armure]]></entry>
-	<entry id="buff_stat_tooltip_party_surprise_chance"><![CDATA[%+d%% Chance Surprise Groupe]]></entry>
-    <entry id="buff_stat_tooltip_monsters_surprise_chance"><![CDATA[%+d%% Chance Surprise Monstre]]></entry>
+	<entry id="buff_stat_tooltip_party_surprise_chance"><![CDATA[%+d%% Risque d'Être Surpris]]></entry>
+    <entry id="buff_stat_tooltip_monsters_surprise_chance"><![CDATA[%+d%% Chance de Surprendre]]></entry>
     <entry id="buff_rule_tooltip_always"><![CDATA[%s]]></entry>
     <entry id="buff_rule_tooltip_monsterSize"><![CDATA[%s vs taille %d]]></entry>
     <entry id="buff_rule_tooltip_lightbelow"><![CDATA[%s si Torche sous %d]]></entry>

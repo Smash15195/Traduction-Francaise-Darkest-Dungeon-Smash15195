@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="english">
-    <entry id="party_name_test"><![CDATA[Les Testeurs]]></entry>
+    <entry id="party_name_default"><![CDATA[Composez votre Équipe]]></entry>
     <entry id="party_name_0"><![CDATA[Les Suspects Ordinaires]]></entry>
     <entry id="party_name_1"><![CDATA[Les Corsaires]]></entry>
     <entry id="party_name_2"><![CDATA[La Nouvelle Vague]]></entry>
