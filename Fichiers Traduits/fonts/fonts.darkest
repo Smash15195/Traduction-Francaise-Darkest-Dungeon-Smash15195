@@ -28,6 +28,7 @@ font:   .id "help_text"                                     .file "fonts/font_sm
 font:	.id "town_quest_select_dungeon_name"				.file "fonts/font_smash15195-m.fnt"
 font:	.id "town_quest_select_dungeon_level"				.file "fonts/font_smash15195_m_0.fnt"
 font:	.id "town_quest_select_party_name"					.file "fonts/font_smash15195_m_0.fnt"
+font:	.id "town_quest_select_party_name_default"			.file "fonts/font_smash15195_m_0.fnt"
 
 font:	.id "town_quest_name"								.file "fonts/font_smash15195-m.fnt"
 font:	.id "town_quest_description"						.file "fonts/font_smash15195_0.fnt"
@@ -124,6 +125,7 @@ font:   .id "town_graveyard_hero_name"                      .file "fonts/font_sm
 font:	.id "character_panel_position_pips_title"			.file "fonts/font_smash15195_0.fnt"
 font:	.id "character_panel_target_pips_title"				.file "fonts/font_smash15195_0.fnt"
 font:	.id "character_panel_palette_number"				.file "fonts/font_smash15195_0.fnt"
+font:	.id "character_panel_previous_next_tooltip"			.file "fonts/font_smash15195_0.fnt"
 
 font:	.id "roster_full"									.file "fonts/font_smash15195-m.fnt"
 
