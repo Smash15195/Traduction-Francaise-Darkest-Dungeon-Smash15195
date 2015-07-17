@@ -27,6 +27,16 @@
     <entry id="tutorial_popup_resolve_level_title"><![CDATA[Gain de Niveau !]]></entry>
     <entry id="tutorial_popup_stage_coach_title"><![CDATA[Votre fournisseur de sang frais]]></entry>
 	<entry id="tutorial_popup_heart_attack_title"><![CDATA[Limite corporelle: la crise cardiaque]]></entry>
+    <entry id="tutorial_popup_hero_panel_title"><![CDATA[La Fiche du Héros]]></entry>
+    <entry id="tutorial_popup_quest_complete_title"><![CDATA[Remplir une Quête]]></entry>
+    <entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[Traitement]]></entry>
+    <entry id="tutorial_popup_high_prot_title"><![CDATA[Les Monstres à Haute PROT]]></entry>
+    <entry id="tutorial_popup_permanent_neg_quirks_title"><![CDATA[Traits Négatifs Permanents]]></entry>
+    <entry id="tutorial_popup_hero_panel_description"><![CDATA[Faites un [CLIC-DROIT] sur un héros ou son portrait à tout moment pour afficher un écran détaillé montrant tout les Traits, compétences et résistances du héros.]]></entry>
+    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de retourner en la ville à tout moment - cliquez simplement sur le cachets de cire. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
+    <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Le Sanatorium est le plus souvent utilisé pour enlever les traits négatifs et soigner les maladies. Vous pouvez aussi l'utiliser pour renforcer un trait positif en le verrouillant et empêcher les nouveaux traits positifs de le déplacer. 3 traits positifs maximum verouillés par héros.]]></entry>
+    <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont une haute protection (PROT), qui absorbe les dégâts. Les DOT (poison et saignement) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaires.]]></entry>
+    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront permanent. Les Traits négatifs permanents coûtent beaucoup plus cher pour être éliminé dans le Sanatorium.]]></entry>	
     <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyer et maintenir [H] pour afficher l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
@@ -138,10 +148,11 @@ La mort nous attend tous.]]></entry>
     <entry id="str_help_town_abbey_5"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
     <entry id="str_help_town_abbey_6"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour expluser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
     <entry id="str_help_town_sanitarium_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
-    <entry id="str_help_town_sanitarium_1"><![CDATA[[GLISSEZ] un héros dans l'emplacement, sélectionnez un Trait à supprimer et payez pour démarrer le traitement.]]></entry>
-    <entry id="str_help_town_sanitarium_2"><![CDATA[Engager le héros dans l'activité va le rendre indisponible pour la prochaine quête.]]></entry>
-    <entry id="str_help_town_sanitarium_3"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
-    <entry id="str_help_town_sanitarium_4"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour expluser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
+    <entry id="str_help_town_sanitarium_1"><![CDATA[Soigner un trait: [GLISSEZ] un héros dans l'emplacement, sélectionnez un Trait à supprimer et payez pour démarrer le traitement.]]></entry>
+    <entry id="str_help_town_sanitarium_2"><![CDATA[Soigner une maladie: [GLISSEZ] un héros dans l'emplacement medical ward et sélectionnez la maladie à soigner. Parfois des maladies supplémentaires seront également soignées.]]></entry>	
+    <entry id="str_help_town_sanitarium_3"><![CDATA[Engager le héros dans l'activité va le rendre indisponible pour la prochaine quête.]]></entry>
+    <entry id="str_help_town_sanitarium_4"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
+    <entry id="str_help_town_sanitarium_5"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour expluser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
     <entry id="str_help_town_nomad_wagon_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
     <entry id="str_help_town_nomad_wagon_1"><![CDATA[[CLIQUEZ] sur les objets pour les acheter.]]></entry>
     <entry id="str_help_town_quest_select_0"><![CDATA[[CLIQUEZ] sur les quêtes disponibles pour les inspecter.]]></entry>
@@ -187,6 +198,7 @@ La mort nous attend tous.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Chaque région a ses propres défis. Organisez votre groupe et vos provisions en conséquence.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Un objet bien utilisé peut souvent vous protéger contre les dangers des objets interactifs que vous rencontrez.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Vous pouvez vous replier d'un combat et même abandonner des quêtes. Si les choses tournent mal, mieux vaut vivre pour combattre un autre jour.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Les squelettes avec une haute protection sont sensibles aux attaques de poison.]]></entry>	
     <entry id="str_weald_tip"><![CDATA[Le Weald est parsemé de chemins de longs et sinueux. Emportez beaucoup de torches.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Méfiez-vous de la marque de la mort, vous pourriez vous prendre des coups d'artillerie.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Les sentiers sont jonchés de pièges toxiques.]]></entry>
@@ -195,6 +207,7 @@ La mort nous attend tous.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Chaque région a ses propres défis. Organisez votre groupe et vos provisions en conséquence.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Un objet bien utilisé peut souvent vous protéger contre les dangers des objets interactifs que vous rencontrez.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Vous pouvez vous replier d'un combat et même abandonner des quêtes. Si les choses tournent mal, mieux vaut vivre pour combattre un autre jour.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Le poison et le saignement ignorent la protection (PROT) de l'ennemi.]]></entry>	
     <entry id="str_warrens_tip"><![CDATA[Les Cryptes sont remplies de maladies et de toxines... Préparez-vous à faire face aux infections.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[Les Porcins sont résistantes aux maladies, grâce à leur vie impure.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[Ces tunnels sont souvent bloqué par des pierres et des corps entassés. C'est un sale boulot de les dégager à la main.]]></entry>
@@ -202,6 +215,7 @@ La mort nous attend tous.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[Chaque région a ses propres défis. Organisez votre groupe et vos provisions en conséquence.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[Un objet bien utilisé peut souvent vous protéger contre les dangers des objets interactifs que vous rencontrez.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[Vous pouvez vous replier d'un combat et même abandonner des quêtes. Si les choses tournent mal, mieux vaut vivre pour combattre un autre jour.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Le poison et le saignement ignorent la protection (PROT) de l'ennemi..]]></entry>	
   </language>
   <language id="french" />
   <language id="italian" />

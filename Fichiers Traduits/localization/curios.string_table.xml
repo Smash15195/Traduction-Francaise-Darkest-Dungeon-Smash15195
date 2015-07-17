@@ -232,7 +232,7 @@
     <entry id="str_curio_makeshift_dining_table_nothing"><![CDATA[Tout a été déjà mangé.]]></entry>
     <entry id="str_curio_makeshift_dining_table_loot"><![CDATA[La table contient les restes d'un dîner.]]></entry>
     <entry id="str_curio_makeshift_dining_table_effect"><![CDATA[La nourriture en décomposition rend le héros malade.]]></entry>
-    <entry id="str_curio_makeshift_dining_table_disease"><![CDATA[Les porcs sont gens malpropres...]]></entry>
+    <entry id="str_curio_makeshift_dining_table_disease"><![CDATA[La viande n'est pas entièrement cuite...]]></entry>
     <entry id="str_curio_makeshift_dining_table_medicinal_herbs_loot"><![CDATA[Les herbes tuent les maladies présente dans la nourriture.]]></entry>
     <entry id="str_curio_title_pile_of_scrolls"><![CDATA[Tas de Parchemins]]></entry>
     <entry id="str_curio_content_pile_of_scrolls"><![CDATA[Un tas de parchemins. L'écriture cursive est bâclée et difficile à lire.]]></entry>

@@ -17,6 +17,7 @@
     <entry id="buff_stat_tooltip_combat_stat_multiply_attack_rating"><![CDATA[%+d%% ACC]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_crit_chance"><![CDATA[%+d%% CRT]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_max_hp"><![CDATA[%+d%% MAX HP]]></entry>
+    <entry id="buff_stat_tooltip_damage_received_percent"><![CDATA[%+d%% DMG]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[%+d Heal Skills]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[%+d%% Heal Skills]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_received_percent"><![CDATA[%+d%% Heal Received]]></entry>
@@ -68,6 +69,7 @@
     <entry id="buff_rule_tooltip_in_corridor"><![CDATA[%s in Hallways]]></entry>
     <entry id="buff_rule_tooltip_stress_below"><![CDATA[%s if Stress below %d]]></entry>
     <entry id="buff_rule_tooltip_riposte"><![CDATA[%s when Riposte]]></entry>
+    <entry id="buff_rule_tooltip_skill"><![CDATA[%s from skill %s]]></entry>
     <entry id="buff_rule_tooltip_always_false"><![CDATA[NOT %s]]></entry>
     <entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[%s vs not size %d]]></entry>
     <entry id="buff_rule_tooltip_lightbelow_false"><![CDATA[%s if Torch not below %d]]></entry>
@@ -102,6 +104,7 @@
     <entry id="buff_rule_data_tooltip_meditation"><![CDATA[Meditation]]></entry>
     <entry id="buff_rule_data_tooltip_prayer"><![CDATA[Prayer]]></entry>
     <entry id="buff_rule_data_tooltip_flagellation"><![CDATA[Flagellation]]></entry>
+    <entry id="buff_rule_data_tooltip_hounds_rush"><![CDATA[Hound's Rush]]></entry>
     <entry id="buff_bsrc_skill"><![CDATA[Other Skill]]></entry>
     <entry id="buff_bsrc_instantSkill"><![CDATA[Selected Skill]]></entry>
     <entry id="buff_bsrc_affliction"><![CDATA[Affliction]]></entry>
@@ -113,29 +116,34 @@
     <entry id="buff_bsrc_town"><![CDATA[Town]]></entry>
     <entry id="buff_bsrc_curio"><![CDATA[Curio]]></entry>
     <entry id="buff_bsrc_stun"><![CDATA[Stun]]></entry>
+    <entry id="buff_bsrc_item"><![CDATA[Item]]></entry>
+    <entry id="buff_bsrc_disease"><![CDATA[Disease]]></entry>
     <entry id="effect_tooltip_self"><![CDATA[Self:]]></entry>
     <entry id="effect_tooltip_target"><![CDATA[Target:]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[Party:]]></entry>
     <entry id="effect_tooltip_stress_format"><![CDATA[Stress %+d]]></entry>
     <entry id="effect_tooltip_stress_heal_format"><![CDATA[Stress Heal %+d]]></entry>
-    <entry id="effect_tooltip_stun_format"><![CDATA[Stun base: %d%%]]></entry>
-    <entry id="effect_tooltip_unstun_format"><![CDATA[Clear Stun base: %d%%]]></entry>
+    <entry id="effect_tooltip_stun_format"><![CDATA[Stun (%d%% base)]]></entry>
+    <entry id="effect_tooltip_unstun_format"><![CDATA[Clear Stun (%d%% base)]]></entry>
     <entry id="effect_tooltip_tag"><![CDATA[Mark Target]]></entry>
-    <entry id="effect_tooltip_untag"><![CDATA[Clear Marked Target base: %d%%]]></entry>
-    <entry id="effect_tooltip_cure_format"><![CDATA[Cure Blight/Bleed base %d%%]]></entry>
-    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Blight %d pts/rd for %d rds]]></entry>
-    <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Bleed %d pts/rd for %d rds]]></entry>
+    <entry id="effect_tooltip_untag"><![CDATA[Clear Marked Target (%d%% base)]]></entry>
+    <entry id="effect_tooltip_cure_format"><![CDATA[Cure Blight/Bleed (%d%% base)]]></entry>
+    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Blight (%d%% base)
+%d pts/rd for %d rds]]></entry>
+    <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Bleed (%d%% base)
+%d pts/rd for %d rds]]></entry>
     <entry id="effect_tooltip_torch_format"><![CDATA[Torch %+d]]></entry>
     <entry id="effect_tooltip_shuffle_party"><![CDATA[Suffle Party]]></entry>
-    <entry id="effect_tooltip_disease_format"><![CDATA[Cause Disease %d%% base]]></entry>
+    <entry id="effect_tooltip_disease_format"><![CDATA[Cause Disease (%d%% base)]]></entry>
     <entry id="effect_tooltip_summon_format"><![CDATA[Summon %s]]></entry>
     <entry id="effect_tooltip_heal_format"><![CDATA[Heal %d HP]]></entry>
-    <entry id="effect_tooltip_move_forward"><![CDATA[PULL %d]]></entry>
-    <entry id="effect_tooltip_move_backward"><![CDATA[KNOCKBACK %d]]></entry>
+    <entry id="effect_tooltip_move_forward"><![CDATA[Pull %d (%d%% base)]]></entry>
+    <entry id="effect_tooltip_move_backward"><![CDATA[Knockback %d (%d%% base)]]></entry>
     <entry id="effect_tooltip_shuffle_single"><![CDATA[Shuffle Single]]></entry>
     <entry id="effect_tooltip_shuffle_group"><![CDATA[Shuffle Group]]></entry>
     <entry id="effect_tooltip_guard"><![CDATA[Guard Ally]]></entry>
     <entry id="effect_tooltip_riposte"><![CDATA[Activates Riposte]]></entry>
+    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Clear all %ss]]></entry>
     <entry id="skill_random_target"><![CDATA[random target]]></entry>
     <entry id="skill_heal_format"><![CDATA[heal %d-%d]]></entry>
     <entry id="skill_party_heal_format"><![CDATA[party heal %d-%d]]></entry>
@@ -144,7 +152,10 @@
     <entry id="monster_tooltip_dodge_format"><![CDATA[DODGE: %0.f]]></entry>
     <entry id="monster_tooltip_speed_format"><![CDATA[SPD: %0.f]]></entry>
   </language>
-  <language id="french" />
+  <language id="french">
+    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Blight %d pts/rd for %d rds]]></entry>
+    <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Bleed %d pts/rd for %d rds]]></entry>
+  </language>
   <language id="italian" />
   <language id="german" />
   <language id="spanish" />

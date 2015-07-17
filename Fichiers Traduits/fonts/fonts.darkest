@@ -6,6 +6,8 @@ font:	.id	"stat"											.file "fonts/font_smash15195_0.fnt"
 font:	.id "scouting_text"									.file "fonts/font_smash15195-m.fnt"
 font:	.id "banner_header"									.file "fonts/font_smash15195-l.fnt"
 font:	.id "banner_sub_header"								.file "fonts/font_smash15195_m_0.fnt"
+font:	.id "banner_hero_name"								.file "fonts/font_smash15195-m.fnt"
+font:	.id "banner_hero_class"								.file "fonts/font_smash15195_0.fnt"
 font:	.id "scroll_header"									.file "fonts/font_smash15195-l.fnt"
 font:	.id "scroll_body"									.file "fonts/font_smash15195_0.fnt"
 font:	.id "torch"											.file "fonts/font_smash15195-m.fnt"
@@ -156,3 +158,25 @@ font:	.id "event_hunger_eat_tooltip"		    	        .file "fonts/font_smash15195_
 font:	.id "event_hunger_starve_tooltip" 			        .file "fonts/font_smash15195_0.fnt"
 
 font:	.id "round_display_number"							.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "glossary_quote"						        .file "fonts/font_smash15195-m.fnt"
+font:	.id "glossary_term"					                .file "fonts/font_smash15195-m.fnt"
+font:	.id "glossary_term_definition"					    .file "fonts/font_smash15195_0.fnt"
+
+font:   .id "quest_info_camp_bonus_skill_tooltip"           .file "fonts/font_smash15195_0.fnt"
+font:   .id "quest_info_camp_bonus_skill_stats_tooltip"     .file "fonts/font_smash15195_0.fnt"
+
+font:   .id "sanitarium_treatment_header"                   .file "fonts/font_smash15195-m.fnt"
+font:   .id "sanitarium_treatment_entry"                    .file "fonts/font_smash15195_0.fnt"
+
+font:   .id "monster_panel_monster_name"                     .file "fonts/font_smash15195-m.fnt"
+font:   .id "monster_panel_monster_type"                     .file "fonts/font_smash15195_0.fnt"
+font:   .id "monster_panel_monster_stats"                    .file "fonts/font_smash15195_0.fnt"
+font:   .id "monster_panel_hero_attack_stats"                .file "fonts/font_smash15195_0.fnt"
+font:   .id "monster_panel_resistances_title"               .file "fonts/font_smash15195-m.fnt"
+font:   .id "monster_panel_resistances_entry"                .file "fonts/font_smash15195_0.fnt"
+font:   .id "monster_panel_skills_title"                     .file "fonts/font_smash15195-m.fnt"
+font:   .id "monster_panel_skills_entry"                     .file "fonts/font_smash15195_0.fnt"
+font:   .id "monster_panel_hp"                               .file "fonts/font_smash15195_m_0.fnt"
+
+font:   .id "quest_complete_tooltip"                         .file "fonts/font_smash15195_m_0.fnt"

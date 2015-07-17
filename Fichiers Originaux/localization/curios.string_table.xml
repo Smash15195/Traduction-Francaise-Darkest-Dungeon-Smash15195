@@ -232,7 +232,7 @@
     <entry id="str_curio_makeshift_dining_table_nothing"><![CDATA[Everything has been eaten already.]]></entry>
     <entry id="str_curio_makeshift_dining_table_loot"><![CDATA[The table contains leftovers from a previous dinner.]]></entry>
     <entry id="str_curio_makeshift_dining_table_effect"><![CDATA[The rotting food makes the hero ill.]]></entry>
-    <entry id="str_curio_makeshift_dining_table_disease"><![CDATA[The swine are not clean folk...]]></entry>
+    <entry id="str_curio_makeshift_dining_table_disease"><![CDATA[The meat is not fully cooked...]]></entry>
     <entry id="str_curio_makeshift_dining_table_medicinal_herbs_loot"><![CDATA[The herbs kill any diseases harbored in the food.]]></entry>
     <entry id="str_curio_title_pile_of_scrolls"><![CDATA[Pile of Scrolls]]></entry>
     <entry id="str_curio_content_pile_of_scrolls"><![CDATA[A bunch of scrolls. The cursive is sloppy and difficult to read.]]></entry>
