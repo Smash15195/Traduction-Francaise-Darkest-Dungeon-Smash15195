@@ -484,7 +484,10 @@
     <entry id="houndmaster+str_afflicted_irrationality"><![CDATA[Havoc!  Havoc!  uh...I forget the rest...]]></entry>
     <entry id="houndmaster+str_afflicted_irrationality"><![CDATA[It seems my stitches conspire to knot together and hang me!]]></entry>
     <entry id="houndmaster+str_afflicted_irrationality"><![CDATA[Help! I am leashed to dozens of these hellhounds!]]></entry>
+
     <entry id="str_afflicted_fanaticism"><![CDATA[I was chosen for this very test!]]></entry>
+	
+	
     <entry id="str_virtued_stalwart"><![CDATA[I will not succumb to weakness!]]></entry>
     <entry id="bounty_hunter+str_virtued_stalwart"><![CDATA[Been through worse.]]></entry>
     <entry id="bounty_hunter+str_virtued_stalwart"><![CDATA[Easier than I thought.]]></entry>
@@ -1451,6 +1454,7 @@
     <entry id="houndmaster+str_change_pos_back_selfish"><![CDATA[The hound's health comes before any of you.]]></entry>
     <entry id="houndmaster+str_change_pos_back_selfish"><![CDATA[Not all glory requires sacrifice. At least, not my sacrifice.]]></entry>
     <entry id="houndmaster+str_change_pos_back_selfish"><![CDATA[What? Risk our lives in pointless melee?]]></entry>
+	
     <entry id="str_ignore_command_fearful"><![CDATA[Who can stand against such abominations?]]></entry>
     <entry id="bounty_hunter+str_ignore_command_fearful"><![CDATA[Not on your bloody life.]]></entry>
     <entry id="bounty_hunter+str_ignore_command_fearful"><![CDATA[No! Every hunter knows when they have become the prey!]]></entry>
@@ -3578,6 +3582,7 @@
     <entry id="houndmaster+str_block_heal_paranoid"><![CDATA[We don't like the smell of it.]]></entry>
     <entry id="houndmaster+str_block_heal_paranoid"><![CDATA[She growls - best you back away.]]></entry>
     <entry id="houndmaster+str_block_heal_paranoid"><![CDATA[(growls)]]></entry>
+	
     <entry id="str_block_heal_masochistic"><![CDATA[I don't want the pain dulled.]]></entry>
     <entry id="bounty_hunter+str_block_heal_masochistic"><![CDATA[I chose this line of work for a reason!]]></entry>
     <entry id="bounty_hunter+str_block_heal_masochistic"><![CDATA[I need your help, I'll bloody well ask for it.]]></entry>
@@ -4781,6 +4786,7 @@
     <entry id="houndmaster+str_campingSkillUseBalk_abusive"><![CDATA[Hahahah! No.]]></entry>
     <entry id="houndmaster+str_campingSkillUseBalk_abusive"><![CDATA[(growls)]]></entry>
     <entry id="houndmaster+str_campingSkillUseBalk_abusive"><![CDATA[I'll save that for those I consider my equals.]]></entry>
+	
     <entry id="str_campingSkillUseBalk_selfish"><![CDATA[Unless it helps myself, why bother?]]></entry>
     <entry id="bounty_hunter+str_campingSkillUseBalk_selfish"><![CDATA[... I look like a "nice" person to you?]]></entry>
     <entry id="bounty_hunter+str_campingSkillUseBalk_selfish"><![CDATA[I'm busy... counting my coin.]]></entry>
