@@ -107,12 +107,12 @@
     <entry id="str_monster_skill_cannon_summon"><![CDATA[Renforts !]]></entry>
     <entry id="str_monster_skill_light_fuse"><![CDATA[Feu à volonté !]]></entry>	
     <entry id="str_monster_skill_hot_shot"><![CDATA[Tir Brûlant]]></entry>
-    <entry id="str_monstername_corpse_A"><![CDATA[Cadavre]]></entry>
-    <entry id="str_monstername_corpse_B"><![CDATA[Cadavre]]></entry>
-    <entry id="str_monstername_corpse_C"><![CDATA[Cadavre]]></entry>
-    <entry id="str_monstername_corpse_large_A"><![CDATA[Gros Cadavre]]></entry>
-    <entry id="str_monstername_corpse_large_B"><![CDATA[Gros Cadavre]]></entry>
-    <entry id="str_monstername_corpse_large_C"><![CDATA[Gros Cadavre]]></entry>	
+    <entry id="str_monstername_corpse_A"><![CDATA[Restes]]></entry>
+    <entry id="str_monstername_corpse_B"><![CDATA[Restes]]></entry>
+    <entry id="str_monstername_corpse_C"><![CDATA[Restes]]></entry>
+    <entry id="str_monstername_corpse_large_A"><![CDATA[Tas de Chair]]></entry>
+    <entry id="str_monstername_corpse_large_B"><![CDATA[Tas de Chair]]></entry>
+    <entry id="str_monstername_corpse_large_C"><![CDATA[Tas de Chair]]></entry>	
     <entry id="str_monstername_maggot_A"><![CDATA[Asticot]]></entry>
     <entry id="str_monstername_maggot_B"><![CDATA[Asticot Gigoteur]]></entry>
     <entry id="str_monstername_maggot_C"><![CDATA[Asticot Bulbeux]]></entry>
@@ -212,7 +212,7 @@
     <entry id="str_monstername_crone_B"><![CDATA[Mégère Tenace]]></entry>
     <entry id="str_monstername_crone_C"><![CDATA[Mégère Vérolée]]></entry>
     <entry id="str_monstername_hag"><![CDATA[Sorcière]]></entry>
-    <entry id="str_monstername_hag_A"><![CDATA[Sorcière Rabougri]]></entry>
+    <entry id="str_monstername_hag_A"><![CDATA[Sorcière Rabougrie]]></entry>
     <entry id="str_monstername_hag_B"><![CDATA[Sorcière]]></entry>
     <entry id="str_monstername_hag_C"><![CDATA[Sorcière Acariâtre]]></entry>
     <entry id="str_monstername_cauldron"><![CDATA[Chaudron]]></entry>

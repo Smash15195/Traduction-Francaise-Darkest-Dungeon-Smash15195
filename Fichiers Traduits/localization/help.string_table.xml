@@ -33,7 +33,7 @@
     <entry id="tutorial_popup_high_prot_title"><![CDATA[Les Monstres à Haute PROT]]></entry>
     <entry id="tutorial_popup_permanent_neg_quirks_title"><![CDATA[Traits Négatifs Permanents]]></entry>
     <entry id="tutorial_popup_hero_panel_description"><![CDATA[Faites un [CLIC-DROIT] sur un héros ou son portrait à tout moment pour afficher un écran détaillé montrant tout les Traits, compétences et résistances du héros.]]></entry>
-    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de retourner en la ville à tout moment - cliquez simplement sur le cachets de cire. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
+    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de retourner en ville à tout moment - cliquez simplement sur le cachets de cire. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
     <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Le Sanatorium est le plus souvent utilisé pour enlever les traits négatifs et soigner les maladies. Vous pouvez aussi l'utiliser pour renforcer un trait positif en le verrouillant et empêcher les nouveaux traits positifs de le déplacer. 3 traits positifs maximum verouillés par héros.]]></entry>
     <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont une haute protection (PROT), qui absorbe les dégâts. Les DOT (poison et saignement) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaires.]]></entry>
     <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront permanent. Les Traits négatifs permanents coûtent beaucoup plus cher pour être éliminé dans le Sanatorium.]]></entry>	
@@ -81,7 +81,7 @@ Assigner un héros à une activité [LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la 
 Cet haut état de performance durera jusqu'à un campement ou au retour en ville et donnera des bonus de stats et d'autres avantages.]]></entry>
     <entry id="tutorial_popup_death_door_description"><![CDATA[Quand un héros atteint 0 PV, il est aux "Portes de la Mort".
 
-Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront une chance de le tuer
+Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront un risque de le tuer
 
 Soignez-le pour le faire sortir des Portes de la Mort !]]></entry>
     <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Voilà le premier héros a succombé pour vous. Vous avez la possibilité de vous replier du combat et abandoner cette quête pour sauver les autres ou continuer

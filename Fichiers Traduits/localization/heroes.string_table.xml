@@ -25,7 +25,7 @@
     <entry id="combat_skill_name_crusader_move"><![CDATA[Déplacer]]></entry>
     <entry id="upgrade_tree_name_crusader.smite"><![CDATA[Châtier]]></entry>
     <entry id="upgrade_tree_name_crusader.zealous_accusation"><![CDATA[Accusation Zélée]]></entry>
-    <entry id="upgrade_tree_name_crusader.stunning_blow"><![CDATA[Frappe Etourdissante]]></entry>
+    <entry id="upgrade_tree_name_crusader.stunning_blow"><![CDATA[Frappe Étourdissante]]></entry>
     <entry id="upgrade_tree_name_crusader.bulwark_of_faith"><![CDATA[Rempart de Foi]]></entry>
     <entry id="upgrade_tree_name_crusader.battle_heal"><![CDATA[Soin de Combat]]></entry>
     <entry id="upgrade_tree_name_crusader.holy_lance"><![CDATA[Lance Sacrée]]></entry>
@@ -115,7 +115,7 @@
     <entry id="combat_skill_name_bounty_hunter_uppercut"><![CDATA[Uppercut]]></entry>
     <entry id="combat_skill_name_bounty_hunter_flashbang"><![CDATA[Pète-rétine]]></entry>
     <entry id="combat_skill_name_bounty_hunter_finish_him"><![CDATA[Exécution]]></entry>
-    <entry id="combat_skill_name_bounty_hunter_hook_and_slice"><![CDATA[Hook and Slice]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_hook_and_slice"><![CDATA[Accroche et Tranche]]></entry>
     <entry id="combat_skill_name_bounty_hunter_move"><![CDATA[Déplacer]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.collect_bounty"><![CDATA[Toucher la Prime]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.target_tag"><![CDATA[Marque de la Mort]]></entry>
@@ -123,7 +123,7 @@
     <entry id="upgrade_tree_name_bounty_hunter.uppercut"><![CDATA[Uppercut]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.flashbang"><![CDATA[Pète-rétine]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.finish_him"><![CDATA[Exécution]]></entry>
-    <entry id="upgrade_tree_name_bounty_hunter.hook_and_slice"><![CDATA[Hook and Slice]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.hook_and_slice"><![CDATA[Accroche et Tranche]]></entry>
     <entry id="combat_skill_name_occultist_bloodlet"><![CDATA[Frappe Sacrificielle]]></entry>
     <entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[Artillerie des Abysses]]></entry>
     <entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[Lever la Malédiction]]></entry>
@@ -236,7 +236,7 @@
     <entry id="camping_skill_name_reject_the_gods"><![CDATA[REJETER LES DIEUX]]></entry>
     <entry id="camping_skill_name_sharpen_spear"><![CDATA[AFFÛTAGE DE LANCE]]></entry>
     <entry id="camping_skill_name_uncatchable"><![CDATA[INSAISISSABLE]]></entry>
-    <entry id="camping_skill_name_clean_guns"><![CDATA[ENTRETIEN REVOLVERS]]></entry>
+    <entry id="camping_skill_name_clean_guns"><![CDATA[ENTRETIEN RÉVOLVERS]]></entry>
     <entry id="camping_skill_name_perimeter_alarms"><![CDATA[PÉRIMÈTRE D'ALARME]]></entry>
     <entry id="camping_skill_name_bandits_sense"><![CDATA[SENS DU BRIGAND]]></entry>
     <entry id="camping_skill_name_abandon_hope"><![CDATA[PERDRE ESPOIR]]></entry>
@@ -266,7 +266,7 @@
     <entry id="camping_skill_name_maintain_equipment"><![CDATA[ENTRETIEN ÉQUIPEMENT]]></entry>
     <entry id="camping_skill_name_tactics"><![CDATA[TACTIQUES]]></entry>
     <entry id="camping_skill_name_instruction"><![CDATA[INSTRUCTION]]></entry>
-    <entry id="camping_skill_name_weapons_practice"><![CDATA[ENTRAINEMENT AUX ARMES]]></entry>
+    <entry id="camping_skill_name_weapons_practice"><![CDATA[ENTRAÎNEMENT AUX ARMES]]></entry>
     <entry id="camping_skill_name_hounds_watch"><![CDATA[MONTER LA GARDE]]></entry>
     <entry id="camping_skill_name_therapy_dog"><![CDATA[CHIEN DE THÉRAPIE]]></entry>
     <entry id="camping_skill_name_pet_the_hound"><![CDATA[MEILLEUR AMI DE L'HOMME]]></entry>
