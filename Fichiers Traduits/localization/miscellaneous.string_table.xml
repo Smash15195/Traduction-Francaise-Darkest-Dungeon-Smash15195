@@ -459,7 +459,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_glossary_term_15"><![CDATA[Coup Mortel]]></entry>
     <entry id="str_glossary_term_definition_15"><![CDATA[Coup pris par un héros aux Portes de la mort qui tue définitivement le héros.]]></entry>
     <entry id="str_glossary_term_16"><![CDATA[Portes de la Mort]]></entry>
-    <entry id="str_glossary_term_definition_16"><![CDATA[Portes de la Mort: Un héros avec 0 PV est aux Portes de la Mort. Chaque coup prit ultérieurement aux Portes de la mort a un risque de tuer définitivement le héros.]]></entry>
+    <entry id="str_glossary_term_definition_16"><![CDATA[Un héros avec 0 PV est aux Portes de la Mort. Chaque coup prit ultérieurement aux Portes de la mort a un risque de tuer définitivement le héros.]]></entry>
     <entry id="str_glossary_term_17"><![CDATA[Debuff]]></entry>
     <entry id="str_glossary_term_definition_17"><![CDATA[Diminution de stat temporaire.]]></entry>
     <entry id="str_glossary_term_18"><![CDATA[Résistance Debuff]]></entry>
@@ -505,7 +505,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_glossary_term_38"><![CDATA[Traits]]></entry>
     <entry id="str_glossary_term_definition_38"><![CDATA[Un trait est une spécificité bénéfique (positive) ou d'entrave (négative). Les héros peuvent commencer avec quelques traits mais en obtiendront plus pendant l'aventure.]]></entry>
     <entry id="str_glossary_term_39"><![CDATA[Résistance]]></entry>
-    <entry id="str_glossary_term_definition_39"><![CDATA[Stat qui influe sur la probabilité d'un héros de résister à un statut particulier, comme Étourdissement ou Saignement.]]></entry>
+    <entry id="str_glossary_term_definition_39"><![CDATA[Résistance: Stat qui influe sur la probabilité d'un héros de résister à un statut particulier, comme Étourdissement ou Saignement.]]></entry>
     <entry id="str_glossary_term_40"><![CDATA[Niveau Lucidité]]></entry>
     <entry id="str_glossary_term_definition_40"><![CDATA[Le niveau d'un héros. Un héros avec un haut Niveau Lucidité pourra mieux résister au stress, apprendre des compétences de niveau supérieur et manier de l'équipement de niveau supérieur. Les héros de haut Niveau Lucidité ne voudront pas perdre leur temps sur des quêtes de niveau inférieur. Plus le Niveau Lucidité d'un Héros est élevé, moins il sera sensible au stress.]]></entry>
     <entry id="str_glossary_term_41"><![CDATA[XP Lucidité]]></entry>
@@ -541,7 +541,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="str_glossary_term_56"><![CDATA[Historique Affliction]]></entry>
     <entry id="str_glossary_term_definition_56"><![CDATA[Historique Affliction: Journal caché des afflictions qu'un héros a tendance à développer.]]></entry>
     <entry id="str_glossary_term_57"><![CDATA[Curio]]></entry>
-    <entry id="str_glossary_term_definition_57"><![CDATA[Meuble intéractif trouvé dans un couloir ou une salle du donjon.]]></entry>	
+    <entry id="str_glossary_term_definition_57"><![CDATA[Objet intéractif trouvé dans un couloir ou une salle du donjon.]]></entry>	
     <entry id="dungeon_name_tutorial"><![CDATA[L'Ancien Sentier]]></entry>
     <entry id="dungeon_name_cove"><![CDATA[Crique]]></entry>
     <entry id="dungeon_name_crypts"><![CDATA[Ruines]]></entry>
@@ -801,7 +801,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="upgrade_tree_name_stage_coach.numrecruits"><![CDATA[Réseau Diligence]]></entry>
     <entry id="upgrade_tree_name_stage_coach.rostersize"><![CDATA[Caserne de Héros]]></entry>
     <entry id="upgrade_tree_name_tavern.bar"><![CDATA[Bar]]></entry>
-    <entry id="upgrade_tree_name_tavern.gambling"><![CDATA[Salle de Jeu]]></entry>
+    <entry id="upgrade_tree_name_tavern.gambling"><![CDATA[Salle de Jeux]]></entry>
     <entry id="upgrade_tree_name_tavern.brothel"><![CDATA[Bordel]]></entry>
     <entry id="upgrade_tree_name_blacksmith.weapon"><![CDATA[Fabrication d'armes]]></entry>
     <entry id="upgrade_tree_name_blacksmith.armour"><![CDATA[Fabrication d'armures]]></entry>
@@ -820,7 +820,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[Augmente le nombre de recrues disponibles au recrutement. Le changement prendra effet après votre prochaine quête.]]></entry>
     <entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[Augmente la taille de la liste des héros.]]></entry>
     <entry id="upgrade_tree_tooltip_description_tavern.bar"><![CDATA[Améliore le bar.]]></entry>
-    <entry id="upgrade_tree_tooltip_description_tavern.gambling"><![CDATA[Améliore les salles de jeu.]]></entry>
+    <entry id="upgrade_tree_tooltip_description_tavern.gambling"><![CDATA[Améliore la salle de jeux.]]></entry>
     <entry id="upgrade_tree_tooltip_description_tavern.brothel"><![CDATA[Améliore les chambres du Bordel.]]></entry>
     <entry id="upgrade_tree_tooltip_description_blacksmith.weapon"><![CDATA[Permet l'amélioration des armes des héros à des rangs supérieurs.]]></entry>
     <entry id="upgrade_tree_tooltip_description_blacksmith.armour"><![CDATA[Permet l'amélioration des armures des héros à des rangs supérieurs.]]></entry>
