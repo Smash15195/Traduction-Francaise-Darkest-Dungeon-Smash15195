@@ -17,7 +17,7 @@
     <entry id="tutorial_popup_stress_relief_title"><![CDATA[Soulager le Stress]]></entry>
     <entry id="tutorial_popup_afflicted_title"><![CDATA[Affligé !]]></entry>
     <entry id="tutorial_popup_virtued_title"><![CDATA[Vertueux !]]></entry>
-    <entry id="tutorial_popup_death_door_title"><![CDATA[Porte de la Mort]]></entry>
+    <entry id="tutorial_popup_death_door_title"><![CDATA[Portes de la Mort]]></entry>
     <entry id="tutorial_popup_consider_retreat_title"><![CDATA[Le sauve-qui-peut...]]></entry>
     <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Neutraliser les Pièges]]></entry>
     <entry id="tutorial_popup_using_doors_title"><![CDATA[Entrer par les Portes]]></entry>
@@ -35,8 +35,8 @@
     <entry id="tutorial_popup_hero_panel_description"><![CDATA[Faites un [CLIC-DROIT] sur un héros ou son portrait à tout moment pour afficher un écran détaillé montrant tout les Traits, compétences et résistances du héros.]]></entry>
     <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de retourner en ville à tout moment - cliquez simplement sur le cachet de cire. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
     <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Le Sanatorium est le plus souvent utilisé pour enlever les traits négatifs et soigner les maladies. Vous pouvez aussi l'utiliser pour renforcer un trait positif en le verrouillant et empêcher les nouveaux traits positifs de le déplacer. 3 traits positifs maximum verouillés par héros.]]></entry>
-    <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont une haute protection (PROT), qui absorbe les dégâts. Les DOT (poison et saignement) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaire.]]></entry>
-    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront permanents. Les Traits négatifs permanents coûtent beaucoup plus cher pour être éliminé dans le Sanatorium.]]></entry>	
+    <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont une haute protection (PROT), qui absorbe les dégâts. Les DOT (poison et saignement) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaires.]]></entry>
+    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront permanents. Les Traits négatifs permanents coûtent beaucoup plus cher pour être éliminés dans le Sanatorium.]]></entry>	
     <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyer et maintenir [H] pour afficher l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
@@ -57,12 +57,12 @@ Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour
 
 Si vous le désirez, vous pouvez utiliser un antivenin dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur l'antivenin pendant le tour du héros infecté.]]></entry>
     <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleures sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches 
+    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches.
 
 Pour votre première petite quête, prenez au moins 8 vivres et 4 torches.]]></entry>
     <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de combat. Cliquez sur les compétences et regardez ce qu'il se produit sur l'écran ci-dessus !]]></entry>
     <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir trois compétences de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes en nécessitant
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes en nécessitant.
 
 Le Feu de Camp donne au héros une chance de récupérer pendant un donjon. Lorsque vous êtes blessé ou stressé et que vous voulez faire un campement, [CLIC-DROIT] sur le Bois dans votre inventaire.]]></entry>
     <entry id="tutorial_popup_camping_description"><![CDATA[Un campement se décompose en deux parties: la phase de Repas et de la phase de Compétence.
@@ -92,8 +92,8 @@ Ce choix est vôtre. [Si c'est le tutoriel, le repli n'est pas possible.]]]></en
 Certains héros sont meilleurs que d'autres pour le désarmement.]]></entry>
     <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour ouvrir une porte, [CLIQUEZ] ou appuyez sur [W] quand vous êtes en face.]]></entry>
     <entry id="tutorial_popup_stress_description"><![CDATA[De nombreuses actions et expériences sont sources de stress. Les dommages du stress apparaissent au-dessus de la tête des héros en caractères noirs. Le stress peut aussi être guéri et apparaît en blanc.]]></entry>
-    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros a la possibilité d'équiper deux éléments appelés "breloques." Il suffit de glisser la breloque de l'inventaire vers l'emplacement du héros sélectionné. Les breloques ont généralement un malus et un bonus. Certains sont également spécifiques à une classe.]]></entry>
-    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différentes groupes pour voir ceux qui fonctionnent 
+    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros a la possibilité d'équiper deux éléments appelé "breloques." Il suffit de glisser la breloque de l'inventaire vers l'emplacement du héros sélectionné. Les breloques ont généralement un malus et un bonus. Certains sont également spécifiques à une classe.]]></entry>
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différents groupes pour voir ceux qui vous conviennent. 
 
 Cependant, il est recommandé d'emporter une Vestale ou un Occultiste pour les soins.]]></entry>
     <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des XP Lucidité pour chaque quête réussie. Les XP Lucidité déterminent le Niveau de lucidité du héros.
@@ -108,7 +108,7 @@ Pendant que vous êtes ici, investissez une partie de votre pécule de départ s
 Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mise à niveau.]]></entry>
     <entry id="tutorial_popup_heart_attack_description"><![CDATA[Le Stress au-delà du point d'Affliction.
 
-Si la barre de Stress d'un héros se remplit une seconde fois, leur corps lâchera. Soignez-les ou revenez en ville avant que cela n'arrive.
+Si la barre de Stress d'un héros se remplit une seconde fois, son corps lâchera. Soignez-le ou revenez en ville avant que cela n'arrive.
 
 La mort nous attend tous.]]></entry>
     <entry id="str_help_town_0"><![CDATA[[CLIC-DROIT] sur un héros dans la liste pour voir sa fiche de personnage. Ils peuvent être renommés ou congédiés de cette liste.]]></entry>
@@ -120,14 +120,14 @@ La mort nous attend tous.]]></entry>
     <entry id="str_help_town_6"><![CDATA[TAVERNE: fait baisser le stress des héros.]]></entry>
     <entry id="str_help_town_7"><![CDATA[ABBAYE: fait baisser le stress des héros.]]></entry>
     <entry id="str_help_town_8"><![CDATA[SANATORIUM: soigne les Traits et Maladies de vos héros.]]></entry>
-    <entry id="str_help_town_9"><![CDATA[CHARIOT INTINÉRANT: boutique d'objets rares]]></entry>
+    <entry id="str_help_town_9"><![CDATA[CHARIOT INTINÉRANT: boutique d'objets rares.]]></entry>
     <entry id="str_help_town_stage_coach_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
     <entry id="str_help_town_stage_coach_1"><![CDATA[[CLIC-DROIT] sur les héros pour voir leur fiche.]]></entry>
     <entry id="str_help_town_stage_coach_2"><![CDATA[[GLISSEZ] les nouveaux héros dans votre liste pour les recruter.]]></entry>
     <entry id="str_help_town_blacksmith_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
-    <entry id="str_help_town_blacksmith_1"><![CDATA[[GLISSEZ] un héros de votre liste chez le Forgeron pour voir les améliorations d'armes possibles.]]></entry>
+    <entry id="str_help_town_blacksmith_1"><![CDATA[[GLISSEZ] un héros de votre liste chez le Forgeron pour voir les améliorations possibles.]]></entry>
     <entry id="str_help_town_blacksmith_2"><![CDATA[[CLIQUEZ] sur une amélioration pour l'acheter. Vous devrez mettre à niveau le Forgeron pour acheter de meilleures améliorations.]]></entry>
-    <entry id="str_help_town_guild_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponible.]]></entry>
+    <entry id="str_help_town_guild_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
     <entry id="str_help_town_guild_1"><![CDATA[[GLISSEZ] un héros de votre liste dans la Guilde pour voir les améliorations de compétences possibles.]]></entry>
     <entry id="str_help_town_guild_2"><![CDATA[[CLIQUEZ] sur une amélioration pour l'acheter. Vous devrez mettre à niveau la Guilde pour acheter de meilleures améliorations.]]></entry>
     <entry id="str_help_town_camping_trainer_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
@@ -143,13 +143,13 @@ La mort nous attend tous.]]></entry>
     <entry id="str_help_town_abbey_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
     <entry id="str_help_town_abbey_1"><![CDATA[[GLISSEZ] un héros sur l'emplacement approprié pour démarrer son activité.]]></entry>
     <entry id="str_help_town_abbey_2"><![CDATA[Des Traits empêchent le héros de prendre part à cette activité.]]></entry>
-    <entry id="str_help_town_abbey_3"><![CDATA[Chaque activités ont des coûts différent, de la récupération de stress et de possibles effets secondaire. Vous devrez les découvrir en jouant.]]></entry>
+    <entry id="str_help_town_abbey_3"><![CDATA[Chaque activités ont des coûts différents, de la récupération de stress et de possibles effets secondaires. Vous devrez les découvrir en jouant.]]></entry>
     <entry id="str_help_town_abbey_4"><![CDATA[Engager le héros dans l'activité va le rendre indisponible pour la prochaine quête.]]></entry>
     <entry id="str_help_town_abbey_5"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
     <entry id="str_help_town_abbey_6"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour expulser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
     <entry id="str_help_town_sanitarium_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
     <entry id="str_help_town_sanitarium_1"><![CDATA[Soigner un trait: [GLISSEZ] un héros dans l'emplacement, sélectionnez un Trait à supprimer et payez pour démarrer le traitement.]]></entry>
-    <entry id="str_help_town_sanitarium_2"><![CDATA[Soigner une maladie: [GLISSEZ] un héros dans l'emplacement de la salle de soins et sélectionnez la maladie à soigner. Parfois des maladies supplémentaires seront également soignées.]]></entry>	
+    <entry id="str_help_town_sanitarium_2"><![CDATA[Soigner une maladie: [GLISSEZ] un héros dans l'emplacement de la Salle de Soins et sélectionnez la maladie à soigner. Parfois, des maladies supplémentaires seront également soignées.]]></entry>	
     <entry id="str_help_town_sanitarium_3"><![CDATA[Engager le héros dans l'activité va le rendre indisponible pour la prochaine quête.]]></entry>
     <entry id="str_help_town_sanitarium_4"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
     <entry id="str_help_town_sanitarium_5"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour expluser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
@@ -160,7 +160,7 @@ La mort nous attend tous.]]></entry>
     <entry id="str_help_town_quest_select_2"><![CDATA[Les héros qui sont dans la Taverne, l'Abbaye ou le Sanatorium seront indisponibles pour les quêtes.]]></entry>
     <entry id="str_help_town_quest_select_3"><![CDATA[Accomplissez des quêtes dans les régions pour faire progresser votre rang et vous ouvrir l'accès à de nouveaux types de quêtes.]]></entry>
     <entry id="str_help_town_quest_select_4"><![CDATA[[CLIQUEZ] sur "PROVISIONS" lorsque vous êtes prêt à poursuivre.]]></entry>
-    <entry id="str_help_town_provision_0"><![CDATA[[CLIQUEZ] sur les articles dans l'échoppe pour les acheter pour votre expédition.]]></entry>
+    <entry id="str_help_town_provision_0"><![CDATA[[CLIQUEZ] sur les articles dans l'échoppe afin de les acheter pour votre expédition.]]></entry>
     <entry id="str_help_town_provision_1"><![CDATA[À la fin de la quête, les provisions non utilisées seront perdues et non remboursées. Achetez au plus juste !]]></entry>
     <entry id="str_help_town_provision_2"><![CDATA[Vous devez toujours emporter de la nourriture et des torches ! Chaque héros mange généralement 1 vivre par repas (Campement ou Petit creux).]]></entry>
     <entry id="str_help_raid_room_0"><![CDATA[[CLIQUEZ] sur une salle dans la minicarte pour vous engager dans son couloir.]]></entry>
