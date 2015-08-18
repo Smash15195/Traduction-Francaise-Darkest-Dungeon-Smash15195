@@ -61,7 +61,7 @@ If you wish, you can use anti-venom from inventory to neutralize it. [RIGHT-CLIC
 
 For your first short quest, try bringing at least 8 food and 4 torches.]]></entry>
     <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Heroes can only have 4 active combat skills at a time. Toggle the skills on and off to change your loadout, and watch how it changes that hero's positional strength in the display above!]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have 3 camping skills active at a time. Toggle the skills on and off by clicking on them.]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have 4 camping skills active at a time. Toggle the skills on and off by clicking on them.]]></entry>
     <entry id="tutorial_popup_camping_quest_description"><![CDATA[This quest involves camping, and camping requires firewood. Firewood is given automatically to you on appropriate quests.
 
 Camping gives heroes a chance to recuperate while in the dungeon. When you are wounded or stressed and wish to camp, [RIGHT-CLICK] on the firewood in your inventory.]]></entry>

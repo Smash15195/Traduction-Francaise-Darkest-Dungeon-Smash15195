@@ -34,7 +34,7 @@
     <entry id="str_curio_heirloom_chest_loot"><![CDATA[Son contenu est vôtre !]]></entry>
     <entry id="str_curio_heirloom_chest_effect"><![CDATA[Il est piégé !]]></entry>
     <entry id="str_curio_heirloom_chest_skeleton_key_loot"><![CDATA[La clé déverrouille un compartiment caché !]]></entry>
-    <entry id="str_curio_heirloom_chest_antivenom_loot"><![CDATA[L'anti-venin neutralise un piège dans un compartiment caché !]]></entry>
+    <entry id="str_curio_heirloom_chest_antivenom_loot"><![CDATA[L'antivenin neutralise un piège dans un compartiment caché !]]></entry>
     <entry id="str_curio_title_eldritch_altar"><![CDATA[Autel d'Eldritch]]></entry>
     <entry id="str_curio_content_eldritch_altar"><![CDATA[Un autel bizarre et contre nature semble être l'objet d'un culte profane.]]></entry>
     <entry id="str_curio_tooltip_investigate_eldritch_altar"><![CDATA[Étudier l'autel...]]></entry>
@@ -190,7 +190,7 @@
     <entry id="str_curio_content_mummified_remains"><![CDATA[Une vieille dépouille. Le corps semble bien conservé.]]></entry>
     <entry id="str_curio_tooltip_investigate_mummified_remains"><![CDATA[Étudier les restes...]]></entry>
     <entry id="str_curio_mummified_remains_nothing"><![CDATA[Il n'y a rien de la valeur sur le corps.]]></entry>
-    <entry id="str_curio_mummified_remains_loot"><![CDATA[Des trésors sont logés des les restes !]]></entry>
+    <entry id="str_curio_mummified_remains_loot"><![CDATA[Des trésors sont logés dans les restes !]]></entry>
     <entry id="str_curio_mummified_remains_effect"><![CDATA[Les restes rendent le héros malade.]]></entry>
     <entry id="str_curio_mummified_remains_bandage_loot"><![CDATA[Un bandage fournit une protection pour une recherche approfondie !]]></entry>
     <entry id="str_curio_title_sacrificial_stone"><![CDATA[Pierre Sacrificielle]]></entry>
@@ -210,7 +210,7 @@
     <entry id="str_curio_tooltip_investigate_occult_scrawlings"><![CDATA[Lire les griffonnages...]]></entry>
     <entry id="str_curio_occult_scrawlings_nothing"><![CDATA[Les griffonnages sont sans intérêt.]]></entry>
     <entry id="str_curio_occult_scrawlings_quirk"><![CDATA[Les griffonnages changent à jamais le héros.]]></entry>
-    <entry id="str_curio_occult_scrawlings_effect"><![CDATA[Leur vue est insupportable pour le héros.]]></entry>
+    <entry id="str_curio_occult_scrawlings_effect"><![CDATA[La vue est insupportable pour le héros.]]></entry>
     <entry id="str_curio_occult_scrawlings_holy_water_effect"><![CDATA[L'eau bénite siffle et le héros ressent... un mal-être.]]></entry>
     <entry id="str_curio_title_moonshine_barrel"><![CDATA[Baril d'Alcool]]></entry>
     <entry id="str_curio_content_moonshine_barrel"><![CDATA[Un baril qui pue les vapeurs de liqueurs.]]></entry>

@@ -34,6 +34,7 @@
 	<entry id="menu_options_element_bark_dismissal"><![CDATA[Enlever Bark]]></entry>
     <entry id="menu_options_element_blur"><![CDATA[Effet de flou]]></entry>	
     <entry id="menu_options_element_debug_output"><![CDATA[Journal Debug]]></entry>	
+    <entry id="menu_options_element_tutorial"><![CDATA[Tutoriels]]></entry>
     <entry id="menu_base_element_view_options"><![CDATA[Options]]></entry>
     <entry id="menu_base_element_view_controls"><![CDATA[Contrôles]]></entry>
     <entry id="menu_base_element_watch_intro"><![CDATA[Voir cinématique d'intro]]></entry>

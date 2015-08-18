@@ -61,8 +61,8 @@ Si vous le désirez, vous pouvez utiliser un antivenin dans votre inventaire pou
 
 Pour votre première petite quête, prenez au moins 8 vivres et 4 torches.]]></entry>
     <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de combat. Cliquez sur les compétences et regardez ce qu'il se produit sur l'écran ci-dessus !]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir trois compétences de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes en nécessitant.
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes qui en nécéssitent.
 
 Le Feu de Camp donne au héros une chance de récupérer pendant un donjon. Lorsque vous êtes blessé ou stressé et que vous voulez faire un campement, [CLIC-DROIT] sur le Bois dans votre inventaire.]]></entry>
     <entry id="tutorial_popup_camping_description"><![CDATA[Un campement se décompose en deux parties: la phase de Repas et de la phase de Compétence.
@@ -142,7 +142,7 @@ La mort nous attend tous.]]></entry>
     <entry id="str_help_town_tavern_6"><![CDATA[[SHIFT-CLICK] sur un emplacement du bâtiment pour expluser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
     <entry id="str_help_town_abbey_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
     <entry id="str_help_town_abbey_1"><![CDATA[[GLISSEZ] un héros sur l'emplacement approprié pour démarrer son activité.]]></entry>
-    <entry id="str_help_town_abbey_2"><![CDATA[Des Traits empêchent le héros de prendre part à cette activité.]]></entry>
+    <entry id="str_help_town_abbey_2"><![CDATA[Des Traits empêches le héros de prendre part à cette activité.]]></entry>
     <entry id="str_help_town_abbey_3"><![CDATA[Chaque activités ont des coûts différents, de la récupération de stress et de possibles effets secondaires. Vous devrez les découvrir en jouant.]]></entry>
     <entry id="str_help_town_abbey_4"><![CDATA[Engager le héros dans l'activité va le rendre indisponible pour la prochaine quête.]]></entry>
     <entry id="str_help_town_abbey_5"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
