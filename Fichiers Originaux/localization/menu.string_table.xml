@@ -14,6 +14,9 @@
     <entry id="menu_controls_element_2_3"><![CDATA[Q / E - Cycle to next hero while viewing character sheet]]></entry>
     <entry id="menu_controls_element_2_4"><![CDATA[T - Use a torch]]></entry>
     <entry id="menu_controls_element_2_5"><![CDATA[1/2/3/4/5 - Quick select a skill for the current hero]]></entry>
+    <entry id="menu_options_element_corpses"><![CDATA[Monsters Leave Corpses]]></entry>
+    <entry id="menu_options_element_heart_attack"><![CDATA[Heart Attacks]]></entry>
+    <entry id="menu_options_not_recommended_confirm_dialog"><![CDATA[We recommend leaving this option on for the most authentic experience. Still disable?]]></entry>
     <entry id="menu_options_require_restart"><![CDATA[You will need to restart the game for these changes to take effect.]]></entry>
     <entry id="menu_options_value_seperation_resolution"><![CDATA[x]]></entry>
     <entry id="menu_options_back_confirm_dialog_question"><![CDATA[Save these changes?]]></entry>

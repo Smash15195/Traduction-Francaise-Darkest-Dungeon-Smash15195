@@ -271,7 +271,7 @@
     <entry id="camping_skill_name_therapy_dog"><![CDATA[CHIEN DE THÉRAPIE]]></entry>
     <entry id="camping_skill_name_pet_the_hound"><![CDATA[MEILLEUR AMI DE L'HOMME]]></entry>
     <entry id="camping_skill_name_release_the_hound"><![CDATA[TAÏAUT !]]></entry>	
-    <entry id="camping_skill_selection_individual"><![CDATA[Un Compagnon:]]></entry>
+    <entry id="camping_skill_selection_individual"><![CDATA[Sur Compagnon:]]></entry>
     <entry id="camping_skill_selection_party_other"><![CDATA[Tous Compagnons:]]></entry>
     <entry id="camping_skill_selection_self"><![CDATA[Sur soi:]]></entry>
     <entry id="camping_skill_requirement_effect_format"><![CDATA[Si %s: %s]]></entry>

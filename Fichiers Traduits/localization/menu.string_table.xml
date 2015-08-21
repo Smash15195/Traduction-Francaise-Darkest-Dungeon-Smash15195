@@ -14,6 +14,9 @@
     <entry id="menu_controls_element_2_3"><![CDATA[Q / E - Pour voir la fiche du prochain/précedent héros]]></entry>
     <entry id="menu_controls_element_2_4"><![CDATA[T - Utiliser une torche]]></entry>
     <entry id="menu_controls_element_2_5"><![CDATA[1/2/3/4/5 - Sélection rapide des compétences]]></entry>
+    <entry id="menu_options_element_corpses"><![CDATA[Cadavres de Monstres]]></entry>
+    <entry id="menu_options_element_heart_attack"><![CDATA[Attaques Cardiaques]]></entry>
+    <entry id="menu_options_not_recommended_confirm_dialog"><![CDATA[Nous recommandons de laisser cette option pour une expérience plus authentique. Voulez-vous continuer ?]]></entry>
     <entry id="menu_options_require_restart"><![CDATA[Vous devez redémarrer le jeu pour appliquer les changements.]]></entry>
     <entry id="menu_options_value_seperation_resolution"><![CDATA[x]]></entry>
     <entry id="menu_options_back_confirm_dialog_question"><![CDATA[Sauvegarder les changements ?]]></entry>
