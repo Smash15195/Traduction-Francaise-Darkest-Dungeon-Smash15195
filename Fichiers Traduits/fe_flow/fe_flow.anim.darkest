@@ -1,0 +1,43 @@
+fe_flow_times:
+	.splash0			4.0
+	.splash1			2.0
+	.splash2			2.0
+	.hor_trailer		5.0
+	.preamble_read_time 25.0
+	.preamble_scroll	10.0
+	.insanity_scroll	1.0
+	.saves_scroll		1.0
+	.saves_fadein		0.3
+	.intro_movie		5.0
+	.fade_to_black		1.0
+	.scrolling_text_pps 26.0 
+	.sky_anim_speedX1   15.0
+	.sky_anim_speedX2   10.0
+	.time_accel			10.0
+
+fe_flow_positions:
+	.ruins_center				0	-1080
+	.insanity_center			0	-2360
+	.saves_scroll				0   -1520
+	.preamble_frame				544.5   330
+	.savegame_frame				350	 1977
+	.savegame_slots_offset		201	  140
+	.save_envelope1_offset		120   202
+	.save_envelope2_offset		120   348
+	.save_envelope3_offset		120   494
+	.save_estate_name_pos		274   180
+	.save_estate_name_spacing   0	  136
+	.save_area_name_pos         894   182
+	.save_area_name_spacing		0	  136
+	.nuke_save_offset			-10	   36
+	.nuke_frame_offset			-10     6
+	.start_button				764	 1990
+	.start_button_text_offset	120	   10
+	.settings_button			1700   960
+	.title_house				0	 1486
+	.titles						960 450
+	.build_num_pos				100  60
+	.scrolling_text_box			458  1000
+	.scrolling_text_box_dim		1000    40
+	.sky_pos1					0	 1450
+	.sky_pos2					300	 1600	
