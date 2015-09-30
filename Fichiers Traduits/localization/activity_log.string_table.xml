@@ -183,10 +183,10 @@
     <entry id="str_caretaker_goal_plot_kill_formless_flesh_2"><![CDATA[Vaincre la Chair Instable]]></entry>
     <entry id="str_caretaker_goal_plot_kill_formless_flesh_3"><![CDATA[Vaincre la Chair Déformée]]></entry>
     <entry id="str_caretaker_goal_plot_kill_siren_1"><![CDATA[Vaincre la Sirène]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_siren_2"><![CDATA[Vaincre la Sirène]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_siren_3"><![CDATA[Vaincre la Sirène]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_drowned_crew_1"><![CDATA[Vaincre l'Équipage Noyé]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_drowned_crew_2"><![CDATA[Vaincre l'Équipage Noyé]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_siren_2"><![CDATA[Vaincre la Sirène Séduisante]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_siren_3"><![CDATA[Vaincre la Sirène Enjôleuse]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_drowned_crew_1"><![CDATA[Vaincre l'Équipage Détrempé]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_drowned_crew_2"><![CDATA[Vaincre l'Équipage Submergé]]></entry>
     <entry id="str_caretaker_goal_plot_kill_drowned_crew_3"><![CDATA[Vaincre l'Équipage Noyé]]></entry>
     <entry id="str_caretaker_goal_hero_resolve"><![CDATA[Atteindre le Niveau 6 avec un(e) %s ]]></entry>
     <entry id="str_caretaker_goals_heading"><![CDATA[Objectifs du Gardien]]></entry>

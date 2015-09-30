@@ -136,13 +136,13 @@
     <entry id="effect_tooltip_disease"><![CDATA[Provoque une maladie]]></entry>
     <entry id="effect_tooltip_summon_format"><![CDATA[Invoquer %s]]></entry>
     <entry id="effect_tooltip_heal_format"><![CDATA[Soigne %d PV]]></entry>
-    <entry id="effect_tooltip_move_forward"><![CDATA[Tire %d]]></entry>
-    <entry id="effect_tooltip_move_backward"><![CDATA[Repousse %d]]></entry>
+    <entry id="effect_tooltip_move_forward"><![CDATA[Avance de %d]]></entry>
+    <entry id="effect_tooltip_move_backward"><![CDATA[Recule de %d]]></entry>
     <entry id="effect_tooltip_shuffle_single"><![CDATA[Déplace un Membre]]></entry>
     <entry id="effect_tooltip_shuffle_group"><![CDATA[Mélange le Groupe]]></entry>
     <entry id="effect_tooltip_guard"><![CDATA[Garde Allié]]></entry>
     <entry id="effect_tooltip_riposte"><![CDATA[Active Riposte]]></entry>
-    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %ss]]></entry>
+    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %s]]></entry>
     <entry id="effect_tooltip_format"><![CDATA[%s %s]]></entry>
     <entry id="effect_tooltip_additional_description_format"><![CDATA[%s %s
 %s]]></entry>
@@ -173,7 +173,7 @@
     <entry id="old effect_tooltip_shuffle_group"><![CDATA[Mélange le Groupe]]></entry>
     <entry id="old effect_tooltip_guard"><![CDATA[Garde Allié]]></entry>
     <entry id="old effect_tooltip_riposte"><![CDATA[Active Riposte]]></entry>
-    <entry id="old effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %ss]]></entry>
+    <entry id="old effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %s]]></entry>
     <entry id="str_stat_base_weapon_and_skill"><![CDATA[Arme + Compétence]]></entry>	
     <entry id="skill_random_target"><![CDATA[cible aléatoire]]></entry>
     <entry id="skill_heal_format"><![CDATA[soigne %d-%d]]></entry>

@@ -33,7 +33,7 @@
     <entry id="menu_options_element_video_volume"><![CDATA[Volume Cinématique]]></entry>
     <entry id="menu_options_element_metrics"><![CDATA[Activer collecte de données anonymes]]></entry>
     <entry id="menu_options_element_combat_pivot_camera"><![CDATA[Caméra Combat Dynamique]]></entry>
-    <entry id="menu_options_element_extra_bark_time"><![CDATA[Temps supplémentaire Bark (secondes)]]></entry>
+    <entry id="menu_options_element_extra_bark_time"><![CDATA[Temps suppl. allocution (secondes)]]></entry>
 	<entry id="menu_options_element_bark_dismissal"><![CDATA[Enlever Bark]]></entry>
     <entry id="menu_options_element_blur"><![CDATA[Effet de flou]]></entry>	
     <entry id="menu_options_element_debug_output"><![CDATA[Journal Debug]]></entry>	

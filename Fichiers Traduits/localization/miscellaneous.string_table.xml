@@ -656,7 +656,7 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="town_quest_description_plot_kill_siren_3"><![CDATA[Mélodies envoûtantes et notes ensorcelantes résonnent dans les falaises sous le Manoir. Découvrez la source ... et faites-la taire]]></entry>
     <entry id="town_quest_name_plot_kill_drowned_crew_1"><![CDATA[Tuer l'Équipage Détrempé]]></entry>
     <entry id="town_quest_description_plot_kill_drowned_crew_1"><![CDATA[Des spectres vengeurs menacent de faire couler tout ce que nous avons construit vers leur abysse obscure. Donnez-leur une mort de marin - une fois pour toutes]]></entry>
-    <entry id="town_quest_name_plot_kill_drowned_crew_2"><![CDATA[Tuer l'Équipage Englouti]]></entry>
+    <entry id="town_quest_name_plot_kill_drowned_crew_2"><![CDATA[Tuer l'Équipage Submergé]]></entry>
     <entry id="town_quest_description_plot_kill_drowned_crew_2"><![CDATA[Des spectres vengeurs menacent de faire couler tout ce que nous avons construit vers leur abysse obscure. Donnez-leur une mort de marin - une fois pour toutes]]></entry>
     <entry id="town_quest_name_plot_kill_drowned_crew_3"><![CDATA[Tuer l'Équipage Noyé]]></entry>
     <entry id="town_quest_description_plot_kill_drowned_crew_3"><![CDATA[Des spectres vengeurs menacent de faire couler tout ce que nous avons construit vers leur abysse obscure. Donnez-leur une mort de marin - une fois pour toutes]]></entry>
@@ -989,8 +989,8 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="town_quest_difficulty_5"><![CDATA[Champion (Niv 5)]]></entry>
     <entry id="raid_quest_complete"><![CDATA[Quête Terminée !]]></entry>
     <entry id="town_quest_goal_start_kill_monster"><![CDATA[Tuer %d %s.]]></entry>
-    <entry id="town_quest_goal_start_explore_room"><![CDATA[Explorer %.0f%% des salles.]]></entry>
-    <entry id="town_quest_goal_start_battle_room"><![CDATA[Faire %.0f%% des combats en salle.]]></entry>
+    <entry id="town_quest_goal_start_explore_room"><![CDATA[Explorer l'endroit à %.0f%%.]]></entry>
+    <entry id="town_quest_goal_start_battle_room"><![CDATA[Faire %.0f%% des combats.]]></entry>
     <entry id="town_quest_goal_start_gather"><![CDATA[Ramasser %d %ss.]]></entry>
     <entry id="town_quest_goal_start_activate"><![CDATA[Activer %d %ss.]]></entry>
     <entry id="town_quest_progress_plot_kill_necromancer_1"><![CDATA[Tuer le boss !]]></entry>
@@ -1101,8 +1101,8 @@ Augmente énorment le Stress, dégâts des monstres, le butin, les critiques sub
     <entry id="corrupt_save_confirm_question"><![CDATA[Votre fichier de sauvegarde semble avoir été corrompu. Nous recommandons de déplacer vos sauvegardes sur le bureau ou ailleurs avant de poursuivre:]]></entry>
     <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Charger à partir d'une sauvegarde de secours.]]></entry>
     <entry id="corrupt_save_confirm_answer_load_corrupted_save"><![CDATA[Tenter de charger. (Non recommandé.)]]></entry>
-    <entry id="str_skill_tooltip_back"><![CDATA[Repousse %d]]></entry>
-    <entry id="str_skill_tooltip_forward"><![CDATA[Tire %d]]></entry>
+    <entry id="str_skill_tooltip_back"><![CDATA[Recule de %d]]></entry>
+    <entry id="str_skill_tooltip_forward"><![CDATA[Avance de %d]]></entry>
     <entry id="str_skill_tooltip_acc_base"><![CDATA[ATT base: %.0f]]></entry>
     <entry id="str_skill_tooltip_dmg_mod"><![CDATA[DGT mod: %.0f%%]]></entry>
     <entry id="str_skill_tooltip_crit_mod"><![CDATA[CRIT mod: %.1f%%]]></entry>

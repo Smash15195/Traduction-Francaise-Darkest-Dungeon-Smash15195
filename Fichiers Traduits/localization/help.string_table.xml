@@ -36,7 +36,7 @@
     <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de retourner en ville à tout moment - cliquez simplement sur le cachet de cire. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
     <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Le Sanatorium est le plus souvent utilisé pour enlever les traits négatifs et soigner les maladies. Vous pouvez aussi l'utiliser pour renforcer un trait positif en le verrouillant et empêcher les nouveaux traits positifs de le déplacer. 3 traits positifs maximum verouillés par héros.]]></entry>
     <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont une haute protection (PROT), qui absorbe les dégâts. Les DOT (poison et saignement) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaires.]]></entry>
-    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront permanents. Les Traits négatifs virulents coûtent beaucoup plus cher pour être éliminés dans le Sanatorium.]]></entry>	
+    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront virulents. Les Traits négatifs virulents coûtent beaucoup plus cher pour être éliminés dans le Sanatorium.]]></entry>	
     <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyer et maintenir [H] pour afficher l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
