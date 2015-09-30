@@ -31,86 +31,90 @@
     <entry id="tutorial_popup_quest_complete_title"><![CDATA[Completing a Quest]]></entry>
     <entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[Treatment]]></entry>
     <entry id="tutorial_popup_high_prot_title"><![CDATA[Monsters with High PROT]]></entry>
-    <entry id="tutorial_popup_permanent_neg_quirks_title"><![CDATA[Permanent Negative Quirks]]></entry>
-    <entry id="tutorial_popup_hero_panel_description"><![CDATA[[RIGHT-CLICK] on a hero's image or portrait at any time to bring up a detailed panel showing all of the hero's quirks, skills, and resistances.]]></entry>
-    <entry id="tutorial_popup_quest_complete_description"><![CDATA[After you've completed the requirements of a quest, you have the option to return to town at any time--just click the the crest. You don't need to return to the starting room of the dungeon to exit.]]></entry>
-    <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[The Sanitarium is most often used to remove negative quirks and treat diseases. But you can also use it to reinforce a positive quirk, which will lock it into place and prevent new positive quirks from displacing it. You can lock a maximum of 3 positive quirks per hero.]]></entry>
-    <entry id="tutorial_popup_high_prot_description"><![CDATA[Some monsters have high PROT, which absorbs attack damage. DOTs (blight and bleed) ignore PROT and are effective means to take down these highly armored opponents.]]></entry>
-    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Over time, some negative quirks will lock into place and become permanent. Permanent negative quirks cost much more to remove in the Sanitarium.]]></entry>
+    <entry id="tutorial_popup_permanent_neg_quirks_title"><![CDATA[Severe Negative Quirks]]></entry>
+    <entry id="tutorial_popup_hero_panel_description"><![CDATA[[RIGHT-CLICK] on a hero's {colour_start|notable}image or portrait{colour_end} at any time to bring up a detailed panel showing all of the hero's {colour_start|notable}quirks{colour_end}, {colour_start|notable}skills{colour_end}, and {colour_start|notable}resistances{colour_end}.]]></entry>
+    <entry id="tutorial_popup_quest_complete_description"><![CDATA[After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to town{colour_end} at any time--just {colour_start|notable}click the crest{colour_end}. You don't need to return to the starting room of the dungeon to exit.]]></entry>
+    <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[The {colour_start|notable}Sanitarium{colour_end} is most often used to remove {colour_start|harmful}negative quirks{colour_end} and treat {colour_start|sanitarium_treatment_disease_entry}diseases{colour_end}. But you can also use it to reinforce a {colour_start|notable}positive quirk{colour_end}, which will lock it into place and prevent new positive quirks from displacing it. You can lock a maximum of 3 positive quirks per hero.]]></entry>
+    <entry id="tutorial_popup_high_prot_description"><![CDATA[Some monsters have high {colour_start|notable}PROT{colour_end}, which {colour_start|notable}absorbs attack damage{colour_end}. DOTs ({colour_start|pop_text_poison}blight{colour_end} and {colour_start|pop_text_bleed}bleed{colour_end}) ignore PROT and are effective means to take down these highly armored opponents.]]></entry>
+    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Over time, some {colour_start|harmful}negative quirks{colour_end} will lock into place and become {colour_start|notable}severe{colour_end}. Severe{colour_start|harmful}negative quirks{colour_end} cost much more to remove in the Sanitarium.]]></entry>
     <entry id="tutorial_popup_press_h_description"><![CDATA[On any screen in the game, press and hold [H] to see contextual help for controls in that mode.
 
 Try it while in town, exploring, fighting, camping, and more.]]></entry>
-    <entry id="tutorial_popup_combat_description"><![CDATA[Combat is turn-based. On your hero's turn, [CLICK] a skill icon and then [CLICK] on a highlighted target. 
+    <entry id="tutorial_popup_combat_description"><![CDATA[Combat is {colour_start|notable}turn-based{colour_end}. On your hero's turn, [CLICK] a skill icon and then [CLICK] on a highlighted target. 
 
-If you can't select a particular skill, it's because that hero needs to be standing in a different spot or there are no valid targets. [Mouse Over] the skill to see the requirements.]]></entry>
-    <entry id="tutorial_popup_map_nav_description"><![CDATA[You are currently in a room.
+If you can't select a particular skill, it's because that hero needs to be {colour_start|notable}standing in a different spot{colour_end} or there are {colour_start|notable}no valid targets{colour_end}. [Mouse Over] the skill to see the requirements.]]></entry>
+    <entry id="tutorial_popup_map_nav_description"><![CDATA[You are currently in a {colour_start|notable}room{colour_end}.
 
-To move forth, [CLICK] on another room on the map display. This will take you to the connecting hallway.]]></entry>
-    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[While in a hallway, press [D] to move forward, [A] to move back.
+To move forth, [CLICK] on {colour_start|notable}another room{colour_end} on the {colour_start|notable}map display{colour_end}. This will take you to the {colour_start|notable}connecting hallway{colour_end}.]]></entry>
+    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[While in a {colour_start|notable}hallway{colour_end}, press [D] to move forward, [A] to move back.
 
-If you prefer the mouse, you can [CLICK] ahead or behind the party to move them.]]></entry>
-    <entry id="tutorial_popup_curio_description"><![CDATA[While exploring, you will often find interactive objects. [CLICK] or press [W] to investigate them. Take a look at this tent...]]></entry>
-    <entry id="tutorial_popup_bandage_description"><![CDATA[Your hero is bleeding!
+If you prefer the {colour_start|notable}mouse{colour_end}, you can [CLICK] ahead or behind the party to move them.]]></entry>
+    <entry id="tutorial_popup_curio_description"><![CDATA[While exploring, you will often find {colour_start|notable}interactive objects{colour_end}. [CLICK] or press [W] to investigate them. Take a look at this tent...]]></entry>
+    <entry id="tutorial_popup_bandage_description"><![CDATA[Your hero is {colour_start|pop_text_bleed}bleeding{colour_end}!
 
-If you wish, you can use a bandage from inventory to stop the flow. [RIGHT-CLICK] on the bandage while it's the injured hero's turn.]]></entry>
-    <entry id="tutorial_popup_antivenom_description"><![CDATA[Your hero is blighted!
+If you wish, you can use a {colour_start|notable}bandage{colour_end} from inventory to stop the flow. [RIGHT-CLICK] on the {colour_start|notable}bandage{colour_end} while it's the injured hero's turn.]]></entry>
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Your hero is {colour_start|pop_text_poison}blighted{colour_end}!
 
-If you wish, you can use anti-venom from inventory to neutralize it. [RIGHT-CLICK] on the anti-venom while it's the injured hero's turn.]]></entry>
-    <entry id="tutorial_popup_torch_description"><![CDATA[The light is fading! The current torch level greatly affects many mechanics in the game. The darker it gets, the harder things get but the better the rewards. [RIGHT-CLICK] on a torch from inventory to boost the light back up.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[You'll want to take different supplies depending on what region you are going to, how long the quest is, and your own preferences. But always bring some food and torches!
+If you wish, you can use {colour_start|notable}anti-venom{colour_end} from inventory to neutralize it. [RIGHT-CLICK] on the {colour_start|notable}anti-venom{colour_end} while it's the injured hero's turn.]]></entry>
+    <entry id="tutorial_popup_torch_description"><![CDATA[The {colour_start|notable}light{colour_end} is fading! The current {colour_start|notable}torch level greatly affects many mechanics{colour_end} in the game. The darker it gets, the harder things get but the better the rewards. [RIGHT-CLICK] on a torch from inventory to boost the light back up.]]></entry>
+    <entry id="tutorial_popup_supplies_description"><![CDATA[You'll want to take {colour_start|notable}different supplies{colour_end} depending on what {colour_start|notable}region{colour_end} you are going to, how {colour_start|notable}long{colour_end} the quest is, and your own preferences. But always bring some {colour_start|notable}food{colour_end} and {colour_start|notable}torches{colour_end}!
 
 For your first short quest, try bringing at least 8 food and 4 torches.]]></entry>
-    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Heroes can only have 4 active combat skills at a time. Toggle the skills on and off to change your loadout, and watch how it changes that hero's positional strength in the display above!]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have 4 camping skills active at a time. Toggle the skills on and off by clicking on them.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[This quest involves camping, and camping requires firewood. Firewood is given automatically to you on appropriate quests.
+    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Heroes can only have {colour_start|notable}4 active combat skills{colour_end} at a time. Toggle the skills on and off to change your loadout, and watch how it changes that hero's positional strength in the display above!]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have {colour_start|notable}4 camping skills active{colour_end} at a time. Toggle the skills on and off by clicking on them.]]></entry>
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[This quest involves {colour_start|notable}camping{colour_end}, and camping requires {colour_start|notable}firewood{colour_end}. Firewood is {colour_start|notable}given automatically{colour_end} to you on appropriate quests.
 
-Camping gives heroes a chance to recuperate while in the dungeon. When you are wounded or stressed and wish to camp, [RIGHT-CLICK] on the firewood in your inventory.]]></entry>
-    <entry id="tutorial_popup_camping_description"><![CDATA[Camping consists of two parts: Meal phase and Skill phase.
+{colour_start|notable}Camping{colour_end} gives heroes a chance to {colour_start|notable}recuperate while in the dungeon{colour_end}. When you are wounded or stressed and wish to camp, [RIGHT-CLICK] on the firewood in your inventory.]]></entry>
+    <entry id="tutorial_popup_camping_description"><![CDATA[Camping consists of two parts: {colour_start|notable}Meal phase{colour_end} and {colour_start|notable}Skill phase{colour_end}.
 
-During the Meal phase, you choose how much they eat, which determines recovery. Make sure you have enough food!
+During the {colour_start|notable}Meal phase{colour_end}, you choose how much they eat, which determines recovery. Make sure you have enough food!
 
-Skill Phase allows you to spend Rest Points on different hero skills used for recuperation.]]></entry>
-    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Heroes relieve stress by taking part in activities at the Tavern and Abbey. Each activity has different side-effects.
+{colour_start|notable}Skill Phase{colour_end} allows you to spend {colour_start|notable}Rest Points{colour_end} on different hero skills used for recuperation.]]></entry>
+    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Heroes relieve stress by taking part in activities at the {colour_start|notable}Tavern{colour_end} and {colour_start|notable}Abbey{colour_end}. Each activity has different side-effects.
 
-Experiment to find the best activity for each hero, depending on their quirks!
+Experiment to find the best activity for each hero, depending on their {colour_start|notable}quirks{colour_end}!
 
-Commiting a hero to an activity [LOCKS THEM IN THAT ACTIVITY] until the next Week. You'll have to take a different hero with you on your next quest.]]></entry>
-    <entry id="tutorial_popup_afflicted_description"><![CDATA[When heroes can't take the stress any more, they become afflicted. This manifests in different behaviors and stat changes. Afflictions last until you send them to treatment in town, unless you can reduce their stress to zero during the quest.]]></entry>
-    <entry id="tutorial_popup_virtued_description"><![CDATA[Sometimes, heroes respond to the onslaught of stress by becoming heroic!
+Commiting a hero to an activity {colour_start|notable}locks them in that activity{colour_end} until the {colour_start|notable}next Week{colour_end}. You'll have to take a different hero with you on your next quest.]]></entry>
+    <entry id="tutorial_popup_afflicted_description"><![CDATA[When heroes {colour_start|notable}can't take the stress any more{colour_end}, they become {colour_start|harmful}afflicted{colour_end}. This manifests in {colour_start|notable}different behaviors{colour_end} and {colour_start|notable}stat changes{colour_end}. {colour_start|harmful}Afflictions{colour_end} last until you {colour_start|notable}send them to treatment{colour_end} in town, unless you can reduce their stress to zero during the quest.]]></entry>
+    <entry id="tutorial_popup_virtued_description"><![CDATA[Sometimes, heroes respond to the onslaught of stress by becoming {colour_start|notable}heroic{colour_end}!
 
-This elevated state of performance will last until they camp or return to town, and confers stat bonuses and other benefits.]]></entry>
-    <entry id="tutorial_popup_death_door_description"><![CDATA[When a hero is reduced to 0 HP, they are at "Death's Door."
+This elevated state of performance will last until they camp or return to town, and confers {colour_start|notable}stat bonuses{colour_end} and other benefits.]]></entry>
+    <entry id="tutorial_popup_death_door_description"><![CDATA[When a hero is reduced to 0 HP, they are at {colour_start|harmful}Death's Door{colour_end}.
 
-While in this state, they will suffer stat penalties, plus any further damage has a chance to kill them.
+While in this state, they will suffer {colour_start|notable}stat penalties{colour_end}, plus any further damage has a {colour_start|notable}chance to kill them{colour_end}.
 
-Heal them to get off Death's Door!]]></entry>
-    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[The first of many heroes has given their all in service to you. You have the option of retreating from combat and abandoning this quest to save the others, or press onward.
+{colour_start|notable}Heal{colour_end} them to get off {colour_start|harmful}Death's Door{colour_end}!]]></entry>
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[The first of many heroes has given their all in service to you. You have the option of {colour_start|notable}retreating from combat{colour_end} and abandoning this quest to save the others, or {colour_start|notable}press onward{colour_end}.
 
 The choice is yours. [If this is the tutorial, retreat is unavailable.]]]></entry>
-    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Scouted traps will be visible on the ground as you approach them. Select a hero and then [CLICK] on the trap to attempt to disarm it.
+    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Scouted {colour_start|harmful}traps{colour_end} will be {colour_start|notable}visible on the ground{colour_end} as you approach them. Select a hero and then [CLICK] on the {colour_start|harmful}trap{colour_end} to attempt to {colour_start|notable}disarm it{colour_end}.
 
 Some heroes are better than others at disarming.]]></entry>
-    <entry id="tutorial_popup_using_doors_description"><![CDATA[To enter a door, [CLICK] or press [W] when standing in front of it.]]></entry>
-    <entry id="tutorial_popup_stress_description"><![CDATA[Many actions and experiences cause stress. Stress damage appears above heroes' heads, in black type. Stress can also be healed, and that appears in white type.]]></entry>
-    <entry id="tutorial_popup_trinkets_description"><![CDATA[Each hero has room to equip two items, called "trinkets." Just drag the trinket from inventory over to the selected hero's slot. Trinkets generally have a trade-off: something good, something bad. Some are also class-specific.]]></entry>
-    <entry id="tutorial_popup_questparty_description"><![CDATA[Each quest has different goals and rewards, and each region has its own challenges. Experiment with various combinations to see what works!
+    <entry id="tutorial_popup_using_doors_description"><![CDATA[To enter a {colour_start|notable}door{colour_end}, [CLICK] or press [W] when standing in front of it.]]></entry>
+    <entry id="tutorial_popup_stress_description"><![CDATA[Many actions and experiences cause {colour_start|harmful}stress{colour_end}. {colour_start|harmful}Stress{colour_end} damage appears above heroes' heads, in black type. {colour_start|harmful}Stress{colour_end} can also be {colour_start|notable}healed{colour_end}, and that appears in white type.]]></entry>
+    <entry id="tutorial_popup_trinkets_description"><![CDATA[Each hero has room to equip two items, called {colour_start|notable}trinkets{colour_end}. Just {colour_start|notable}drag the trinket{colour_end} from inventory over to the {colour_start|notable}selected hero's slot{colour_end}. {colour_start|notable}Trinkets{colour_end} generally have a trade-off: something good, something bad. Some are also class-specific.]]></entry>
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Each quest has {colour_start|notable}different goals and rewards{colour_end}, and each region has its own challenges. Experiment with various combinations to see what works!
 
-However, it's recommended to bring along a Vestal or an Occultist for healing.]]></entry>
-    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Heroes gain Resolve XP for each successful quest. Resolve XP in turn determines the hero's Resolve Level.
+However, it's recommended to bring along a {colour_start|notable}Vestal{colour_end} or an {colour_start|notable}Occultist{colour_end} for healing.]]></entry>
+    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Heroes gain {colour_start|notable}Resolve XP{colour_end} for each successful quest. {colour_start|notable}Resolve XP{colour_end} in turn determines the hero's {colour_start|notable}Resolve Level{colour_end}.
 
-Resolve Level represents the hero's veteranship, and directly acts as Stress Resistance against the horrors encountered in the dungeons.
+{colour_start|notable}Resolve Level{colour_end} represents the hero's veteranship, and directly acts as {colour_start|notable}Stress Resistance{colour_end} against the horrors encountered in the dungeons.
 
-A low Resolve Level hero that tries a higher level quest will quickly crumble under the unimaginable stresses.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[You'll need to recruit these two heroes to fill out a party of four. [Drag and drop] them into your roster.
+A low {colour_start|notable}Resolve Level{colour_end} hero that tries a higher level quest will quickly crumble under the unimaginable stresses.]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[You'll need to {colour_start|notable}recruit these two heroes{colour_end} to fill out a party of four. [Drag and drop] them into your roster.
 
-While you're here, spend some of your starting resources on UPGRADING the Stagecoach network. This will increase the number of heroes available here in the future.
+While you're here, spend some of your starting resources on {colour_start|notable}upgrading the Stagecoach network{colour_end}. This will increase the number of heroes available here in the future.
 
 To upgrade, click the [+] symbol on the left, and then click the upgrade.]]></entry>
-    <entry id="tutorial_popup_heart_attack_description"><![CDATA[Stress continues to build beyond the point of Affliction.
+    <entry id="tutorial_popup_heart_attack_description"><![CDATA[{colour_start|harmful}Stress{colour_end} continues to build beyond the point of {colour_start|harmful}Affliction{colour_end}.
 
-If a hero's stress bar fills a second time completely, their body will give out. Get them aid or retreat back to town before this happens.
+If a hero's stress bar fills a second time completely, their {colour_start|harmful}body will give out{colour_end}. Get them aid or retreat back to town before this happens.
 
 Death awaits us all.]]></entry>
+    <entry id="tutorial_popup_death_class_title"><![CDATA[Corpses]]></entry>
+    <entry id="tutorial_popup_death_class_description"><![CDATA[When most monsters die, they leave corpses. Corpses will eventually go away on their own, but you can attack them to get rid of them faster. 
+
+Monsters killed with bleed, blight, or crits leave no corpse at all!]]></entry>
     <entry id="str_help_town_0"><![CDATA[[RIGHT-CLICK] on a hero in the roster to inspect their detailed character sheet. They can be renamed or dismissed permanently from there.]]></entry>
     <entry id="str_help_town_1"><![CDATA[[CLICK] on buildings to use them to interact with your heroes.]]></entry>
     <entry id="str_help_town_2"><![CDATA[STAGECOACH: recruit new heroes]]></entry>
@@ -148,7 +152,7 @@ Death awaits us all.]]></entry>
     <entry id="str_help_town_abbey_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
     <entry id="str_help_town_abbey_6"><![CDATA[[SHIFT-CLICK] on a building slot to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
     <entry id="str_help_town_sanitarium_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_sanitarium_1"><![CDATA[Treating quirks: [DRAG] a hero into a treatment ward slot and select a positive quirk to reinforce and/or a negative quirk to remove. Permanent quirks cost more to remove.]]></entry>
+    <entry id="str_help_town_sanitarium_1"><![CDATA[Treating quirks: [DRAG] a hero into a treatment ward slot and select a positive quirk to reinforce and/or a negative quirk to remove. Severe quirks cost more to remove.]]></entry>
     <entry id="str_help_town_sanitarium_2"><![CDATA[Treating diseases: [DRAG] a hero into a medical ward slot and select a disease to treat. Sometimes extra diseases will also be cured.]]></entry>
     <entry id="str_help_town_sanitarium_3"><![CDATA[Committing the hero to treatment will make them unavailable for the next quest.]]></entry>
     <entry id="str_help_town_sanitarium_4"><![CDATA[You will need to upgrade the building to unlock additional treatment slots.]]></entry>

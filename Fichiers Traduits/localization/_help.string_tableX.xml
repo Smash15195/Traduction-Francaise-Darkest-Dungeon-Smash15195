@@ -32,83 +32,83 @@
     <entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[Traitement]]></entry>
     <entry id="tutorial_popup_high_prot_title"><![CDATA[Les Monstres à Haute PROT]]></entry>
     <entry id="tutorial_popup_permanent_neg_quirks_title"><![CDATA[Traits Négatifs Virulents]]></entry>
-    <entry id="tutorial_popup_hero_panel_description"><![CDATA[Faites un [CLIC-DROIT] sur un héros ou son portrait à tout moment pour afficher un écran détaillé montrant tout les Traits, compétences et résistances du héros.]]></entry>
-    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de retourner en ville à tout moment - cliquez simplement sur le cachet de cire. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
-    <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Le Sanatorium est le plus souvent utilisé pour enlever les traits négatifs et soigner les maladies. Vous pouvez aussi l'utiliser pour renforcer un trait positif en le verrouillant et empêcher les nouveaux traits positifs de le déplacer. 3 traits positifs maximum verouillés par héros.]]></entry>
-    <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont une haute protection (PROT), qui absorbe les dégâts. Les DOT (poison et saignement) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaires.]]></entry>
-    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, des traits négatifs se verrouilleront et deviendront permanents. Les Traits négatifs virulents coûtent beaucoup plus cher pour être éliminés dans le Sanatorium.]]></entry>	
+    <entry id="tutorial_popup_hero_panel_description"><![CDATA[Faites un [CLIC-DROIT] sur un héros ou {colour_start|notable}son portrait{colour_end} à tout moment pour afficher un écran détaillé montrant tout {colour_start|notable}les Traits{colour_end}, {colour_start|notable}compétences{colour_end} et {colour_start|notable}résistances{colour_end} du héros.]]></entry>
+    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Lorsque vous avez terminé les objectifs d'une quête, vous avez la possibilité de {colour_start|notable}retourner en ville{colour_end} à tout moment - {colour_start|notable}cliquez simplement sur le cachet de cire{colour_end}. Vous n'avez pas à revenir à votre salle de départ pour partir.]]></entry>
+    <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Le {colour_start|notable}Sanatorium{colour_end} est le plus souvent utilisé pour enlever {colour_start|harmful}les traits négatifs{colour_end} et soigner {colour_start|sanitarium_treatment_disease_entry}les maladies{colour_end}. Vous pouvez aussi l'utiliser pour renforcer {colour_start|notable}un trait positif{colour_end} en le verrouillant et empêcher les nouveaux traits positifs de le déplacer. 3 traits positifs maximum verouillés par héros.]]></entry>
+    <entry id="tutorial_popup_high_prot_description"><![CDATA[Certains monstres ont {colour_start|notable}une haute protection (PROT){colour_end}, qui {colour_start|notable}absorbe les dégâts{colour_end}. Les DOT ({colour_start|pop_text_poison}poison{colour_end} et {colour_start|pop_text_bleed}saignement{colour_end}) ignorent la protection et sont des moyens efficaces pour tuer ce genre d'adversaires.]]></entry>
+    <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[Au fil du temps, {colour_start|harmful}des traits négatifs{colour_end} se verrouilleront et deviendront {colour_start|notable}virulent{colour_end}. Les {colour_start|harmful}Traits négatifs{colour_end} virulents coûtent beaucoup plus cher pour être éliminés dans le Sanatorium.]]></entry>	
     <entry id="tutorial_popup_press_h_description"><![CDATA[A chaque écran du jeu vous pouvez appuyer et maintenir [H] pour afficher l'aide contextuelle.
 
 Essayez quand vous serez en ville, en exploration, pendant un combat, un campement etc.]]></entry>
-    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont au tour par tour. Au tour de vos héros, [CLIQUEZ] sur une compétence et ensuite [CLIQUEZ] sur votre cible.
+    <entry id="tutorial_popup_combat_description"><![CDATA[Les combats sont {colour_start|notable}au tour par tour{colour_end}. Au tour de vos héros, [CLIQUEZ] sur une compétence et ensuite [CLIQUEZ] sur votre cible.
 
-Si vous ne pouvez sélectionner une compétence, c'est parce que votre héros ne se trouve pas à la bonne position ou qu'il n'a pas de cibles valides. [Survolez] la compétence pour connaitre ses prérequis.]]></entry>
-    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous êtes dans une salle.
+Si vous ne pouvez sélectionner une compétence, c'est parce que votre héros ne se trouve pas {colour_start|notable}à la bonne position{colour_end} ou qu'il n'a pas de {colour_start|notable}cibles valides{colour_end}. [Survolez] la compétence pour connaitre ses prérequis.]]></entry>
+    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous êtes dans {colour_start|notable}une salle{colour_end}.
 
-Pour avancer, [CLIQUEZ] sur une salle dans la mini-carte. Cela aura pour effet de vous mettre dans le couloir y menant.]]></entry>
-    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans un couloir, appuyez sur [D] pour avancer et sur [A] pour reculer.
+Pour avancer, [CLIQUEZ] sur {colour_start|notable}une salle{colour_end} dans la {colour_start|notable}mini-carte{colour_end}. Cela aura pour effet de vous {colour_start|notable}mettre dans le couloir{colour_end} y menant.]]></entry>
+    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans {colour_start|notable}un couloir{colour_end}, appuyez sur [D] pour avancer et sur [A] pour reculer.
 
-Si vous préférez la souris, vous pouvez [CLIQUEZ] devant ou derrière le groupe pour le déplacer.]]></entry>
-    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant votre exploration, vous trouverez souvent des objets intéractifs. [CLIQUEZ] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
-    <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne !
+Si vous préférez {colour_start|notable}la souris{colour_end}, vous pouvez [CLIQUEZ] devant ou derrière le groupe pour le déplacer.]]></entry>
+    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant votre exploration, vous trouverez souvent des {colour_start|notable}objets intéractifs{colour_end}. [CLIQUEZ] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
+    <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros {colour_start|pop_text_bleed}saigne{colour_end} !
 
-Si vous le souhaitez, vous pouvez utilisez un bandage dans votre inventaire pour arrêter l'hémorragie. [CLIC-DROIT] sur le bandage pendant le tour du héros blessé.]]></entry>
-    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre héros est infecté !
+Si vous le souhaitez, vous pouvez utilisez {colour_start|notable}un bandage{colour_end} dans votre inventaire pour arrêter l'hémorragie. [CLIC-DROIT] sur {colour_start|notable}le bandage{colour_end} pendant le tour du héros blessé.]]></entry>
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre héros est {colour_start|pop_text_poison}empoisonné{colour_end} !
 
-Si vous le désirez, vous pouvez utiliser un antivenin dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur l'antivenin pendant le tour du héros infecté.]]></entry>
-    <entry id="tutorial_popup_torch_description"><![CDATA[La torche s'estompe ! Le niveau de lumière affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleures sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre différentes provisions en fonction de la région où vous allez, de la durée de la quête et de vos préférences. Mais emportez toujours de la nourriture et des torches.
+Si vous le désirez, vous pouvez utiliser un {colour_start|notable}antivenin{colour_end} dans votre inventaire pour neutraliser le poison. [CLIC-DROIT] sur {colour_start|notable}l'antivenin{colour_end} pendant le tour du héros infecté.]]></entry>
+    <entry id="tutorial_popup_torch_description"><![CDATA[La {colour_start|notable}torche{colour_end} s'estompe ! Le {colour_start|notable}niveau de lumière{colour_end} affecte beaucoup de mécaniques de jeu. Plus il fait sombre, plus les choses deviennent difficiles mais meilleures sont les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour augmenter votre jauge de lumière.]]></entry>
+    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous devrez prendre {colour_start|notable}différentes provisions{colour_end} en fonction de la {colour_start|notable}région{colour_end} où vous allez, de {colour_start|notable}la durée{colour_end} de la quête et de vos préférences. Mais emportez toujours de la {colour_start|notable}nourriture{colour_end} et des {colour_start|notable}torches{colour_end}.
 
 Pour votre première petite quête, prenez au moins 8 vivres et 4 torches.]]></entry>
-    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de combat. Cliquez sur les compétences et regardez ce qu'il se produit sur l'écran ci-dessus !]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir quatre compétences de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement et un campement nécessite du bois. Le Bois vous est donné automatiquement pour les quêtes qui en nécéssitent.
+    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Héros peuvent avoir {colour_start|notable}quatre compétences{colour_end} de combat. Cliquez sur les compétences et regardez ce qu'il se produit sur l'écran ci-dessus !]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros peuvent avoir {colour_start|notable}quatre compétences{colour_end} de campement. Activez/désactivez-les en cliquant dessus.]]></entry>
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique {colour_start|notable}un campement{colour_end} et un campement nécessite du {colour_start|notable}bois{colour_end}. Le Bois vous est {colour_start|notable}donné automatiquement{colour_end} pour les quêtes qui en nécéssitent.
 
-Le Feu de Camp donne au héros une chance de récupérer pendant un donjon. Lorsque vous êtes blessé ou stressé et que vous voulez faire un campement, [CLIC-DROIT] sur le Bois dans votre inventaire.]]></entry>
-    <entry id="tutorial_popup_camping_description"><![CDATA[Un campement se décompose en deux parties: la phase de Repas et de la phase de Compétence.
+Le {colour_start|notable}Feu de Camp{colour_end} donne au héros une chance de {colour_start|notable}récupérer pendant un donjon{colour_end}. Lorsque vous êtes blessé ou stressé et que vous voulez faire un campement, [CLIC-DROIT] sur le Bois dans votre inventaire.]]></entry>
+    <entry id="tutorial_popup_camping_description"><![CDATA[Un campement se décompose en deux parties: la {colour_start|notable}phase de Repas{colour_end} et de la {colour_start|notable}phase de Compétence{colour_end}.
 
-Pendant la phase de Repas, vous choisissez les rations qui déterminent la récupération de vie. Assurez-vous d'avoir assez de nourriture. 
+Pendant la {colour_start|notable}Phase de Repas{colour_end}, vous choisissez les rations qui déterminent la récupération de vie. Assurez-vous d'avoir assez de nourriture. 
 
-La phase de Compétence vous permet de dépenser des Points de Repos sur les différentes compétences de campement.]]></entry>
-    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Héros soulagent leur stress en prenant part à des activités à la Taverne et l'Abbaye. Chaque activité a des effets secondaires.
+La {colour_start|notable}phase de Compétence{colour_end} vous permet de dépenser des {colour_start|notable}Points de Repos{colour_end} sur les différentes compétences de campement.]]></entry>
+    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Héros soulagent leur stress en prenant part à des activités à la {colour_start|notable}Taverne{colour_end} et {colour_start|notable}l'Abbaye{colour_end}. Chaque activité a des effets secondaires.
 
-Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs Traits. 
+Faites des essais pour trouver la meilleure activité pour chaque héros, en fonction de leurs {colour_start|notable}Traits{colour_end}. 
 
-Assigner un héros à une activité [LE BLOQUE DANS CETTE ACTIVITE] jusqu'à la semaine suivante. Vous devrez prendre un héros différent avec vous pour votre prochaine quête.]]></entry>
-    <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros sont stressés au maximum, ils deviennent affligés. Cela se manifeste par différents comportements et des changements de stats. Les afflictions restent jusqu'à ce que vous les guérissiez avec un traitement en ville, sauf si vous arrivez à réduire le stress à zéro pendant la quête.]]></entry>
-    <entry id="tutorial_popup_virtued_description"><![CDATA[Parfois les héros répondent au stress en devenant héroïque !
+Assigner un héros à une activité {colour_start|notable}le bloque dans cette activité{colour_end} jusqu'à la {colour_start|notable}semaine suivante{colour_end}. Vous devrez prendre un héros différent avec vous pour votre prochaine quête.]]></entry>
+    <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros sont {colour_start|notable}stressés au maximum{colour_end}, ils deviennent {colour_start|notable}affligés{colour_end}. Cela se manifeste par {colour_start|notable}différents comportements{colour_end} et des {colour_start|notable}changements de stats{colour_end}. Les {colour_start|harmful}afflictions{colour_end} restent jusqu'à ce que vous les{colour_start|notable} guérissiez avec un traitement{colour_end} en ville, sauf si vous arrivez à réduire le stress à zéro pendant la quête.]]></entry>
+    <entry id="tutorial_popup_virtued_description"><![CDATA[Parfois les héros répondent au stress en devenant {colour_start|notable}héroïque{colour_end} !
 
-Cet haut état de performance durera jusqu'à un campement ou au retour en ville et donnera des bonus de stats et d'autres avantages.]]></entry>
-    <entry id="tutorial_popup_death_door_description"><![CDATA[Quand un héros atteint 0 PV, il est aux "Portes de la Mort".
+Cet haut état de performance durera jusqu'à un campement ou au retour en ville et donnera des {colour_start|notable}bonus de stats{colour_end} et d'autres avantages.]]></entry>
+    <entry id="tutorial_popup_death_door_description"><![CDATA[Quand un héros atteint 0 PV, il est aux "{colour_start|harmful}Portes de la Mort{colour_end}".
 
-Dans cet état, il subira des pénalités de stats et plus de dégâts qui auront un risque de le tuer.
+Dans cet état, il subira des {colour_start|notable}pénalités de stats{colour_end} et plus de dégâts qui auront un {colour_start|notable}risque de le tuer{colour_end}.
 
-Soignez-le pour le faire sortir des Portes de la Mort !]]></entry>
-    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Voilà le premier héros a succombé pour vous. Vous avez la possibilité de vous replier du combat et abandonner cette quête pour sauver les autres ou continuer
+{colour_start|notable}Soignez-le{colour_end} pour le faire sortir des {colour_start|harmful}Portes de la Mort{colour_end} !]]></entry>
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Voilà le premier héros a succombé pour vous. Vous avez la possibilité de vous {colour_start|notable}replier du combat{colour_end} et abandonner cette quête pour sauver les autres ou {colour_start|notable}continuer{colour_end}.
 
 Ce choix est vôtre. [Si c'est le tutoriel, le repli n'est pas possible.]]]></entry>
-    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les pièges repérés seront visibles sur le terrain à votre approche. Sélectionnez un héros, puis [CLIQUEZ] sur le piège pour tenter de le désarmer.
+    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les {colour_start|harmful}pièges{colour_end} repérés seront {colour_start|notable}visibles sur le terrain{colour_end} à votre approche. Sélectionnez un héros, puis [CLIQUEZ] sur le {colour_start|harmful}piège{colour_end} pour tenter de le {colour_start|notable}désarmer{colour_end}.
 
 Certains héros sont meilleurs que d'autres pour le désarmement.]]></entry>
-    <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour ouvrir une porte, [CLIQUEZ] ou appuyez sur [W] quand vous êtes en face.]]></entry>
-    <entry id="tutorial_popup_stress_description"><![CDATA[De nombreuses actions et expériences sont sources de stress. Les dommages du stress apparaissent au-dessus de la tête des héros en caractères noirs. Le stress peut aussi être guéri et apparaît en blanc.]]></entry>
-    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros a la possibilité d'équiper deux éléments appelé "breloques." Il suffit de glisser la breloque de l'inventaire vers l'emplacement du héros sélectionné. Les breloques ont généralement un malus et un bonus. Certains sont également spécifiques à une classe.]]></entry>
-    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses et chaque région a ses propres défis. Expérimentez avec différents groupes pour voir ceux qui vous conviennent. 
+    <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour ouvrir une {colour_start|notable}porte{colour_end}, [CLIQUEZ] ou appuyez sur [W] quand vous êtes en face.]]></entry>
+    <entry id="tutorial_popup_stress_description"><![CDATA[De nombreuses actions et expériences sont sources de {colour_start|harmful}stress{colour_end}. Les dommages du {colour_start|harmful}stress{colour_end} apparaissent au-dessus de la tête des héros en caractères noirs. Le {colour_start|harmful}stress{colour_end} peut aussi {colour_start|notable}être guéri{colour_end} et apparaît en blanc.]]></entry>
+    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros a la possibilité d'équiper deux éléments appelé "{colour_start|notable}breloques{colour_end}". Il suffit de {colour_start|notable}glisser la breloque{colour_end} de l'inventaire vers {colour_start|notable}l'emplacement du héros{colour_end} sélectionné. Les {colour_start|notable}breloques{colour_end} ont généralement un malus et un bonus. Certains sont également spécifiques à une classe.]]></entry>
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a {colour_start|notable}différents objectifs et récompenses{colour_end} et chaque région a ses propres défis. Expérimentez avec différents groupes pour voir ceux qui vous conviennent. 
 
-Cependant, il est recommandé d'emporter une Vestale ou un Occultiste pour les soins.]]></entry>
-    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des XP Lucidité pour chaque quête réussie. Les XP Lucidité déterminent le Niveau de lucidité du héros.
+Cependant, il est recommandé d'emporter une {colour_start|notable}Vestale{colour_end} ou un {colour_start|notable}Occultiste{colour_end} pour les soins.]]></entry>
+    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les Héros acquièrent des {colour_start|notable}XP Lucidité{colour_end} pour chaque quête réussie. Les {colour_start|notable}XP Lucidité{colour_end} déterminent le {colour_start|notable}Niveau de lucidité{colour_end} du héros.
 
-Le Niveau Lucidité représente l'ancienneté du héros et agit directement comme facteur de résistance au stress contre les horreurs rencontrées dans les donjons.
+Le {colour_start|notable}Niveau Lucidité{colour_end} représente l'ancienneté du héros et agit directement comme facteur de {colour_start|notable}résistance au stress{colour_end} contre les horreurs rencontrées dans les donjons.
 
-Un héros au faible Niveau de Lucidité qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux héros pour remplir votre groupe de quatre. [Glissez-les] dans votre liste.
+Un héros au faible {colour_start|notable}Niveau de Lucidité{colour_end} qui tente une quête de niveau supérieur va rapidement s'effondrer sous un stress inimaginable.]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de {colour_start|notable}recruter ces deux héros{colour_end} pour remplir votre groupe de quatre. [Glissez-les] dans votre liste.
 
-Pendant que vous êtes ici, investissez une partie de votre pécule de départ sur la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
+Pendant que vous êtes ici, {colour_start|notable}investissez une partie de votre pécule{colour_end} de départ sur la Diligence. Cela vous permettra d'accroître le nombre de héros disponibles à l'avenir.
 
 Pour l'améliorer, cliquez sur le symbole [+] à gauche, puis cliquez sur la mise à niveau.]]></entry>
-    <entry id="tutorial_popup_heart_attack_description"><![CDATA[Le Stress au-delà du point d'Affliction.
+    <entry id="tutorial_popup_heart_attack_description"><![CDATA[Le {colour_start|harmful}Stress{colour_end} au-delà du point d'{colour_start|harmful}Affliction{colour_end}.
 
-Si la barre de Stress d'un héros se remplit une seconde fois, son corps lâchera. Soignez-le ou revenez en ville avant que cela n'arrive.
+Si la barre de Stress d'un héros se remplit une seconde fois, {colour_start|harmful}son corps lâchera{colour_end}. Soignez-le ou revenez en ville avant que cela n'arrive.
 
 La mort nous attend tous.]]></entry>
     <entry id="tutorial_popup_death_class_title"><![CDATA[Cadavres]]></entry>
@@ -152,7 +152,7 @@ Les montres mort par saignement, poison ou par un critique ne laissent aucun cad
     <entry id="str_help_town_abbey_5"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>
     <entry id="str_help_town_abbey_6"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour expulser le héros de l'activité en cours. Vous ne pourrez pas récupérer l'argent dépensé.]]></entry>
     <entry id="str_help_town_sanitarium_0"><![CDATA[[CLIQUEZ] sur le + pour voir les améliorations disponibles.]]></entry>
-    <entry id="str_help_town_sanitarium_1"><![CDATA[Soigner un trait: [GLISSEZ] un héros dans l'emplacement, sélectionnez un Trait à supprimer et payez pour démarrer le traitement. Les Traits virulents coutent plus cher à supprimer.]]></entry>
+    <entry id="str_help_town_sanitarium_1"><![CDATA[Soigner un trait: [GLISSEZ] un héros dans l'emplacement, sélectionnez un Trait à supprimer et payez pour démarrer le traitement. Les Traits Virulents coutent plus cher à supprimer.]]></entry>
     <entry id="str_help_town_sanitarium_2"><![CDATA[Soigner une maladie: [GLISSEZ] un héros dans l'emplacement de la Salle de Soins et sélectionnez la maladie à soigner. Parfois, des maladies supplémentaires seront également soignées.]]></entry>	
     <entry id="str_help_town_sanitarium_3"><![CDATA[Engager le héros dans l'activité va le rendre indisponible pour la prochaine quête.]]></entry>
     <entry id="str_help_town_sanitarium_4"><![CDATA[Vous devrez mettre à niveau le bâtiment pour déverrouiller des emplacements d'activité supplémentaires.]]></entry>

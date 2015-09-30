@@ -63,6 +63,12 @@
     <entry id="str_plot_kill_formless_flesh_1_audio_line"><![CDATA[A Troubling Surplus]]></entry>
     <entry id="str_plot_kill_formless_flesh_2_audio_line"><![CDATA[The Sewer's Solution]]></entry>
     <entry id="str_plot_kill_formless_flesh_3_audio_line"><![CDATA[A Loathsome Pile]]></entry>
+    <entry id="str_plot_kill_siren_1_audio_line"><![CDATA[Faithful as the Tide]]></entry>
+    <entry id="str_plot_kill_siren_2_audio_line"><![CDATA[The Other Item]]></entry>
+    <entry id="str_plot_kill_siren_3_audio_line"><![CDATA[A Small Push]]></entry>
+    <entry id="str_plot_kill_drowned_crew_1_audio_line"><![CDATA[Marine Shipments]]></entry>
+    <entry id="str_plot_kill_drowned_crew_2_audio_line"><![CDATA[An Alternative Payment]]></entry>
+    <entry id="str_plot_kill_drowned_crew_3_audio_line"><![CDATA[Black Waters]]></entry>
   </language>
   <language id="french" />
   <language id="italian" />

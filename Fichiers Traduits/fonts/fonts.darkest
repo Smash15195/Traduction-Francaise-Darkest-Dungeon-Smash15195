@@ -180,3 +180,13 @@ font:   .id "monster_panel_skills_entry"                     .file "fonts/font_s
 font:   .id "monster_panel_hp"                               .file "fonts/font_smash15195_m_0.fnt"
 
 font:   .id "quest_complete_tooltip"                         .file "fonts/font_smash15195_m_0.fnt"
+font:   .id "realm_inventory_add_trinket_dialog_heading"     .file "fonts/font_smash15195-m.fnt"
+font:   .id "realm_inventory_add_trinket_dialog_edit_box"    .file "fonts/font_smash15195-m.fnt"
+
+font:   .id "stagecoach_add_hero_dialog_heading"             .file "fonts/font_smash15195-m.fnt"
+font:   .id "stagecoach_add_hero_dialog_edit_box"            .file "fonts/font_smash15195-m.fnt"
+font:	.id "stagecoach_empty_info_text"					 .file "fonts/font_smash15195-m.fnt"
+
+
+font:   .id "credits_category"                               .file "fonts/font_smash15195-m.fnt"
+font:	.id "credits_entry"					                 .file "fonts/font_smash15195_0.fnt"

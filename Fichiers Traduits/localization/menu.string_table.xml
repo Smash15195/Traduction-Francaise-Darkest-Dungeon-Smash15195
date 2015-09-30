@@ -62,7 +62,13 @@
     <entry id="str_plot_kill_swine_prince_3_audio_line"><![CDATA[Une Bonne Chose]]></entry>
     <entry id="str_plot_kill_formless_flesh_1_audio_line"><![CDATA[Un Surplus Inquiétant]]></entry>
     <entry id="str_plot_kill_formless_flesh_2_audio_line"><![CDATA[De Chair et de Sang]]></entry>
-    <entry id="str_plot_kill_formless_flesh_3_audio_line"><![CDATA[Une Masse Répugnante]]></entry>	
+    <entry id="str_plot_kill_formless_flesh_3_audio_line"><![CDATA[Une Masse Répugnante]]></entry>
+    <entry id="str_plot_kill_siren_1_audio_line"><![CDATA[Fidèle comme la Marée]]></entry>
+    <entry id="str_plot_kill_siren_2_audio_line"><![CDATA[L'autre Élément]]></entry>
+    <entry id="str_plot_kill_siren_3_audio_line"><![CDATA[Une Petite Poussée]]></entry>
+    <entry id="str_plot_kill_drowned_crew_1_audio_line"><![CDATA[Expéditions Maritimes]]></entry>
+    <entry id="str_plot_kill_drowned_crew_2_audio_line"><![CDATA[un Autre Genre de Paiement]]></entry>
+    <entry id="str_plot_kill_drowned_crew_3_audio_line"><![CDATA[Eaux Noires]]></entry>	
   </language>
   <language id="french" />
   <language id="italian" />

@@ -123,27 +123,58 @@
     <entry id="effect_tooltip_party"><![CDATA[Groupe:]]></entry>
     <entry id="effect_tooltip_stress_format"><![CDATA[Stress %+d]]></entry>
     <entry id="effect_tooltip_stress_heal_format"><![CDATA[Soin Stress %+d]]></entry>
-    <entry id="effect_tooltip_stun_format"><![CDATA[Étourdissement (%d%% base)]]></entry>
-	<entry id="effect_tooltip_unstun_format"><![CDATA[Chc Évit. Étourdiss (%d%% base)]]></entry>
+    <entry id="effect_tooltip_stun"><![CDATA[Étourdissement]]></entry>
+	<entry id="effect_tooltip_unstun"><![CDATA[c]]></entry>
     <entry id="effect_tooltip_tag"><![CDATA[Marque la Cible]]></entry>
-	<entry id="effect_tooltip_untag"><![CDATA[Chc Évit. Marque (%d%% base)]]></entry>
-    <entry id="effect_tooltip_cure_format"><![CDATA[Soin Poison/Saignement (%d%% base)]]></entry>
-    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Poison (%d%% base)
-%d pts/tr pendant %d trs]]></entry>
-    <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Saignement (%d%% base)
-%d pts/tr pendant %d trs]]></entry>
+	<entry id="effect_tooltip_untag"><![CDATA[Chc Évit. Marque]]></entry>
+    <entry id="effect_tooltip_cure"><![CDATA[Soin Poison/Saignement]]></entry>
+    <entry id="effect_tooltip_dot_poison"><![CDATA[Poison]]></entry>
+    <entry id="effect_tooltip_dot_bleed"><![CDATA[Saignement]]></entry>
+    <entry id="effect_tooltip_dot_format"><![CDATA[%d pts/tr pendant %d trs]]></entry>	
     <entry id="effect_tooltip_torch_format"><![CDATA[Torche %+d]]></entry>
     <entry id="effect_tooltip_shuffle_party"><![CDATA[Groupe Aléatoire]]></entry>
-    <entry id="effect_tooltip_disease_format"><![CDATA[Provoque une maladie (%d%% base)]]></entry>
+    <entry id="effect_tooltip_disease"><![CDATA[Provoque une maladie]]></entry>
     <entry id="effect_tooltip_summon_format"><![CDATA[Invoquer %s]]></entry>
     <entry id="effect_tooltip_heal_format"><![CDATA[Soigne %d PV]]></entry>
-    <entry id="effect_tooltip_move_forward"><![CDATA[Tire %d (%d%% base)]]></entry>
-    <entry id="effect_tooltip_move_backward"><![CDATA[Repousse %d (%d%% base)]]></entry>
+    <entry id="effect_tooltip_move_forward"><![CDATA[Tire %d]]></entry>
+    <entry id="effect_tooltip_move_backward"><![CDATA[Repousse %d]]></entry>
     <entry id="effect_tooltip_shuffle_single"><![CDATA[Déplace un Membre]]></entry>
     <entry id="effect_tooltip_shuffle_group"><![CDATA[Mélange le Groupe]]></entry>
     <entry id="effect_tooltip_guard"><![CDATA[Garde Allié]]></entry>
     <entry id="effect_tooltip_riposte"><![CDATA[Active Riposte]]></entry>
     <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %ss]]></entry>
+    <entry id="effect_tooltip_format"><![CDATA[%s %s]]></entry>
+    <entry id="effect_tooltip_additional_description_format"><![CDATA[%s %s
+%s]]></entry>
+    <entry id="effect_chance_format"><![CDATA[(%d%% chance)]]></entry>
+    <entry id="effect_base_chance_format"><![CDATA[(%d%% base)]]></entry>
+    <entry id="old effect_tooltip_self"><![CDATA[Soi:]]></entry>
+    <entry id="old effect_tooltip_target"><![CDATA[Cible:]]></entry>
+    <entry id="old effect_tooltip_party"><![CDATA[Groupe:]]></entry>
+    <entry id="old effect_tooltip_stress_format"><![CDATA[Stress %+d]]></entry>
+    <entry id="old effect_tooltip_stress_heal_format"><![CDATA[Soin Stress %+d]]></entry>
+    <entry id="old effect_tooltip_stun_format"><![CDATA[Étourdissement (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_unstun_format"><![CDATA[Chc Évit. Étourdiss. (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_tag"><![CDATA[Marque la Cible]]></entry>
+    <entry id="old effect_tooltip_untag"><![CDATA[Chc Évit. Marque (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_cure_format"><![CDATA[Soigne Poison/Saignement (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_dot_poison_format"><![CDATA[Poison (%d%% base)
+%d pts/tr pendant %d trs]]></entry>
+    <entry id="old effect_tooltip_dot_bleed_format"><![CDATA[Saignement (%d%% base)
+%d pts/tr pendant %d trs]]></entry>
+    <entry id="old effect_tooltip_torch_format"><![CDATA[Torche %+d]]></entry>
+    <entry id="old effect_tooltip_shuffle_party"><![CDATA[Mélange Groupe]]></entry>
+    <entry id="old effect_tooltip_disease_format"><![CDATA[Provoque une Maladie (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_summon_format"><![CDATA[Invoque %s]]></entry>
+    <entry id="old effect_tooltip_heal_format"><![CDATA[Soigne %d PV]]></entry>
+    <entry id="old effect_tooltip_move_forward"><![CDATA[Tire %d (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_move_backward"><![CDATA[Repousse %d (%d%% base)]]></entry>
+    <entry id="old effect_tooltip_shuffle_single"><![CDATA[Déplace un Membre]]></entry>
+    <entry id="old effect_tooltip_shuffle_group"><![CDATA[Mélange le Groupe]]></entry>
+    <entry id="old effect_tooltip_guard"><![CDATA[Garde Allié]]></entry>
+    <entry id="old effect_tooltip_riposte"><![CDATA[Active Riposte]]></entry>
+    <entry id="old effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %ss]]></entry>
+    <entry id="str_stat_base_weapon_and_skill"><![CDATA[Arme + Compétence]]></entry>	
     <entry id="skill_random_target"><![CDATA[cible aléatoire]]></entry>
     <entry id="skill_heal_format"><![CDATA[soigne %d-%d]]></entry>
     <entry id="skill_party_heal_format"><![CDATA[Soin de Groupe %d-%d]]></entry>
@@ -152,10 +183,7 @@
     <entry id="monster_tooltip_dodge_format"><![CDATA[ESQUIVE: %0.f]]></entry>
     <entry id="monster_tooltip_speed_format"><![CDATA[VIT: %0.f]]></entry>
   </language>
-  <language id="french">
-    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Blight %d pts/rd for %d rds]]></entry>
-    <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Bleed %d pts/rd for %d rds]]></entry>
-  </language>
+  <language id="french" />
   <language id="italian" />
   <language id="german" />
   <language id="spanish" />

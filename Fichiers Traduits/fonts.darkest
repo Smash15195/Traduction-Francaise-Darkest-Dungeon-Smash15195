@@ -1,0 +1,193 @@
+font:	.id "debug"											.file "fonts/ubuntu.fnt"
+font:	.id "pop_text"										.file "fonts/popup.fnt"
+font:	.id "tooltip_header"								.file "fonts/ubuntu.fnt"
+font:	.id "tooltip"										.file "fonts/ubuntu.fnt"
+font:	.id	"stat"											.file "fonts/ubuntu.fnt"
+font:	.id "scouting_text"									.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "banner_header"									.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "banner_sub_header"								.file "fonts/ubuntu.fnt"
+font:	.id "banner_hero_name"								.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "banner_hero_class"								.file "fonts/ubuntu.fnt"
+font:	.id "scroll_header"									.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "scroll_body"									.file "fonts/ubuntu.fnt"
+font:	.id "torch"											.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "rest"											.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "inventory_amount"								.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "skill_pips"									.file "fonts/skill_pips.fnt"
+font:	.id "bark"											.file "fonts/ubuntu_m.fnt"
+font:	.id "camping_points"								.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "pop_event_header"								.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "pop_event_sub_header"							.file "fonts/ubuntu_m.fnt"
+font:	.id "user_information_popup"						.file "fonts/ubuntu.fnt"
+font:	.id "town_name"										.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "town_progression_forward"						.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "town_roster_name"								.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "town_roster_number"							.file "fonts/ubuntu_m.fnt"
+font:	.id "town_roster_affliction"						.file "fonts/dwarvenaxe-m.fnt"
+
+font:   .id "help_text"                                     .file "fonts/ubuntu.fnt"
+
+font:	.id "town_quest_select_dungeon_name"				.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "town_quest_select_dungeon_level"				.file "fonts/ubuntu_m.fnt"
+font:	.id "town_quest_select_party_name"					.file "fonts/ubuntu_m.fnt"
+font:	.id "town_quest_select_party_name_default"			.file "fonts/ubuntu_m.fnt"
+
+font:	.id "town_quest_name"								.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "town_quest_description"						.file "fonts/ubuntu.fnt"
+font:	.id "town_quest_specifics"							.file "fonts/ubuntu.fnt"
+font:	.id "town_quest_camping"							.file "fonts/ubuntu_m.fnt"
+font:	.id "town_quest_goals"								.file "fonts/ubuntu.fnt"
+font:	.id "town_quest_goal_start_description"				.file "fonts/ubuntu.fnt"
+font:	.id "town_quest_rewards"							.file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "town_activity_name"							.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "town_activity_description"						.file "fonts/ubuntu.fnt"
+
+font:	.id "town_currency_amount"							.file "fonts/ubuntu.fnt"
+font:	.id "town_large_currency_amount"					.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "town_activity_log_entry"						.file "fonts/ubuntu.fnt"
+font:	.id "town_activity_log_week_title"   				.file "fonts/dwarvenaxe-l.fnt"
+font:   .id "town_activity_hero_portrait_name"              .file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "town_statue_archive_entry"						.file "fonts/ubuntu.fnt"
+font:   .id "town_statue_quote"                             .file "fonts/dwarvenaxe-m.fnt"
+font:	.id "town_statue_media_heading"						.file "fonts/dwarvenaxe-m.fnt"
+
+font:   .id "caretaker_goal_entry"                          .file "fonts/ubuntu.fnt"
+font:   .id "caretaker_goal_type_heading"                   .file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "town_building_info"							.file "fonts/ubuntu.fnt"
+font:	.id "town_building_upgrade_verbose"					.file "fonts/ubuntu.fnt"
+font:	.id "town_building_upgrade_title"					.file "fonts/ubuntu_m.fnt"
+font:	.id "town_building_upgrade_percent"					.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "resolve_number"								.file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "town_choice_activity"							.file "fonts/ubuntu.fnt"
+
+font:	.id "town_estate_title"								.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "town_start_raid"								.file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "town_action_banner_name"						.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "town_action_banner_help"						.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "town_action_verbose_title_text"				.file "fonts/ubuntu_m.fnt"
+font:	.id "town_action_verbose_body_text"					.file "fonts/ubuntu.fnt"
+
+font:	.id "town_character_name"							.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "town_character_class"							.file "fonts/ubuntu_m.fnt"
+font:	.id "town_character_skill_level"					.file "fonts/ubuntu_m.fnt"
+font:	.id "town_character_title"							.file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "town_upgrade_tree_title"						.file "fonts/ubuntu_m.fnt"
+
+font:	.id "raid_results_quest_title"						.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_results_quest_result"						.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "raid_results_quest_inventory_title"			.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_results_party_gold_inventory_title"		.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_results_party_heirloom_inventory_title"	.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_results_hero_name"						.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_results_hero_resolve_from_quest"			.file "fonts/ubuntu.fnt"
+font:	.id "raid_results_gold_popup"						.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "confirm_dialog_question"						.file "fonts/ubuntu_m.fnt"
+font:	.id "confirm_dialog_answer"							.file "fonts/ubuntu_m.fnt"
+
+font:	.id "quirk_name"									.file "fonts/ubuntu.fnt"
+
+font:	.id "equipment_level"								.file "fonts/ubuntu.fnt"
+
+font:	.id "resistance"									.file "fonts/ubuntu.fnt"
+
+font:	.id "campaign_status_affliction"					.file "fonts/ubuntu.fnt"
+
+font:	.id "raid_quest_info_complete"						.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_quest_info_name"							.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "raid_quest_info_goals"							.file "fonts/ubuntu.fnt"
+
+font:	.id "realm_inventory_trinket_sell_description"		.file "fonts/ubuntu_m.fnt"
+
+font:	.id "provision_sell_back_info"						.file "fonts/ubuntu_m.fnt"
+
+font:	.id "provision_quest_info_dungeon_name"				.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "provision_quest_info_specs"					.file "fonts/ubuntu.fnt"
+
+font:	.id "raid_loading_screen_title"						.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "raid_loading_screen_tip"						.file "fonts/ubuntu.fnt"
+
+font:	.id "town_screen_building_name"						.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "town_screen_building_description"				.file "fonts/ubuntu_m.fnt"
+
+font:	.id "hero_slot_name"								.file "fonts/dwarvenaxe-m.fnt"
+
+font:   .id "town_graveyard_story"                          .file "fonts/ubuntu.fnt"
+font:   .id "town_graveyard_hero_name"                      .file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "character_panel_position_pips_title"			.file "fonts/ubuntu.fnt"
+font:	.id "character_panel_target_pips_title"				.file "fonts/ubuntu.fnt"
+font:	.id "character_panel_palette_number"				.file "fonts/ubuntu.fnt"
+font:	.id "character_panel_previous_next_tooltip"			.file "fonts/ubuntu.fnt"
+
+font:	.id "roster_full"									.file "fonts/dwarvenaxe-m.fnt"
+
+font:	.id "front_end_start_screen"						.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "front_end_build_number"						.file "fonts/ubuntu.fnt"
+font:	.id "front_end_save_slot"							.file "fonts/dwarvenaxe-l.fnt"
+font:	.id "front_end_save_area"							.file "fonts/ubuntu.fnt"
+font:	.id "front_end_ticker"								.file "fonts/ubuntu_m.fnt"
+font:	.id "front_end_preamble"							.file "fonts/ubuntu_m.fnt"
+font:	.id "front_end_campaign"							.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "loading_screen_continue"						.file "fonts/ubuntu.fnt"
+
+font:	.id "tutorial_popup_title"							.file "fonts/dwarvenaxe-m.fnt"
+font:	.id "tutorial_popup_description"					.file "fonts/ubuntu.fnt"
+
+font:	.id "menu_base_element"								.file "fonts/ubuntu_m.fnt"
+font:	.id "menu_controls_category"						.file "fonts/ubuntu_m.fnt"
+font:	.id "menu_controls_element"							.file "fonts/ubuntu.fnt"
+font:	.id "menu_options_element_name"						.file "fonts/ubuntu.fnt"
+font:	.id "menu_options_element_control"					.file "fonts/ubuntu.fnt"
+font:	.id "menu_options_require_restart"					.file "fonts/ubuntu.fnt"
+
+font:	.id "loot_take_all_tooltip"					        .file "fonts/ubuntu.fnt"
+font:	.id "loot_close_tooltip"					        .file "fonts/ubuntu.fnt"
+
+font:	.id "event_hunger_eat_tooltip"		    	        .file "fonts/ubuntu.fnt"
+font:	.id "event_hunger_starve_tooltip" 			        .file "fonts/ubuntu.fnt"
+
+font:	.id "round_display_number"							.file "fonts/dwarvenaxe-l.fnt"
+
+font:	.id "glossary_quote"						        .file "fonts/dwarvenaxe-m.fnt"
+font:	.id "glossary_term"					                .file "fonts/dwarvenaxe-m.fnt"
+font:	.id "glossary_term_definition"					    .file "fonts/ubuntu.fnt"
+
+font:   .id "quest_info_camp_bonus_skill_tooltip"           .file "fonts/ubuntu.fnt"
+font:   .id "quest_info_camp_bonus_skill_stats_tooltip"     .file "fonts/ubuntu.fnt"
+
+font:   .id "sanitarium_treatment_header"                   .file "fonts/dwarvenaxe-m.fnt"
+font:   .id "sanitarium_treatment_entry"                    .file "fonts/ubuntu.fnt"
+
+font:   .id "monster_panel_monster_name"                     .file "fonts/dwarvenaxe-m.fnt"
+font:   .id "monster_panel_monster_type"                     .file "fonts/ubuntu.fnt"
+font:   .id "monster_panel_monster_stats"                    .file "fonts/ubuntu.fnt"
+font:   .id "monster_panel_hero_attack_stats"                .file "fonts/ubuntu.fnt"
+font:   .id "monster_panel_resistances_title"               .file "fonts/dwarvenaxe-m.fnt"
+font:   .id "monster_panel_resistances_entry"                .file "fonts/ubuntu.fnt"
+font:   .id "monster_panel_skills_title"                     .file "fonts/dwarvenaxe-m.fnt"
+font:   .id "monster_panel_skills_entry"                     .file "fonts/ubuntu.fnt"
+font:   .id "monster_panel_hp"                               .file "fonts/ubuntu_m.fnt"
+
+font:   .id "quest_complete_tooltip"                         .file "fonts/ubuntu_m.fnt"
+
+
+font:   .id "realm_inventory_add_trinket_dialog_heading"     .file "fonts/ubuntu_m.fnt"
+font:   .id "realm_inventory_add_trinket_dialog_edit_box"    .file "fonts/ubuntu_m.fnt"
+
+font:   .id "stagecoach_add_hero_dialog_heading"             .file "fonts/ubuntu_m.fnt"
+font:   .id "stagecoach_add_hero_dialog_edit_box"            .file "fonts/ubuntu_m.fnt"
+font:	.id "stagecoach_empty_info_text"					 .file "fonts/ubuntu_m.fnt"
+
+font:   .id "credits_category"                               .file "fonts/ubuntu_m.fnt"
+font:	.id "credits_entry"					                 .file "fonts/ubuntu.fnt"
