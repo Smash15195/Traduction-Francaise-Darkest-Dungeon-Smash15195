@@ -18,12 +18,15 @@
     <entry id="str_embarked_on_explore_crypts"><![CDATA[{?hero_names}%s sont partis explorer les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_explore_weald"><![CDATA[{?hero_names}%s sont partis explorer le Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_explore_warrens"><![CDATA[{?hero_names}%s sont partis explorer les Cryptes. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_explore_cove"><![CDATA[{?hero_names}%s sont partis explorer la Crique. ({?difficulty}%s {?length}%s)]]></entry>	
     <entry id="str_embarked_on_cleanse_crypts"><![CDATA[{?hero_names}%s ont entrepris de pourfendre le mal dans les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_cleanse_weald"><![CDATA[{?hero_names}%s ont entrepris de pourfendre le mal dans le Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_cleanse_warrens"><![CDATA[{?hero_names}%s ont entrepris de pourfendre le mal dans les Cryptes. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_cleanse_cove"><![CDATA[{?hero_names}%s sont partis assainir les eaux de la Crique. ({?difficulty}%s {?length}%s)]]></entry>	
     <entry id="str_embarked_on_kill_boss_crypts"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_weald"><![CDATA[{?hero_names}%s sont partis dans le Weald, déterminés à chasser et tuer la Sorcière cannibale. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_warrens"><![CDATA[{?hero_names}%s ont pénétré profondément dans les Cryptes avec comme objectif de détruire le gargantuesque Prince Porcin. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_kill_boss_cove"><![CDATA[{?hero_names}%s ont mis le cap sur la Crique pour faire taire le chant de la Sirène. ({?difficulty}%s {?length}%s)]]></entry>	
 	<entry id="str_embarked_on_plot_kill_necromancer_1"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_necromancer_2"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_necromancer_3"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
@@ -59,6 +62,7 @@
     <entry id="str_returned_from_explore_crypts_success"><![CDATA[{?hero_names}%s ont réussi à explorer les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_explore_weald_success"><![CDATA[{?hero_names}%s sont revenus de leur reconnaissance dans le Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_explore_warrens_success"><![CDATA[{?hero_names}%s ont explorés les Cryptes et sont revenus sans encombres. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_explore_cove_success"><![CDATA[{?hero_names}%s ont explorés la Crique et sont revenus sans encombres. ({?difficulty}%s {?length}%s)]]></entry>	
     <entry id="str_returned_from_cleanse_crypts_success"><![CDATA[{?hero_names}%s ont vaincu de nombreux monstres dans les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_cleanse_weald_success"><![CDATA[{?hero_names}%s ont mené à bien leur combat dans le Weald et sont revenus. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_cleanse_warrens_success"><![CDATA[{?hero_names}%s ont répandus le sang de nombreux ennemis dans les Cryptes. ({?difficulty}%s {?length}%s)]]></entry>
@@ -82,9 +86,11 @@
     <entry id="str_returned_from_kill_boss_crypts_success"><![CDATA[{?hero_names}%s ont occis le terrible Nécromancien ! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_weald_success"><![CDATA[{?hero_names}%s ont mis fin à la vie de la Sorcière Cannibale ! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_warrens_success"><![CDATA[{?hero_names}%s ont renvoyé le Prince Porcin en enfer ! ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_kill_boss_cove_success"><![CDATA[{?hero_names}%s ont mis en sourdine la Sirène ! ({?difficulty}%s {?length}%s)]]></entry>	
     <entry id="str_returned_from_kill_boss_crypts_failure"><![CDATA[{?hero_names}%s ont été incapables d'arrêter le Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[{?hero_names}%s n'ont pas pu arrêter la Sorcière. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_warrens_failure"><![CDATA[{?hero_names}%s ont été incapables d'arrêter le Prince Porcin. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_kill_boss_cove_failure"><![CDATA[{?hero_names}%s ont été incapables de résister à la Sirène. ({?difficulty}%s {?length}%s)]]></entry>	
     <entry id="str_returned_from_plot_kill_necromancer_1_success"><![CDATA[{?hero_names}%s ont occis le terrible Apprenti Nécromancien ! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_2_success"><![CDATA[{?hero_names}%s ont occis le terrible Nécromancien ! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_3_success"><![CDATA[{?hero_names}%s ont occis le terrible Seigneur Nécromancien ! ({?difficulty}%s {?length}%s)]]></entry>
@@ -158,7 +164,7 @@
     <entry id="str_returned_from_inventory_activate_crypts_failure"><![CDATA[{?hero_names}%s n'ont pas pu réparer les Autels Sacrés dans les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_inventory_activate_weald_failure"><![CDATA[{?hero_names}%s n'ont pas pu trouver et purifier les corps dans le Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_inventory_activate_warrens_failure"><![CDATA[{?hero_names}%s n'ont pas réussi à détruire les sanctuaires du Prince dans les Cryptes. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_inventory_activate_cove_failure"><![CDATA[{?hero_names}%s ont échoué a allumer les bassins de protection dans la Crique. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_inventory_activate_cove_failure"><![CDATA[{?hero_names}%s ont échoué pour allumer les bassins de protection dans la Crique. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_upper_the_[BUILDING]"><![CDATA[Le]]></entry>
     <entry id="str_upgrade_level"><![CDATA[Niveau: {?level}%d]]></entry>
     <entry id="str_tutorial_all_alive"><![CDATA[{?hero_names}%s vous ont escorté avec succès au Hameau.]]></entry>
@@ -285,8 +291,8 @@
     <entry id="str_gambling_remove_trinket_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a joué et a perdu une breloque: {colour_start|town_activity_log_negative_result}{?trinket_name}%s{colour_end}]]></entry>
     <entry id="str_building_unlocked_format"><![CDATA[%s débloqué]]></entry>
     <entry id="str_stage_coach_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s est maintenant débloquée.]]></entry>
-    <entry id="str_tavern_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} L' %s est maintenant débloquée.]]></entry>
-    <entry id="str_abbey_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s est maintenant débloquée.]]></entry>
+    <entry id="str_tavern_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s est maintenant débloquée.]]></entry>
+    <entry id="str_abbey_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} L'%s est maintenant débloquée.]]></entry>
     <entry id="str_blacksmith_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} Le %s est maintenant débloqué.]]></entry>
     <entry id="str_guild_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s est maintenant débloquée.]]></entry>
     <entry id="str_camping_trainer_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s est maintenant débloquée.]]></entry>
@@ -394,7 +400,7 @@
     <entry id="str_crypts_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Ruines ont été débloquées.]]></entry>
     <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Le Weald a été débloqué.]]></entry>
     <entry id="str_warrens_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Cryptes ont été débloquées.]]></entry>
-    <entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Crique a été débloqué.]]></entry>
+    <entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Crique a été débloquée.]]></entry>
     <entry id="str_crypts_level_1_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Ruines passent en Torture 1.]]></entry>
     <entry id="str_crypts_level_2_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Ruines passent en Torture 2.]]></entry>
     <entry id="str_crypts_level_3_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Ruines passent en Torture 3.]]></entry>
@@ -407,6 +413,10 @@
     <entry id="str_warrens_level_2_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Cryptes passent en Torture 2.]]></entry>
     <entry id="str_warrens_level_3_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Cryptes passent en Torture 3.]]></entry>
     <entry id="str_warrens_level_4_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Les Cryptes passent en Torture 4.]]></entry>
+    <entry id="str_cove_level_1_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Crique passe en Torture 1.]]></entry>
+    <entry id="str_cove_level_2_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Crique passe en Torture 2.]]></entry>
+    <entry id="str_cove_level_3_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Crique passe en Torture 3.]]></entry>
+    <entry id="str_cove_level_4_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Crique passe en Torture 4.]]></entry>
     <entry id="str_death_hunger_hunger"><![CDATA[est mort de faim.]]></entry>
     <entry id="str_death_trap_trap"><![CDATA[a été embroché par un piège.]]></entry>
 	<entry id="str_death_trap_obstacle"><![CDATA[a été enseveli définitivement en dégageant un obstacle.]]></entry>

@@ -18,9 +18,11 @@
     <entry id="str_embarked_on_explore_crypts"><![CDATA[{?hero_names}%s set forth to explore the Ruins. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_explore_weald"><![CDATA[{?hero_names}%s set forth to explore the Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_explore_warrens"><![CDATA[{?hero_names}%s set forth to explore the Warrens. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_explore_cove"><![CDATA[{?hero_names}%s set forth to explore the Cove. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_cleanse_crypts"><![CDATA[{?hero_names}%s embarked to slay evil in the Ruins. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_cleanse_weald"><![CDATA[{?hero_names}%s embarked to slay evil in the Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_cleanse_warrens"><![CDATA[{?hero_names}%s embarked to slay evil in the Warrens. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_cleanse_cove"><![CDATA[{?hero_names}%s embarked to slay evil in the Cove. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_crypts"><![CDATA[{?hero_names}%s set forth to purge our ancestral Ruins of the Necromancer. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_weald"><![CDATA[{?hero_names}%s embarked to the Weald, determined to hunt and slay a foul cannibalistic Hag. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_warrens"><![CDATA[{?hero_names}%s delved deep into the Warrens, bent on destruction of the gargantuan Swine Prince. ({?difficulty}%s {?length}%s)]]></entry>
@@ -59,6 +61,7 @@
     <entry id="str_returned_from_explore_crypts_success"><![CDATA[{?hero_names}%s were successful in exploring the Ruins. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_explore_weald_success"><![CDATA[{?hero_names}%s returned from successfully scouting the Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_explore_warrens_success"><![CDATA[{?hero_names}%s delved into the Warrens and returned successfully. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_explore_cove_success"><![CDATA[{?hero_names}%s descended into the Cove and returned successfully. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_cleanse_crypts_success"><![CDATA[{?hero_names}%s vanquished many monsters in the Ruins. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_cleanse_weald_success"><![CDATA[{?hero_names}%s successfully brought the battle to the Weald and returned. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_cleanse_warrens_success"><![CDATA[{?hero_names}%s left many a Swine slain in the bloody Warrens. ({?difficulty}%s {?length}%s)]]></entry>
