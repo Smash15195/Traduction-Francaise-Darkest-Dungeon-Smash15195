@@ -229,17 +229,6 @@
     <entry id="str_quirk_description_guilty_conscience"><![CDATA[Porte la culpabilité écrasante d'actes réels et imaginaires.]]></entry>
     <entry id="str_quirk_description_hieromania"><![CDATA[Éprouve des visions divines et délirantes.]]></entry>
     <entry id="str_quirk_description_necromania"><![CDATA[Fasciné par les cadavres.]]></entry>
-    <entry id="str_quirk_description_ruins_adventurer"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_ruins_tactician"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_ruins_master"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_warren_explorer"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_warren_survivor"><![CDATA[Survie augmentée dans les Cryptes.]]></entry>
-    <entry id="str_quirk_description_warren_master"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_weald_survivor"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_weald_adventurer"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_weald_master"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_cove_scrounger"><![CDATA[Trouve du materiel supplémentaire dans la Crique.]]></entry>
-    <entry id="str_quirk_description_cove_survivor"><![CDATA[Survie augmentée dans la Crique.]]></entry>
     <entry id="str_quirk_description_thanatophobia"><![CDATA[Peur de rencontrer une fin prématurée.]]></entry>
     <entry id="str_quirk_description_zoophobia"><![CDATA[Peur des bêtes.]]></entry>
     <entry id="str_quirk_description_clotter"><![CDATA[Arrête les saignements naturellement.]]></entry>
@@ -258,8 +247,11 @@
     <entry id="str_quirk_description_compulsive"><![CDATA[Souffre d'intenses besoins de faire des trucs spécifiques.]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
 

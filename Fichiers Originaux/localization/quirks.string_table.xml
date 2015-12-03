@@ -229,17 +229,6 @@
     <entry id="str_quirk_description_guilty_conscience"><![CDATA[Bears the crushing guilt of deeds real and imagined.]]></entry>
     <entry id="str_quirk_description_hieromania"><![CDATA[Experiences religious visions and delusions.]]></entry>
     <entry id="str_quirk_description_necromania"><![CDATA[Fascinated with corpses.]]></entry>
-    <entry id="str_quirk_description_ruins_adventurer"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_ruins_tactician"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_ruins_master"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_warren_explorer"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_warren_survivor"><![CDATA[Extra survival benefits in the Warrens.]]></entry>
-    <entry id="str_quirk_description_warren_master"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_weald_survivor"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_weald_adventurer"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_weald_master"><![CDATA[...]]></entry>
-    <entry id="str_quirk_description_cove_scrounger"><![CDATA[Finds extra stuff in the Cove.]]></entry>
-    <entry id="str_quirk_description_cove_survivor"><![CDATA[Extra survival benefits in the Cove.]]></entry>
     <entry id="str_quirk_description_thanatophobia"><![CDATA[Afraid of meeting an untimely end.]]></entry>
     <entry id="str_quirk_description_zoophobia"><![CDATA[Afraid of beasts.]]></entry>
     <entry id="str_quirk_description_clotter"><![CDATA[Stops bleeding really well.]]></entry>
@@ -253,13 +242,16 @@
     <entry id="str_quirk_description_plutomania"><![CDATA[Manic for money.]]></entry>
     <entry id="str_quirk_description_dipsomania"><![CDATA[Intense craving for alcohol.]]></entry>
     <entry id="str_quirk_description_paranormania"><![CDATA[Obsessed with the paranormal.]]></entry>
-    <entry id="str_quirk_description_demonomania"><![CDATA[Believes is posessed by demons.]]></entry>
+    <entry id="str_quirk_description_demonomania"><![CDATA[Believes is possessed by demons.]]></entry>
     <entry id="str_quirk_description_hagiomania"><![CDATA[Obsessed with sainthood.]]></entry>
     <entry id="str_quirk_description_compulsive"><![CDATA[Suffers intense need to do specific actions.]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
 

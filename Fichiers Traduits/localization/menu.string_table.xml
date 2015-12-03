@@ -27,17 +27,20 @@
     <entry id="menu_options_element_fullscreen"><![CDATA[Plein Écran]]></entry>
     <entry id="menu_options_element_monitor_number"><![CDATA[Moniteur]]></entry>
     <entry id="menu_options_element_resolution"><![CDATA[Résolution]]></entry>
+    <entry id="menu_options_element_mute"><![CDATA[Muet]]></entry>
+    <entry id="menu_options_element_master_volume"><![CDATA[Volume Principal]]></entry>	
     <entry id="menu_options_element_sfx_volume"><![CDATA[Volume Effets]]></entry>
     <entry id="menu_options_element_music_volume"><![CDATA[Volume Musique]]></entry>
     <entry id="menu_options_element_narration_volume"><![CDATA[Volume Narrateur]]></entry>
     <entry id="menu_options_element_video_volume"><![CDATA[Volume Cinématique]]></entry>
     <entry id="menu_options_element_metrics"><![CDATA[Activer collecte de données anonymes]]></entry>
     <entry id="menu_options_element_combat_pivot_camera"><![CDATA[Caméra Combat Dynamique]]></entry>
-    <entry id="menu_options_element_extra_bark_time"><![CDATA[Temps suppl. allocution (secondes)]]></entry>
+    <entry id="menu_options_element_extra_bark_time"><![CDATA[Temps suppl. bulles (secondes)]]></entry>
 	<entry id="menu_options_element_bark_dismissal"><![CDATA[Enlever Bark]]></entry>
     <entry id="menu_options_element_blur"><![CDATA[Effet de flou]]></entry>	
     <entry id="menu_options_element_debug_output"><![CDATA[Journal Debug]]></entry>	
     <entry id="menu_options_element_tutorial"><![CDATA[Tutoriels]]></entry>
+    <entry id="menu_options_element_subtitles"><![CDATA[Sous-titres]]></entry>	
     <entry id="menu_base_element_view_options"><![CDATA[Options]]></entry>
     <entry id="menu_base_element_view_controls"><![CDATA[Contrôles]]></entry>
     <entry id="menu_base_element_watch_intro"><![CDATA[Voir cinématique d'intro]]></entry>
@@ -51,9 +54,9 @@
     <entry id="str_plot_kill_prophet_1_audio_line"><![CDATA[Le Prophète Errant]]></entry>
     <entry id="str_plot_kill_prophet_2_audio_line"><![CDATA[Maintes et maintes fois]]></entry>
     <entry id="str_plot_kill_prophet_3_audio_line"><![CDATA[Une résilience corporelle peu commune]]></entry>
-    <entry id="str_plot_kill_hag_1_audio_line"><![CDATA[Étude confortable]]></entry>
-    <entry id="str_plot_kill_hag_2_audio_line"><![CDATA[Respect Professionnel]]></entry>
-    <entry id="str_plot_kill_hag_3_audio_line"><![CDATA[Bienvenue dans la nature]]></entry>
+    <entry id="str_plot_kill_hag_1_audio_line"><![CDATA[Bureau confortable]]></entry>
+    <entry id="str_plot_kill_hag_2_audio_line"><![CDATA[Respect professionnel]]></entry>
+    <entry id="str_plot_kill_hag_3_audio_line"><![CDATA[Bienvenue dans les terres sauvages]]></entry>
     <entry id="str_plot_kill_brigand_cannon_1_audio_line"><![CDATA[Fascination et Courroux]]></entry>
     <entry id="str_plot_kill_brigand_cannon_2_audio_line"><![CDATA[L'application de la force]]></entry>
     <entry id="str_plot_kill_brigand_cannon_3_audio_line"><![CDATA[Respect et Ordre]]></entry>
@@ -71,7 +74,10 @@
     <entry id="str_plot_kill_drowned_crew_3_audio_line"><![CDATA[Eaux Noires]]></entry>	
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>

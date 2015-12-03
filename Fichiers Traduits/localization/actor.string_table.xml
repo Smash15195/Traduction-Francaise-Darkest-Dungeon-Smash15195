@@ -20,9 +20,12 @@
     <entry id="buff_stat_tooltip_damage_received_percent"><![CDATA[%+d%% DGT]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[%+d Compét. Soin]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[%+d%% Compét. Soin]]></entry>
-    <entry id="buff_stat_tooltip_hp_heal_received_percent"><![CDATA[%+d%% Soin Reçu]]></entry>
+    <entry id="buff_stat_tooltip_hp_heal_received_percent"><![CDATA[%+d%% Soins Reçus]]></entry>
     <entry id="buff_stat_tooltip_stress_dmg_percent"><![CDATA[%+d%% Rst. Stress]]></entry>
     <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[%+d%% Soin Stress]]></entry>
+    <entry id="buff_stat_tooltip_stress_dmg_received_percent"><![CDATA[%+d%% Dégâts Stress]]></entry>
+	<entry id="buff_stat_tooltip_stress_heal_received_percent"><![CDATA[%+d%% Soins Stress Reçus]]></entry>
+    <entry id="buff_stat_tooltip_stress_dmg_received_percent_mode"><![CDATA[%+d%% Transformation Stress]]></entry>
     <entry id="buff_stat_tooltip_resistance_stun"><![CDATA[%+d%% Rst. Étourdissement]]></entry>
     <entry id="buff_stat_tooltip_resistance_move"><![CDATA[%+d%% Rst. Déplacement]]></entry>
     <entry id="buff_stat_tooltip_resistance_poison"><![CDATA[%+d%% Rst. Poison]]></entry>
@@ -70,6 +73,7 @@
     <entry id="buff_rule_tooltip_stress_below"><![CDATA[%s si Stress sous %d]]></entry>
     <entry id="buff_rule_tooltip_riposte"><![CDATA[%s quand Riposte]]></entry>
     <entry id="buff_rule_tooltip_skill"><![CDATA[%s de compétence %s]]></entry>
+    <entry id="buff_rule_tooltip_in_mode"><![CDATA[%s si en mode %s]]></entry>	
     <entry id="buff_rule_tooltip_always_false"><![CDATA[PAS %s]]></entry>
     <entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[%s vs si pas %d]]></entry>
     <entry id="buff_rule_tooltip_lightbelow_false"><![CDATA[%s si Torche pas sous %d]]></entry>
@@ -105,6 +109,10 @@
     <entry id="buff_rule_data_tooltip_prayer"><![CDATA[Prière]]></entry>
     <entry id="buff_rule_data_tooltip_flagellation"><![CDATA[Flagellation]]></entry>
     <entry id="buff_rule_data_tooltip_hounds_rush"><![CDATA[Lâchez les Chiens]]></entry>
+    <entry id="buff_rule_data_tooltip_beast"><![CDATA[Bête]]></entry>
+    <entry id="buff_rule_data_tooltip_rake"><![CDATA[Râteau]]></entry>
+    <entry id="buff_rule_data_tooltip_rage"><![CDATA[Rage]]></entry>
+    <entry id="buff_rule_data_tooltip_transform"><![CDATA[Transformation]]></entry>	
     <entry id="buff_bsrc_skill"><![CDATA[Autre Compétence]]></entry>
     <entry id="buff_bsrc_instantSkill"><![CDATA[Compétence Choisie]]></entry>
     <entry id="buff_bsrc_affliction"><![CDATA[Affliction]]></entry>
@@ -117,10 +125,14 @@
     <entry id="buff_bsrc_curio"><![CDATA[Curio]]></entry>
     <entry id="buff_bsrc_stun"><![CDATA[Étourdi]]></entry>
     <entry id="buff_bsrc_item"><![CDATA[Objet]]></entry>
-    <entry id="buff_bsrc_disease"><![CDATA[Malade]]></entry>
+    <entry id="buff_bsrc_disease"><![CDATA[Maladie]]></entry>
+    <entry id="buff_bsrc_deathsdoor_recovery"><![CDATA[Sortie des Portes de la Mort]]></entry>
+    <entry id="buff_bsrc_deathsdoor_recovery_heart_attack"><![CDATA[Rétablissement Attaque Cardiaque]]></entry>	
     <entry id="effect_tooltip_self"><![CDATA[Sur soi:]]></entry>
     <entry id="effect_tooltip_target"><![CDATA[Cible:]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[Groupe:]]></entry>
+    <entry id="effect_tooltip_party_other"><![CDATA[Autres Héros:]]></entry>
+    <entry id="effect_tooltip_target_group"><![CDATA[Groupe Ennemi:]]></entry>	
     <entry id="effect_tooltip_stress_format"><![CDATA[Stress %+d]]></entry>
     <entry id="effect_tooltip_stress_heal_format"><![CDATA[Soin Stress %+d]]></entry>
     <entry id="effect_tooltip_stun"><![CDATA[Étourdissement]]></entry>
@@ -143,37 +155,12 @@
     <entry id="effect_tooltip_guard"><![CDATA[Garde Allié]]></entry>
     <entry id="effect_tooltip_riposte"><![CDATA[Active Riposte]]></entry>
     <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %s]]></entry>
+    <entry id="effect_tooltip_set_actor_mode_format"><![CDATA[Changer pour mode: %s]]></entry>	
     <entry id="effect_tooltip_format"><![CDATA[%s %s]]></entry>
     <entry id="effect_tooltip_additional_description_format"><![CDATA[%s %s
 %s]]></entry>
     <entry id="effect_chance_format"><![CDATA[(%d%% chance)]]></entry>
     <entry id="effect_base_chance_format"><![CDATA[(%d%% base)]]></entry>
-    <entry id="old effect_tooltip_self"><![CDATA[Soi:]]></entry>
-    <entry id="old effect_tooltip_target"><![CDATA[Cible:]]></entry>
-    <entry id="old effect_tooltip_party"><![CDATA[Groupe:]]></entry>
-    <entry id="old effect_tooltip_stress_format"><![CDATA[Stress %+d]]></entry>
-    <entry id="old effect_tooltip_stress_heal_format"><![CDATA[Soin Stress %+d]]></entry>
-    <entry id="old effect_tooltip_stun_format"><![CDATA[Étourdissement (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_unstun_format"><![CDATA[Chc Évit. Étourdiss. (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_tag"><![CDATA[Marque la Cible]]></entry>
-    <entry id="old effect_tooltip_untag"><![CDATA[Chc Évit. Marque (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_cure_format"><![CDATA[Soigne Poison/Saignement (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_dot_poison_format"><![CDATA[Poison (%d%% base)
-%d pts/tr pendant %d trs]]></entry>
-    <entry id="old effect_tooltip_dot_bleed_format"><![CDATA[Saignement (%d%% base)
-%d pts/tr pendant %d trs]]></entry>
-    <entry id="old effect_tooltip_torch_format"><![CDATA[Torche %+d]]></entry>
-    <entry id="old effect_tooltip_shuffle_party"><![CDATA[Mélange Groupe]]></entry>
-    <entry id="old effect_tooltip_disease_format"><![CDATA[Provoque une Maladie (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_summon_format"><![CDATA[Invoque %s]]></entry>
-    <entry id="old effect_tooltip_heal_format"><![CDATA[Soigne %d PV]]></entry>
-    <entry id="old effect_tooltip_move_forward"><![CDATA[Tire %d (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_move_backward"><![CDATA[Repousse %d (%d%% base)]]></entry>
-    <entry id="old effect_tooltip_shuffle_single"><![CDATA[Déplace un Membre]]></entry>
-    <entry id="old effect_tooltip_shuffle_group"><![CDATA[Mélange le Groupe]]></entry>
-    <entry id="old effect_tooltip_guard"><![CDATA[Garde Allié]]></entry>
-    <entry id="old effect_tooltip_riposte"><![CDATA[Active Riposte]]></entry>
-    <entry id="old effect_tooltip_kill_enemy_type"><![CDATA[Élimine tout %s]]></entry>
     <entry id="str_stat_base_weapon_and_skill"><![CDATA[Arme + Compétence]]></entry>	
     <entry id="skill_random_target"><![CDATA[cible aléatoire]]></entry>
     <entry id="skill_heal_format"><![CDATA[soigne %d-%d]]></entry>
@@ -182,10 +169,18 @@
     <entry id="monster_tooltip_prot_format"><![CDATA[PROT: %.0f%%]]></entry>
     <entry id="monster_tooltip_dodge_format"><![CDATA[ESQUIVE: %0.f]]></entry>
     <entry id="monster_tooltip_speed_format"><![CDATA[VIT: %0.f]]></entry>
+	<entry id="actor_mode_name_human"><![CDATA[Humain]]></entry>
+    <entry id="str_skill_mode_info_human"><![CDATA[Comme Humain:]]></entry>
+    <entry id="actor_mode_name_beast"><![CDATA[Bête]]></entry>
+    <entry id="str_skill_mode_info_beast"><![CDATA[Comme Bête:]]></entry>
+    <entry id="skill_battle_limit_abomination_transform"><![CDATA[Bête limite par combat: 1]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
 

@@ -131,6 +131,15 @@
     <entry id="str_monster_skill_cannon_summon"><![CDATA[Renforts !]]></entry>
     <entry id="str_monster_skill_light_fuse"><![CDATA[Feu à volonté !]]></entry>	
     <entry id="str_monster_skill_hot_shot"><![CDATA[Tir Brûlant]]></entry>
+    <entry id="str_monster_skill_show_collection"><![CDATA[Voir Collection]]></entry>
+    <entry id="str_monster_skill_collect_call"><![CDATA[Double Appel]]></entry>
+    <entry id="str_monster_skill_life_steal"><![CDATA[Vol de Vie]]></entry>
+    <entry id="str_monster_skill_head_chomp"><![CDATA[Machouillage]]></entry>
+    <entry id="str_monster_skill_head_guard"><![CDATA[Tête-à-Tête]]></entry>
+    <entry id="str_monster_skill_head_heal"><![CDATA[Tête Dure]]></entry>
+    <entry id="str_monster_skill_head_buff"><![CDATA[Migraine]]></entry>
+    <entry id="str_monster_skill_accusation"><![CDATA[Accusation]]></entry>
+    <entry id="str_monster_skill_doomsay"><![CDATA[Prédiction]]></entry>	
     <entry id="str_monstername_corpse_A"><![CDATA[Restes]]></entry>
     <entry id="str_monstername_corpse_B"><![CDATA[Restes]]></entry>
     <entry id="str_monstername_corpse_C"><![CDATA[Restes]]></entry>
@@ -170,6 +179,21 @@
     <entry id="str_monstername_shambler_tentacle_A"><![CDATA[Traînard Lèche-bottes]]></entry>
     <entry id="str_monstername_shambler_tentacle_B"><![CDATA[Traînard Spore]]></entry>
     <entry id="str_monstername_shambler_tentacle_C"><![CDATA[Traînard Juvénile]]></entry>
+    <entry id="str_monstername_collector_A"><![CDATA[Le Collectionneur]]></entry>
+    <entry id="str_monstername_collector_B"><![CDATA[Le Collectionneur]]></entry>
+    <entry id="str_monstername_collector_C"><![CDATA[Le Collectionneur]]></entry>
+    <entry id="str_monstername_madman_A"><![CDATA[L'Aliéné]]></entry>
+    <entry id="str_monstername_madman_B"><![CDATA[L'Aliéné Écumant]]></entry>
+    <entry id="str_monstername_madman_C"><![CDATA[L'Aliéné Délirant]]></entry>
+    <entry id="str_monstername_collector_battle_A"><![CDATA[Bandit Pensif]]></entry>
+    <entry id="str_monstername_collector_battle_B"><![CDATA[Bandit Pensif]]></entry>
+    <entry id="str_monstername_collector_battle_C"><![CDATA[Bandit Pensif]]></entry>
+    <entry id="str_monstername_collector_protect_A"><![CDATA[Homme d'Armes Pensif]]></entry>
+    <entry id="str_monstername_collector_protect_B"><![CDATA[Homme d'Armes Pensif]]></entry>
+    <entry id="str_monstername_collector_protect_C"><![CDATA[Homme d'Armes Pensif]]></entry>
+    <entry id="str_monstername_collector_shaman_A"><![CDATA[Vestal Recueillie]]></entry>
+    <entry id="str_monstername_collector_shaman_B"><![CDATA[Vestal Recueillie]]></entry>
+    <entry id="str_monstername_collector_shaman_C"><![CDATA[Vestal Recueillie]]></entry>	
     <entry id="str_monstername_skeleton_common_A"><![CDATA[Racaille d'Os]]></entry>
     <entry id="str_monstername_skeleton_common_B"><![CDATA[Conscrit d'Os]]></entry>
     <entry id="str_monstername_skeleton_common_C"><![CDATA[Milicien d'Os]]></entry>
@@ -309,8 +333,8 @@
     <entry id="str_monstername_octotank_B"><![CDATA[Brise-lames Pélagique]]></entry>
     <entry id="str_monstername_octotank_C"><![CDATA[Champion Pélagique]]></entry>
     <entry id="str_monstername_bloated_corpse_A"><![CDATA[Esclave Noyé]]></entry>
-    <entry id="str_monstername_bloated_corpse_B"><![CDATA[Serviteur Noyé]]></entry>
-    <entry id="str_monstername_bloated_corpse_C"><![CDATA[Sacrifié Noyé]]></entry>
+    <entry id="str_monstername_bloated_corpse_B"><![CDATA[Serviteur Pustuleux]]></entry>
+    <entry id="str_monstername_bloated_corpse_C"><![CDATA[Serviteur Boursouflé]]></entry>
     <entry id="str_monstername_jellyfish_A"><![CDATA[Piqûre Profonde]]></entry>
     <entry id="str_monstername_jellyfish_B"><![CDATA[Piqûre Électrique]]></entry>
     <entry id="str_monstername_jellyfish_C"><![CDATA[Piqûre Paralysante]]></entry>
@@ -328,8 +352,11 @@
     <entry id="str_monstername_drowned_anchored_C"><![CDATA[Bosseman Noyé]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
 

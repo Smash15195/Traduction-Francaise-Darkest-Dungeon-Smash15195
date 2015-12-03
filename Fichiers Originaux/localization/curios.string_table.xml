@@ -104,7 +104,7 @@
     <entry id="str_curio_content_foodstuff_crate"><![CDATA[The crate still bears the faded sigil of your family.]]></entry>
     <entry id="str_curio_tooltip_investigate_foodstuff_crate"><![CDATA[Pry open the crate...]]></entry>
     <entry id="str_curio_foodstuff_crate_loot"><![CDATA[A sack of uneaten grain - the object of your search!]]></entry>
-    <entry id="str_curio_title_shipment_crates"><![CDATA[Ancestor's Shipment]]></entry>
+    <entry id="str_curio_title_shipment_crates"><![CDATA[Ancestor's Relic]]></entry>
     <entry id="str_curio_content_shipment_crates"><![CDATA[A massive crate containing some terrible relic from a forgotten corner of the world.]]></entry>
     <entry id="str_curio_tooltip_investigate_shipment_crates"><![CDATA[Search the crate with your family sigil...]]></entry>
     <entry id="str_curio_shipment_crates_loot"><![CDATA[The object of your search!]]></entry>
@@ -358,7 +358,7 @@
     <entry id="str_curio_title_bas_relief"><![CDATA[Bas-Relief]]></entry>
     <entry id="str_curio_content_bas_relief"><![CDATA[A puzzlingly ancient sculpture of dizzying implication...]]></entry>
     <entry id="str_curio_tooltip_investigate_bas_relief"><![CDATA[Attempt to decipher the carven message.]]></entry>
-    <entry id="str_curio_bas_relief_quirk"><![CDATA[The message resonates with the hero...]]></entry>
+    <entry id="str_curio_bas_relief_quirk"><![CDATA[The message has a lasting impact on the hero...]]></entry>
     <entry id="str_curio_bas_relief_shovel_effect"><![CDATA[The bas-relief is crushed with the shovel. Doesn't feel right...]]></entry>
     <entry id="str_curio_title_barnacle_crusted_chest"><![CDATA[Barnacle Crusted Chest]]></entry>
     <entry id="str_curio_content_barnacle_crusted_chest"><![CDATA[A treasure chest blanketed in barnacles.]]></entry>
@@ -406,13 +406,12 @@
     <entry id="str_curio_content_troubling_portrait"><![CDATA[Deep black eyes gaze upon you from the curios visage of an ancestor past.]]></entry>
     <entry id="str_curio_nothing_troubling_portrait"><![CDATA[The cracked and dusty painting is plain, and too large to transport.]]></entry>
   </language>
-  <language id="french">
-    <entry id="str_curio_tooltip_investigate_reliquary"><![CDATA[not working...]]></entry>
-    <entry id="str_curio_tooltip_investigate_chirurgeons_satchel"><![CDATA[not working...]]></entry>
-    <entry id="str_curio_tooltip_investigate_foodstuff_crate"><![CDATA[not working...]]></entry>
-  </language>
-  <language id="italian" />
+  <language id="french" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
 

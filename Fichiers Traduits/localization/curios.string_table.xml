@@ -104,7 +104,7 @@
     <entry id="str_curio_content_foodstuff_crate"><![CDATA[La caisse porte encore le sceau de votre famille.]]></entry>
     <entry id="str_curio_tooltip_investigate_foodstuff_crate"><![CDATA[Forcer la caisse...]]></entry>
     <entry id="str_curio_foodstuff_crate_loot"><![CDATA[Un sac de grain - le but de nos recherches !]]></entry>
-    <entry id="str_curio_title_shipment_crates"><![CDATA[Cargaison]]></entry>
+    <entry id="str_curio_title_shipment_crates"><![CDATA[Relique]]></entry>
     <entry id="str_curio_content_shipment_crates"><![CDATA[Une caisse massive contenant une relique horrible d'un endroit oublié du monde.]]></entry>
     <entry id="str_curio_tooltip_investigate_shipment_crates"><![CDATA[Fouiller la caisse avec votre sceau familiale...]]></entry>
     <entry id="str_curio_shipment_crates_loot"><![CDATA[L'objet de votre recherche!]]></entry>	
@@ -358,7 +358,7 @@
     <entry id="str_curio_title_bas_relief"><![CDATA[Bas-Relief]]></entry>
     <entry id="str_curio_content_bas_relief"><![CDATA[Une perplexe sculpture antique qui donne le vertige...]]></entry>
     <entry id="str_curio_tooltip_investigate_bas_relief"><![CDATA[Tenter de déchiffrer le message gravé.]]></entry>
-    <entry id="str_curio_bas_relief_quirk"><![CDATA[Le message résonne avec le héros...]]></entry>
+    <entry id="str_curio_bas_relief_quirk"><![CDATA[Le message a un impact durable sur le héros...]]></entry>
     <entry id="str_curio_bas_relief_shovel_effect"><![CDATA[Le bas-relief est écrasé avec la pelle. Ne se sent pas bien...]]></entry>
     <entry id="str_curio_title_barnacle_crusted_chest"><![CDATA[Coffre Incrusté de Balanes]]></entry>
     <entry id="str_curio_content_barnacle_crusted_chest"><![CDATA[Un coffre au trésor recouvert de balanes.]]></entry>
@@ -407,7 +407,10 @@
     <entry id="str_curio_nothing_troubling_portrait"><![CDATA[La peinture craquelée et poussiéreuse est ordinaire et trop grande pour être transportée.]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>

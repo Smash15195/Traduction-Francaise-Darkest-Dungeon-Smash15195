@@ -131,6 +131,15 @@
     <entry id="str_monster_skill_cannon_summon"><![CDATA[Reinforcements!]]></entry>
     <entry id="str_monster_skill_light_fuse"><![CDATA[Fire in the Hole!]]></entry>
     <entry id="str_monster_skill_hot_shot"><![CDATA[Hot Shot]]></entry>
+    <entry id="str_monster_skill_show_collection"><![CDATA[Show Collection]]></entry>
+    <entry id="str_monster_skill_collect_call"><![CDATA[Collect Call]]></entry>
+    <entry id="str_monster_skill_life_steal"><![CDATA[Life Steal]]></entry>
+    <entry id="str_monster_skill_head_chomp"><![CDATA[Gnawing Feeling]]></entry>
+    <entry id="str_monster_skill_head_guard"><![CDATA[Head Games]]></entry>
+    <entry id="str_monster_skill_head_heal"><![CDATA[Headstrong]]></entry>
+    <entry id="str_monster_skill_head_buff"><![CDATA[Headache]]></entry>
+    <entry id="str_monster_skill_accusation"><![CDATA[Accusation]]></entry>
+    <entry id="str_monster_skill_doomsay"><![CDATA[Doomsay]]></entry>
     <entry id="str_monstername_corpse_A"><![CDATA[Corpse]]></entry>
     <entry id="str_monstername_corpse_B"><![CDATA[Corpse]]></entry>
     <entry id="str_monstername_corpse_C"><![CDATA[Corpse]]></entry>
@@ -170,6 +179,21 @@
     <entry id="str_monstername_shambler_tentacle_A"><![CDATA[Shambler Sycophant]]></entry>
     <entry id="str_monstername_shambler_tentacle_B"><![CDATA[Shambler Spore]]></entry>
     <entry id="str_monstername_shambler_tentacle_C"><![CDATA[Shambler Spawn]]></entry>
+    <entry id="str_monstername_collector_A"><![CDATA[The Collector]]></entry>
+    <entry id="str_monstername_collector_B"><![CDATA[The Collector]]></entry>
+    <entry id="str_monstername_collector_C"><![CDATA[The Collector]]></entry>
+    <entry id="str_monstername_madman_A"><![CDATA[Madman]]></entry>
+    <entry id="str_monstername_madman_B"><![CDATA[Frothing Madman]]></entry>
+    <entry id="str_monstername_madman_C"><![CDATA[Raving Madman]]></entry>
+    <entry id="str_monstername_collector_battle_A"><![CDATA[Collected Highwayman]]></entry>
+    <entry id="str_monstername_collector_battle_B"><![CDATA[Collected Highwayman]]></entry>
+    <entry id="str_monstername_collector_battle_C"><![CDATA[Collected Highwayman]]></entry>
+    <entry id="str_monstername_collector_protect_A"><![CDATA[Collected Man-at-Arms]]></entry>
+    <entry id="str_monstername_collector_protect_B"><![CDATA[Collected Man-at-Arms]]></entry>
+    <entry id="str_monstername_collector_protect_C"><![CDATA[Collected Man-at-Arms]]></entry>
+    <entry id="str_monstername_collector_shaman_A"><![CDATA[Collected Vestal]]></entry>
+    <entry id="str_monstername_collector_shaman_B"><![CDATA[Collected Vestal]]></entry>
+    <entry id="str_monstername_collector_shaman_C"><![CDATA[Collected Vestal]]></entry>
     <entry id="str_monstername_skeleton_common_A"><![CDATA[Bone Rabble]]></entry>
     <entry id="str_monstername_skeleton_common_B"><![CDATA[Bone Conscript]]></entry>
     <entry id="str_monstername_skeleton_common_C"><![CDATA[Bone Militia]]></entry>
@@ -309,8 +333,8 @@
     <entry id="str_monstername_octotank_B"><![CDATA[Pelagic Bulwark]]></entry>
     <entry id="str_monstername_octotank_C"><![CDATA[Pelagic Champion]]></entry>
     <entry id="str_monstername_bloated_corpse_A"><![CDATA[Drowned Thrall]]></entry>
-    <entry id="str_monstername_bloated_corpse_B"><![CDATA[Drowned Servant]]></entry>
-    <entry id="str_monstername_bloated_corpse_C"><![CDATA[Drowned Sacrifice]]></entry>
+    <entry id="str_monstername_bloated_corpse_B"><![CDATA[Pustulent Thrall]]></entry>
+    <entry id="str_monstername_bloated_corpse_C"><![CDATA[Bloated Thrall]]></entry>
     <entry id="str_monstername_jellyfish_A"><![CDATA[Deep Stinger]]></entry>
     <entry id="str_monstername_jellyfish_B"><![CDATA[Energized Stinger]]></entry>
     <entry id="str_monstername_jellyfish_C"><![CDATA[Paralyzing Stinger]]></entry>
@@ -328,8 +352,11 @@
     <entry id="str_monstername_drowned_anchored_C"><![CDATA[Drowned Anchorman]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
 

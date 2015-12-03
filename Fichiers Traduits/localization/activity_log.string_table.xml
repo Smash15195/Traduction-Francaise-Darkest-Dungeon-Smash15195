@@ -15,6 +15,7 @@
     <entry id="str_difficulty_6"><![CDATA[Niv. 6]]></entry>
     <entry id="str_perished"><![CDATA[%s a/ont péri au cours de la quête.]]></entry>
     <entry id="str_allperished"><![CDATA[%s ont été réunis dans une mort héroïque. Il n'y a aucun survivant.]]></entry>
+    <entry id="str_perished_from_darkest_dungeon_exit"><![CDATA[%s est mort en s'assurant que les autres pourraient s'échapper du Darkest Dungeon.]]></entry>	
     <entry id="str_embarked_on_explore_crypts"><![CDATA[{?hero_names}%s sont partis explorer les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_explore_weald"><![CDATA[{?hero_names}%s sont partis explorer le Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_explore_warrens"><![CDATA[{?hero_names}%s sont partis explorer les Cryptes. ({?difficulty}%s {?length}%s)]]></entry>
@@ -139,24 +140,6 @@
     <entry id="str_returned_from_plot_kill_drowned_crew_1_failure"><![CDATA[{?hero_names}%s n'ont pu rendre leur salut à l'Équipage Noyé. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_drowned_crew_2_failure"><![CDATA[{?hero_names}%s n'ont pu rendre leur salut à l'Équipage Noyé. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_drowned_crew_3_failure"><![CDATA[{?hero_names}%s n'ont pu rendre leur salut à l'Équipage Noyé. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_necromancer_A"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_necromancer_B"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_necromancer_C"><![CDATA[{?hero_names}%s sont partis purger nos ruines ancestrales du Nécromancien. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_hag_A"><![CDATA[{?hero_names}%s sont partis dans le Weald, déterminés à chasser et tuer la Sorcière cannibale. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_hag_B"><![CDATA[{?hero_names}%s sont partis dans le Weald, déterminés à chasser et tuer la Sorcière cannibale. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_hag_C"><![CDATA[{?hero_names}%s sont partis dans le Weald, déterminés à chasser et tuer la Sorcière cannibale. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_swine_prince_A"><![CDATA[{?hero_names}%s ont pénétré profondément dans les Cryptes avec comme objectif de détruire le gargantuesque Prince Porcin. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_swine_prince_B"><![CDATA[{?hero_names}%s ont pénétré profondément dans les Cryptes avec comme objectif de détruire le gargantuesque Prince Porcin. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_swine_prince_C"><![CDATA[{?hero_names}%s ont pénétré profondément dans les Cryptes avec comme objectif de détruire le gargantuesque Prince Porcin. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_prophet_A"><![CDATA[{?hero_names}%s ont réduit au silence le Prophète. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_prophet_B"><![CDATA[{?hero_names}%s ont réduit au silence le Prophète. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_prophet_C"><![CDATA[{?hero_names}%s ont réduit au silence le Prophète. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_brigand_cannon_A"><![CDATA[{?hero_names}%s sont partis trouver et faire taire le canon du Brigand. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_brigand_cannon_B"><![CDATA[{?hero_names}%s sont partis trouver et faire taire le canon du Brigand. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_brigand_cannon_C"><![CDATA[{?hero_names}%s sont partis trouver et faire taire le canon du Brigand. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_formless_flesh_A"><![CDATA[{?hero_names}%s ont entrepris de retirer sa vie contre nature à la Chair. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_formless_flesh_B"><![CDATA[{?hero_names}%s ont entrepris de retirer sa vie contre nature à la Chair. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_formless_flesh_C"><![CDATA[{?hero_names}%s ont entrepris de retirer sa vie contre nature à la Chair. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_gather_crypts_failure"><![CDATA[{?hero_names}%s n'ont pas localisé les reliques perdues dans les Ruines. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_gather_weald_failure"><![CDATA[{?hero_names}%s n'ont pas localisé les médicaments perdus dans le Weald. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_gather_warrens_failure"><![CDATA[{?hero_names}%s n'ont pas localisé les denrées alimentaires volées dans les Cryptes. ({?difficulty}%s {?length}%s)]]></entry>
@@ -214,6 +197,7 @@
     <entry id="str_disease_treatment_removed_diseases_crit_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a été guéri. Maladie traitée: {?disease_name}%s]]></entry>
     <entry id="str_lock_quirk_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a subi une thérapie renforcée pour rendre ce Trait permanent: {?quirk_name}%s]]></entry>
     <entry id="str_activity_log_quirk_replaces"><![CDATA[(Remplace: %s)]]></entry>
+    <entry id="str_[activity]_stress_relief_story"><![CDATA[- [hero name][str_meditation_stress_relief_story] 28 [str_stress]]]></entry>	
     <entry id="str_bar_stress_relief_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a passé une nuit en ville et a récupéré {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} stress.]]></entry>
     <entry id="str_gambling_stress_relief_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a joué et a récupéré {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} stress.]]></entry>
     <entry id="str_brothel_stress_relief_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} s'est vautré dans les plaisirs de la chair et a récupéré {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} stress.]]></entry>
@@ -423,8 +407,8 @@
     <entry id="str_death_obstacle_obstacle"><![CDATA[a été enseveli définitivement en dégageant un obstacle.]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[a été tué par une bête]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[a péri contre un(e)]]></entry>
-    <entry id="str_death_bleed_monster"><![CDATA[a saigné à mort.]]></entry>
-    <entry id="str_death_poisoned_monster"><![CDATA[a succombé au poison.]]></entry>
+    <entry id="str_death_bleed_monster"><![CDATA[a été saigné à mort par un(e)]]></entry>
+    <entry id="str_death_poisoned_monster"><![CDATA[a succombé au poison d'un(e)]]></entry>
     <entry id="str_death_attack_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
     <entry id="str_death_bleed_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
     <entry id="str_death_poisoned_friendly"><![CDATA[a péri de la main d'un allié.]]></entry>
@@ -436,7 +420,10 @@
     <entry id="str_death_heart_attack"><![CDATA[a eu une crise cardiaque à cause du stress.]]></entry>
   </language>
   <language id="french" />
-  <language id="italian" />
   <language id="german" />
   <language id="spanish" />
+  <language id="portuguese (BR)" />
+  <language id="russian" />
+  <language id="polish" />
+  <language id="czech" />
 </root>
