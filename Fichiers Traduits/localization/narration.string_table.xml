@@ -1,383 +1,383 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="english">
-    <entry id="str_vo_neutral_crypts_explore_0"><![CDATA[Pace out the halls of your lineage, 
-once familar, now foreign.]]></entry>
-    <entry id="str_vo_neutral_crypts_cleanse_0"><![CDATA[The fiends must be driven back, and what better 
-place to begin than the seat of our noble line?]]></entry>
-    <entry id="str_vo_neutral_quest_start_01_0"><![CDATA[A devil walks these halls...only the mad 
-or the desperate go in search of him.]]></entry>
-    <entry id="str_vo_neutral_crypts_kill_alt_0"><![CDATA[The echoes of his mindless tittering reverbate 
-maddeningly - he must be silenced!]]></entry>
-    <entry id="str_vo_neutral_crypts_activate_0"><![CDATA[Can the defiled be consecrated? Can the fallen find rest?]]></entry>
-    <entry id="str_vo_neutral_crypts_gather_0"><![CDATA[There is power in symbols. Collect the scrattered 
-scraps of faith and give comfort to the masses.]]></entry>
-    <entry id="str_vo_neutral_weald_explore_0"><![CDATA[I knew all these paths once; now they 
-are as twisted as my own ambitions.]]></entry>
-    <entry id="str_vo_neutral_weald_cleanse_0"><![CDATA[Corruption has soaked the soal, sapping all good life 
-from these groves - let us burn it out this evil.]]></entry>
-    <entry id="str_vo_neutral_weald_kill_0"><![CDATA[There is method in the wild corruption here. 
-It bears a form both wretched and malevolent.]]></entry>
-    <entry id="str_vo_neutral_weald_kill_alt_0"><![CDATA[The smell of sulfur and gunpowder hangs 
-in the air, the war machine is close.]]></entry>
-    <entry id="str_vo_neutral_weald_activate_0"><![CDATA[Excise the fungal  tumors and the land may yet live.]]></entry>
-    <entry id="str_vo_neutral_weald_gather_0"><![CDATA[Our land is remote and unneighbored. Every 
-lost resource must be recovered.]]></entry>
-    <entry id="str_vo_neutral_warrens_explore_0"><![CDATA[To prosecute our war against the Swine, 
-we must first scout their squalid homes.]]></entry>
-    <entry id="str_vo_neutral_warrens_cleanse_0"><![CDATA[They breed quickly down there in the dark, 
-but perhaps we can slay them even faster.]]></entry>
-    <entry id="str_vo_neutral_warrens_kill_alt_0"><![CDATA[The thing is more terrible than I can describe - 
-an incoherent jumble of organ, sinew and bone.]]></entry>
-    <entry id="str_vo_neutral_warrens_kill_0"><![CDATA[A nameless abomination, a testament to 
-my failures - it must be destroyed!]]></entry>
-    <entry id="str_vo_neutral_warrens_activate_0"><![CDATA[The Swine draw power from their horrid markings 
-and crude idols - tear them down!]]></entry>
-    <entry id="str_vo_neutral_warrens_gather_0"><![CDATA[The fiercest beast will lay down when 
-it has not eaten. Steal their food.]]></entry>
-    <entry id="str_vo_neutral_cove_explore_0"><![CDATA[The smell of rotting fish is almost unbearable, 
-but we must find its source...]]></entry>
-    <entry id="str_vo_neutral_cove_cleanse_0"><![CDATA[These salt-soaked caverns are teeming with pelagic 
-nightmares- they must be flushed out!]]></entry>
-    <entry id="str_vo_neutral_cove_kill_0"><![CDATA[I always wondered what became of 
-the unfortunate little waif...]]></entry>
-    <entry id="str_vo_neutral_cove_kill_alt_0"><![CDATA[The poor devils, chained and drowning for eternity...]]></entry>
-    <entry id="str_vo_neutral_cove_activate_0"><![CDATA[The flopping, fish-like things abhore the warding 
-sigils.  Let us claim this place anew!]]></entry>
-    <entry id="str_vo_neutral_cove_gather_0"><![CDATA[Recover these lost shipments of rarities, that we may prevent 
-them from falling into even less scrupulous hands...]]></entry>
-    <entry id="str_vo_bad_boss_01_0"><![CDATA[Towering, fierce, terrible. Nightmare made material!]]></entry>
-    <entry id="str_vo_bad_weald_boss_0"><![CDATA[Twisted and maniacal - a slathering testament 
-to the powers of corruption!]]></entry>
-    <entry id="str_vo_bad_warrens_boss_0"><![CDATA[It is a travesty; an accident given form - 
-a blundering mountain of hatred and rage.]]></entry>
-    <entry id="str_vo_bad_crypts_boss_alt_0"><![CDATA[The madman hides there, behind the 
-pews, spouting his mindless drivel!]]></entry>
-    <entry id="str_vo_bad_weald_boss_alt_0"><![CDATA[A marvel of technology - an engine of destruction!]]></entry>
-    <entry id="str_vo_bad_warrens_boss_alt_0"><![CDATA[Squirming, contorting and ever-epanding...this 
-horror must be unmade!]]></entry>
-    <entry id="str_vo_bad_cove_boss_alt_0"><![CDATA[The aquatic devils have remade the poor girl in their 
-image!  She is their queen, and their slave!]]></entry>
-    <entry id="str_vo_bad_cove_boss_0"><![CDATA[Even in death, the captain shouts 
-his orders, and the crew obeys...]]></entry>
-    <entry id="str_vo_good_crypts_success_explore_01_0"><![CDATA[The shifted corridors and sloped vaults of our 
-ancestry are beginning to feel familiar.]]></entry>
-    <entry id="str_vo_good_crypts_success_explore_02_0"><![CDATA[The great Ruins belong to us, and we 
-will find whatever secrets they hold.]]></entry>
-    <entry id="str_vo_good_weald_success_explore_01_0"><![CDATA[Every cleared path and charted route reduces 
-the isolation of our troubled estate.]]></entry>
-    <entry id="str_vo_good_weald_success_explore_02_0"><![CDATA[Paths and roads bring soldiers and supplies, 
-let them arrive unharried!]]></entry>
-    <entry id="str_vo_good_warrens_success_explore_01_0"><![CDATA[The swinefolk's labyrinth may yet prove to be navigable.]]></entry>
-    <entry id="str_vo_good_warrens_success_explore_02_0"><![CDATA[The twisting tunnels seem a little less ...impossible.]]></entry>
-    <entry id="str_vo_good_cove_success_explore_01_0"><![CDATA[Despite its morbid aspect, this twisted, 
-cavernous maze seems almost traversable.]]></entry>
-    <entry id="str_vo_good_cove_success_explore_02_0"><![CDATA[We will find all manner of great and terrible 
-things in this watery tomb...]]></entry>
-    <entry id="str_vo_good_crypts_success_cleanse_01_0"><![CDATA[More bones returned to rest. Devils remanded to their abyss.]]></entry>
-    <entry id="str_vo_good_crypts_success_cleanse_02_0"><![CDATA[Room by room, hall by hall, we reclaim what is ours.]]></entry>
-    <entry id="str_vo_good_weald_success_cleanse_01_0"><![CDATA[Driving out corruption is an endless 
-battle, but one that must be fought.]]></entry>
-    <entry id="str_vo_good_weald_success_cleanse_02_0"><![CDATA[The agents of pestilence will yet be driven from our woods!]]></entry>
-    <entry id="str_vo_good_warrens_success_cleanse_01_0"><![CDATA[Some experiments should have never happened. 
-You are doing just work, ending them.]]></entry>
-    <entry id="str_vo_good_warrens_success_cleanse_02_0"><![CDATA[Their squeals fade, their confidence is shaken!]]></entry>
-    <entry id="str_vo_good_cove_success_cleanse_01_0"><![CDATA[The pungent odour abates!  The things 
-are driven back, for a time.]]></entry>
-    <entry id="str_vo_good_cove_success_cleanse_02_0"><![CDATA[At last, wholesome marine life can flourish 
-- if indeed there is such a thing.]]></entry>
-    <entry id="str_vo_good_crypts_success_boss_alt_01_0"><![CDATA[Did he foresee his own demise?  I care 
-not, so long as he remains dead.]]></entry>
-    <entry id="str_vo_good_crypts_success_boss_alt_02_0"><![CDATA[In life, his claims to precognition were dubious 
-at best, in death, they are ridiculous.]]></entry>
-    <entry id="str_vo_good_crypts_success_boss_02_0"><![CDATA[With no living sinew to actuate them, 
-will these walking bones finally fail?]]></entry>
-    <entry id="str_vo_good_boss_kill_01_0"><![CDATA[Even reanimated bones can fall; even the dead can die again.]]></entry>
-    <entry id="str_vo_good_weald_success_boss_alt_01_0"><![CDATA[A corpse of twisted metal and splintered 
-wood - at home amongst the headstones.]]></entry>
-    <entry id="str_vo_good_weald_success_boss_alt_02_0"><![CDATA[The Brigands are undone - our family crest 
-is once again a symbol of strength!]]></entry>
-    <entry id="str_vo_good_weald_success_boss_01_0"><![CDATA[The wood is still poisoned. The way is still 
-blocked. But less people will be eaten.]]></entry>
-    <entry id="str_vo_good_weald_success_boss_02_0"><![CDATA[Let her corpse to rot, consumed by the spores she spawned.]]></entry>
-    <entry id="str_vo_good_warrens_success_boss_alt_01_0"><![CDATA[It is as grotesque in death as it was in life...]]></entry>
-    <entry id="str_vo_good_warrens_success_boss_alt_02_0"><![CDATA[Its destruction is a small consolation, given 
-the implications of its terrible existence.]]></entry>
-    <entry id="str_vo_good_warrens_success_boss_01_0"><![CDATA[How many rats will it take to gnaw 
-through a tonne of putrid flesh?]]></entry>
-    <entry id="str_vo_good_warrens_success_boss_02_0"><![CDATA[The thing is even more horrible in death. 
-Liquefaction cannot come soon enough.]]></entry>
-    <entry id="str_vo_good_cove_success_boss_alt_01_0"><![CDATA[Hideous matriarch, vile queen of the aphotic 
-depths - she has no place in the sane world!]]></entry>
-    <entry id="str_vo_good_cove_success_boss_alt_02_0"><![CDATA[Seafaring trade, the lifeblood of any port, can 
-resume again now that the routes are safe.]]></entry>
-    <entry id="str_vo_good_cove_success_boss_01_0"><![CDATA[Finally, a sailor's death for captain and crew. Fitting.]]></entry>
-    <entry id="str_vo_good_cove_success_boss_02_0"><![CDATA[They are cursed to float forever, deep in the swirling 
-blackness, far beyond the light's reach.]]></entry>
-    <entry id="str_vo_good_crypts_success_gather_01_0"><![CDATA[Tokens of hope, recovered from the encroaching dark.]]></entry>
-    <entry id="str_vo_good_crypts_success_gather_02_0"><![CDATA[The Abbot will be grateful - the trappings 
-of his faith have been restored.]]></entry>
-    <entry id="str_vo_good_weald_success_gather_01_0"><![CDATA[These medicines will prevent the outbreak 
-of epidemic at our struggling Hamlet.]]></entry>
-    <entry id="str_vo_good_weald_success_gather_02_0"><![CDATA[These tonics and herbs will stave off 
-infection and neutralize contagion.]]></entry>
-    <entry id="str_vo_good_warrens_success_gather_01_0"><![CDATA[These foodstuffs yield double benefit: the 
-town may eat, and the Swine will not.]]></entry>
-    <entry id="str_vo_good_warrens_success_gather_02_0"><![CDATA[Our supplies are replenished, the 
-soldiers will feast tonight.]]></entry>
-    <entry id="str_vo_good_crypts_success_activate_01_0"><![CDATA[This day belongs to the Light!]]></entry>
-    <entry id="str_vo_good_crypts_success_activate_02_0"><![CDATA[Beacons in the darkness, stars in the emptiness of the void.]]></entry>
-    <entry id="str_vo_good_weald_success_activate_01_0"><![CDATA[Good fortune and hard work may yet arrest this plague.]]></entry>
-    <entry id="str_vo_good_weald_success_activate_02_0"><![CDATA[Disinfection, at last.]]></entry>
-    <entry id="str_vo_good_warrens_success_activate_01_0"><![CDATA[Ha ha! Let those dirty beasts worshop the mud now!]]></entry>
-    <entry id="str_vo_good_warrens_success_activate_02_0"><![CDATA[Robbed of their writings, the Swine will grow ever 
-more ignorant - if such a thing were possible.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_01_0"><![CDATA[A setback, but not the end of things.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_02_0"><![CDATA[Wounds to be tended; lessons to be learned.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_03_0"><![CDATA[Regroup. Reassemble. Evil is timeless, after all.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_04_0"><![CDATA[Failure tests the mettle of heart, brain, and body.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_05_0"><![CDATA[You will endure this loss, and learn from it.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_06_0"><![CDATA[We fall so that we may learn to pick ourselves up once again.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_07_0"><![CDATA[Do not ruminate on this fleeting failure - the 
-campaign is long, and victory will come.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_08_0"><![CDATA[Where there is no peril in the task, there 
-can be no glory in it's accomplishment.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_09_0"><![CDATA[Ignorance of your enemy and of yourself 
-will invariably lead to defeat.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_10_0"><![CDATA[Great adversity has a beauty - it is 
-the fire that tempers the blade.]]></entry>
-    <entry id="str_vo_bad_general_quest_fail_11_0"><![CDATA[You cannot learn a thing you think you know...]]></entry>
-    <entry id="str_vo_good_kill_first_01_0"><![CDATA[As the fiend falls, a faint hope blossoms.]]></entry>
-    <entry id="str_vo_good_kill_first_02_0"><![CDATA[Confidence surges as the enemy crumbles!]]></entry>
-    <entry id="str_vo_good_kill_first_03_0"><![CDATA[Press this advantage, give them no quarter!]]></entry>
-    <entry id="str_vo_good_kill_first_04_0"><![CDATA[Their formation is broken - maintain the offensive!]]></entry>
-    <entry id="str_vo_good_kill_first_05_0"><![CDATA[Continue the onslaught! Destroy.  Them.  All.]]></entry>
-    <entry id="str_vo_good_general_kill_weak_01_0"><![CDATA[Executed with impunity!]]></entry>
-    <entry id="str_vo_good_general_kill_weak_02_0"><![CDATA[Another abomination cleansed from our lands!]]></entry>
-    <entry id="str_vo_good_general_kill_weak_03_0"><![CDATA[Begone fiend!]]></entry>
-    <entry id="str_vo_good_general_kill_weak_04_0"><![CDATA[Back to the pit!]]></entry>
-    <entry id="str_vo_good_general_kill_weak_05_0"><![CDATA[Another mindless minion falls... 
-(WAYNE SAYS ANOTHER ONE FALLS"]]></entry>
-    <entry id="str_vo_good_general_kill_strong_01_0"><![CDATA[Decimated!]]></entry>
-    <entry id="str_vo_good_general_kill_strong_02_0"><![CDATA[Obliterated!]]></entry>
-    <entry id="str_vo_good_general_kill_strong_03_0"><![CDATA[Destroyed!]]></entry>
-    <entry id="str_vo_good_general_kill_strong_04_0"><![CDATA[Eradicated!]]></entry>
-    <entry id="str_vo_good_general_kill_strong_05_0"><![CDATA[Annihilated!]]></entry>
-    <entry id="str_vo_good_general_kill_big_01_0"><![CDATA[The bigger the beast, the greater the glory.]]></entry>
-    <entry id="str_vo_good_general_kill_big_02_0"><![CDATA[A victory - perhaps a turning point!]]></entry>
-    <entry id="str_vo_good_general_kill_big_03_0"><![CDATA[Prodigous size alone does not dissuade the sharpened blade.]]></entry>
-    <entry id="str_vo_good_general_kill_big_04_0"><![CDATA[Their cursed champions falls!]]></entry>
-    <entry id="str_vo_good_general_kill_big_05_0"><![CDATA[Monstrous size has no intrinsic merit, unless inordinate 
-exsanguination be considered a virtue...]]></entry>
-    <entry id="str_vo_good_general_kill_DOT_01_0"><![CDATA[Great is the weapon that cuts on its own.]]></entry>
-    <entry id="str_vo_good_general_kill_DOT_02_0"><![CDATA[The slow death - unforeseen, unforgiving.]]></entry>
-    <entry id="str_vo_good_general_kill_DOT_03_0"><![CDATA[A death by inches...]]></entry>
-    <entry id="str_vo_good_general_kill_DOT_04_0"><![CDATA[Slowly, gently, this is how a life is taken.]]></entry>
-    <entry id="str_vo_good_general_crit_monster_01_0"><![CDATA[Well struck!]]></entry>
-    <entry id="str_vo_good_general_crit_monster_02_0"><![CDATA[A powerful blow!]]></entry>
-    <entry id="str_vo_good_general_crit_monster_03_0"><![CDATA[A devastatating blow!]]></entry>
-    <entry id="str_vo_good_general_crit_monster_04_0"><![CDATA[A singular strike...]]></entry>
-    <entry id="str_vo_good_general_crit_monster_05_0"><![CDATA[A decisive pummeling!]]></entry>
-    <entry id="str_vo_good_general_crit_monster_06_0"><![CDATA[Masterfully executed!]]></entry>
-    <entry id="str_vo_good_general_crit_monster_07_0"><![CDATA[Precision and power!]]></entry>
-    <entry id="str_vo_good_general_crit_monster_08_0"><![CDATA[Impressive!]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_01_0"><![CDATA[Mortality clarified in a single strike.]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_02_0"><![CDATA[Death waits for slightest lapse in concentration...]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_03_0"><![CDATA[How quickly the tide turns!]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_04_0"><![CDATA[Dazed, reeling, about to break...]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_05_0"><![CDATA[Such a terrible assault cannot be left unanswered...]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_06_0"><![CDATA[Grievous injury, palpable fear!]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_07_0"><![CDATA[Ringing ears, blurred vision - the end approaches...]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_08_0"><![CDATA[A dizzying blow to body and brain!]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_09_0"><![CDATA[Unnerved, unbalanced]]></entry>
-    <entry id="str_vo_bad_general_crit_hero_10_0"><![CDATA[- exposed to a killing blow...]]></entry>
-    <entry id="str_vo_bad_deaths_door_01_0"><![CDATA[Perched at the very precipice of oblivion...]]></entry>
-    <entry id="str_vo_bad_deaths_door_02_0"><![CDATA[A hands-breadth from becoming unwound...]]></entry>
-    <entry id="str_vo_bad_deaths_door_03_0"><![CDATA[Teetering on the brink, facing the abyss!]]></entry>
-    <entry id="str_vo_bad_deaths_door_04_0"><![CDATA[And now the true test...hold fast, or expire?]]></entry>
-    <entry id="str_vo_bad_deaths_door_05_0"><![CDATA[As life ebbs, terrible vistas of emptiness reveal themselves.]]></entry>
-    <entry id="str_vo_bad_death_01_0"><![CDATA[Survival is a tenuous proposition in this sprawling tomb.]]></entry>
-    <entry id="str_vo_bad_death_02_0"><![CDATA[More blood soaks the soil, feeding the evil therein.]]></entry>
-    <entry id="str_vo_bad_death_03_0"><![CDATA[Another life wasted in the pursuit of glory and gold.]]></entry>
-    <entry id="str_vo_bad_death_04_0"><![CDATA[This is no place for the weak, or the foolhardy.]]></entry>
-    <entry id="str_vo_bad_death_05_0"><![CDATA[More dust, more ashes, more disappointment.]]></entry>
-    <entry id="str_vo_good_victory_first_01_0"><![CDATA[These nightmarish creatures can 
-be felled, they can be beaten!]]></entry>
-    <entry id="str_vo_good_victory_first_02_0"><![CDATA[Remind yourself that overconfidence 
-is a slow and insidious killer.]]></entry>
-    <entry id="str_vo_good_victory_first_03_0"><![CDATA[A trifling victory, but a victory nonetheless.]]></entry>
-    <entry id="str_vo_good_victory_first_04_0"><![CDATA[This expedition, at least, promises success.]]></entry>
-    <entry id="str_vo_good_victory_first_05_0"><![CDATA[As victories mount, so too will resistance.]]></entry>
-    <entry id="str_vo_good_victory_first_06_0"><![CDATA[Be wary - triumphant pride precipitates a dizzying fall...]]></entry>
-    <entry id="str_vo_good_victory_first_07_0"><![CDATA[Ghoulish horrors - brought low and driven into the mud!]]></entry>
-    <entry id="str_vo_good_victory_first_08_0"><![CDATA[Sieze this momentum - push on to the task's end!]]></entry>
-    <entry id="str_vo_good_victory_first_09_0"><![CDATA[Success, so clearly in view.  Or, 
-is it merely a trick of the light?]]></entry>
-    <entry id="str_vo_bad_retreat_fail_01_0"><![CDATA[True desperation is known only when escape is impossible.]]></entry>
-    <entry id="str_vo_bad_retreat_fail_02_0"><![CDATA[Cornered!  Trapped!  And forced to fight on...]]></entry>
-    <entry id="str_vo_bad_retreat_fail_03_0"><![CDATA[No chance for egress - will this be a massacre?]]></entry>
-    <entry id="str_vo_good_retreat_success_01_0"><![CDATA[This skirmish may be lost, but the battle may yet be won.]]></entry>
-    <entry id="str_vo_good_retreat_success_02_0"><![CDATA[A wise general cuts losses and regroups.]]></entry>
-    <entry id="str_vo_good_retreat_success_03_0"><![CDATA[The sin is not in being outmatched, 
-but in failing to recognize it.]]></entry>
-    <entry id="str_vo_good_loot_first_01_0"><![CDATA[Glittering gold, trinkets and baubles, paid for in blood.]]></entry>
-    <entry id="str_vo_good_loot_first_02_0"><![CDATA[If only treasure could staunch the 
-flow of otherworldy corruption.]]></entry>
-    <entry id="str_vo_good_loot_first_03_0"><![CDATA[Finding the stuff is only the first 
-test, now it must be carried home.]]></entry>
-    <entry id="str_vo_good_loot_first_04_0"><![CDATA[Packs laden with loot are often light on supplies.]]></entry>
-    <entry id="str_vo_good_loot_first_05_0"><![CDATA[Wealth beyond measure, awarded to 
-the brave and foolhardy alike.]]></entry>
-    <entry id="str_vo_good_loot_first_06_0"><![CDATA[A fortune waiting to be spent...]]></entry>
-    <entry id="str_vo_good_loot_first_07_0"><![CDATA[A handsome reward for a task well performed.]]></entry>
-    <entry id="str_vo_bad_afflicted_01_0"><![CDATA[The human mind - fragile like a robin's egg.]]></entry>
-    <entry id="str_vo_bad_afflicted_02_0"><![CDATA[Wherefore, heroism?]]></entry>
-    <entry id="str_vo_bad_afflicted_03_0"><![CDATA[The mind cannot hope to withstand such an assult.]]></entry>
-    <entry id="str_vo_bad_afflicted_04_0"><![CDATA[Even the aged oak will fall to the tempest's winds.]]></entry>
-    <entry id="str_vo_bad_afflicted_05_0"><![CDATA[Madness, our old friend!]]></entry>
-    <entry id="str_vo_bad_afflicted_06_0"><![CDATA[One can sometimes find clarity in madness, but only rarely...]]></entry>
-    <entry id="str_vo_bad_afflicted_07_0"><![CDATA[Madness - sublimity of the intelligence, 
-or so it has been said.]]></entry>
-    <entry id="str_vo_bad_afflicted_08_0"><![CDATA[The bulwarks of the mind have fallen!]]></entry>
-    <entry id="str_vo_bad_afflicted_09_0"><![CDATA[The abyss is made manifest!]]></entry>
-    <entry id="str_vo_bad_afflicted_fearful_0"><![CDATA[Fear and frailty finally claim their due.]]></entry>
-    <entry id="str_vo_bad_afflicted_paranoid_0"><![CDATA[The walls close in, the shadows whisper of conspiracy!]]></entry>
-    <entry id="str_vo_bad_afflicted_depressed_0"><![CDATA[There can be no hope in this hell, no hope at all.]]></entry>
-    <entry id="str_vo_bad_afflicted_selfish_0"><![CDATA[Self-preservation is paramount - at any cost!]]></entry>
-    <entry id="str_vo_bad_afflicted_masochistic_0"><![CDATA[Those who covet injury find it in no short supply.]]></entry>
-    <entry id="str_vo_bad_afflicted_abusive_0"><![CDATA[Frustration and fury, more destructive 
-than a hundred cannons.]]></entry>
-    <entry id="str_vo_bad_afflicted_irrational_0"><![CDATA[Reeling, gasping, taken over the edge into madness!]]></entry>
-    <entry id="str_vo_good_virtue_stalwart_0"><![CDATA[Many fall in the face of chaos; but not this one, not today.]]></entry>
-    <entry id="str_vo_good_virtue_powerful_0"><![CDATA[Anger is power - unleash it!]]></entry>
-    <entry id="str_vo_good_virtue_focused_0"><![CDATA[A moment of clarity in the eye of the storm...]]></entry>
-    <entry id="str_vo_good_virtue_vigorous_0"><![CDATA[Adversity can foster hope, and resilience!]]></entry>
-    <entry id="str_vo_good_affliction_pass_01_0"><![CDATA[A moment of valor shines brightest 
-against a backdrop of despair.]]></entry>
-    <entry id="str_vo_bad_obstacle_01_0"><![CDATA[Without tools of iron, you must rely 
-on flesh and indefatiguable purpose.]]></entry>
-    <entry id="str_vo_bad_obstacle_crypts_0"><![CDATA[Even the cold stone seems bent on preventing passage.]]></entry>
-    <entry id="str_vo_bad_obstacle_weald_0"><![CDATA[Nature herself, a victim to the spreading 
-corruption, malformed with misintent.]]></entry>
-    <entry id="str_vo_bad_obstacle_warrens_0"><![CDATA[Such blockages are unsurprising - these tunnels 
-predate even the earliest settlers.]]></entry>
-    <entry id="str_vo_bad_obstacle_cove_0"><![CDATA[Another mariner, another misfortune.]]></entry>
-    <entry id="str_vo_bad_trap_01_0"><![CDATA[Cruel machinations spring to life with a singular purpose!]]></entry>
-    <entry id="str_vo_bad_trap_02_0"><![CDATA[Curious is the trap-maker's art...his 
-efficacy unwitnessed by his own eyes.]]></entry>
-    <entry id="str_vo_bad_trap_03_0"><![CDATA[Mechanical hazards, posessed by evil intent!]]></entry>
-    <entry id="str_vo_bad_trap_04_0"><![CDATA[Ambushed by foul invention!]]></entry>
-    <entry id="str_vo_bad_trap_05_0"><![CDATA[Ancient traps lie in wait, unsprung and thirsting for blood.]]></entry>
-    <entry id="str_vo_bad_trap_06_0"><![CDATA[Carelessness will find no clemency in this place!]]></entry>
-    <entry id="str_vo_bad_trap_07_0"><![CDATA[Mind that such missteps are the exception, and not the rule.]]></entry>
-    <entry id="str_vo_bad_trap_08_0"><![CDATA[Watch your step...]]></entry>
-    <entry id="str_vo_bad_starve_01_0"><![CDATA[Gnawing hunger sets in, turning the body 
-against itself, weakening the mind.]]></entry>
-    <entry id="str_vo_bad_starve_02_0"><![CDATA[To fall for such a little thing...a bite of bread!]]></entry>
-    <entry id="str_vo_bad_starve_03_0"><![CDATA[Packs full of steel and war, but 
-nary a thought given to the plow!]]></entry>
-    <entry id="str_vo_bad_starve_04_0"><![CDATA[No force of will can overcome a failing body.]]></entry>
-    <entry id="str_vo_bad_starve_05_0"><![CDATA[The requirements of survival cannot 
-be met on an empty stomach.]]></entry>
-    <entry id="str_vo_good_camp_01_0"><![CDATA[A moment of respite, a chance to steel 
-oneself against the coming horrors.]]></entry>
-    <entry id="str_vo_good_camp_02_0"><![CDATA[A spark without kindling is a goal without hope.]]></entry>
-    <entry id="str_vo_good_camp_03_0"><![CDATA[Circle in the dark. The battle may yet be won.]]></entry>
-    <entry id="str_vo_good_camp_04_0"><![CDATA[Gathered close, in tenuous firelight 
-and uneasy companionship...]]></entry>
-    <entry id="str_vo_good_camp_05_0"><![CDATA[Huddled together, furtive and vulnerable.  Rats in a maze.]]></entry>
-    <entry id="str_vo_bad_torchlight_01_0"><![CDATA[The darkness holds much worse than 
-mere trickery and boogey-men.]]></entry>
-    <entry id="str_vo_bad_torchlight_02_0"><![CDATA[Darkess closes in, haunting the hearts of men.]]></entry>
-    <entry id="str_vo_bad_torchlight_03_0"><![CDATA[Terrors may indeed stalk these shadows, 
-but yonder, a glint of gold!]]></entry>
-    <entry id="str_vo_bad_torchlight_04_0"><![CDATA[Secrets and wonders can be found in the 
-most tenebrous corners of this place.]]></entry>
-    <entry id="str_vo_bad_torchlight_05_0"><![CDATA[...And now the darkness holds dominion - black as death.]]></entry>
-    <entry id="str_vo_good_torchlight_01_0"><![CDATA[The light, the promise of safety!]]></entry>
-    <entry id="str_vo_good_torchlight_02_0"><![CDATA[The way is lit. The path is clear. We require 
-only the strength to follow it.]]></entry>
-    <entry id="str_vo_good_torchlight_03_0"><![CDATA[In radiance may we find victory!]]></entry>
-    <entry id="str_vo_good_torchlight_04_0"><![CDATA[As the light gains purchase, spirits 
-are lifted and purpose is made clear.]]></entry>
-    <entry id="str_vo_good_torchlight_05_0"><![CDATA[The match is struck, a blazing star is born!]]></entry>
-    <entry id="str_vo_town_backstory_01_0"><![CDATA[Once, our Estate was the envy of this land.]]></entry>
-    <entry id="str_vo_town_backstory_02_0"><![CDATA[I remember days when the sun shone, and 
-laughter could be heard from the Tavern.]]></entry>
-    <entry id="str_vo_town_backstory_03_0"><![CDATA[I was lord of this place, before the 
-crows and rats made it their domain.]]></entry>
-    <entry id="str_vo_town_backstory_04_0"><![CDATA[I see something long-absent in the sunken 
-faces of passersby -- a glimmer of hope.]]></entry>
-    <entry id="str_vo_town_backstory_05_0"><![CDATA[In truth, I cannot tell how much time 
-has passed since I sent that letter.]]></entry>
-    <entry id="str_vo_town_backstory_06_0"><![CDATA[The poor Cartetaker, I fear his longstanding 
-duties here have ...affected him.]]></entry>
-    <entry id="str_vo_town_backstory_07_0"><![CDATA[The degeneracy of the Hamlet is nothing, I fear, when 
-compared to the condition of surrounding acres.]]></entry>
-    <entry id="str_vo_town_backstory_08_0"><![CDATA[My obsession caused this great foulness, and it is 
-shameful that I must rely upon you to set it right.]]></entry>
-    <entry id="str_vo_town_backstory_09_0"><![CDATA[Our family name, once so well regarded, is 
-now barely whispered aloud by decent folk.]]></entry>
-    <entry id="str_vo_town_backstory_10_0"><![CDATA[I can still see their angry faces as they stormed the manor, but 
-I was dead before they found me, and the letter was on its way.]]></entry>
-    <entry id="str_vo_town_backstory_11_0"><![CDATA[There is a great horror beneath the manor 
--a Crawling Chaos that must be destroyed!]]></entry>
-    <entry id="str_vo_town_backstory_12_0"><![CDATA[Curiosity, interest and obsession - mile 
-markers on my road to damnation.]]></entry>
-    <entry id="str_vo_town_backstory_13_0"><![CDATA[Trouble yourself not with the cost of this crusade - its noble 
+    <entry id="str_vo_neutral_crypts_explore_0"><![CDATA[Marcher hors des chemins de votre lignée, 
+autrefois familière, aujuoud'hui étrangère.]]></entry>
+    <entry id="str_vo_neutral_crypts_cleanse_0"><![CDATA[Les démons doivent être repoussés, et quel meilleur 
+endroit pour commencer que le siège de notre noble lignée?]]></entry>
+    <entry id="str_vo_neutral_quest_start_01_0"><![CDATA[Une entité maléfique hante ces chemins... seul le fou 
+ou le désespéré peut aller à sa recherche.]]></entry>
+    <entry id="str_vo_neutral_crypts_kill_alt_0"><![CDATA[Les échos de son horripilant gloussement retentissent 
+d'une façon exaspérante - il doit être réduit au silence!]]></entry>
+    <entry id="str_vo_neutral_crypts_activate_0"><![CDATA[Le profane peut-il être béni? Les morts peuvent-ils trouver le repos?]]></entry>
+    <entry id="str_vo_neutral_crypts_gather_0"><![CDATA[La puissance est dans les symboles. Rassemblons les 
+fragments de la foi et apportez le réconfort à la population..]]></entry>
+    <entry id="str_vo_neutral_weald_explore_0"><![CDATA[J'ai connu tous ces chemins par le passé. À présent, ils 
+sont aussi tordus que mes propres ambitions.]]></entry>
+    <entry id="str_vo_neutral_weald_cleanse_0"><![CDATA[La corruption a infiltré la nature, sapant toute la bonne vie 
+de ces vergers - brûlons là ce mal.]]></entry>
+    <entry id="str_vo_neutral_weald_kill_0"><![CDATA[Ici, la corruption sauvage a été exécutée avec méthode. 
+Elle entretient une forme à la fois misérable et malveillante.]]></entry>
+    <entry id="str_vo_neutral_weald_kill_alt_0"><![CDATA[L'odeur du soufre et de la poudre est en suspension 
+dans l'air, la machine de guerre est proche.]]></entry>
+    <entry id="str_vo_neutral_weald_activate_0"><![CDATA[Excisez les tumeurs fongiques et la terre peut encore vivre.]]></entry>
+    <entry id="str_vo_neutral_weald_gather_0"><![CDATA[Notre terre est éloignée et isolée. Chaque 
+ressource perdue doit être récupérée.]]></entry>
+    <entry id="str_vo_neutral_warrens_explore_0"><![CDATA[Pour poursuivre notre guerre contre les porcs, 
+nous devons d'abord surveiller leurs maisons sordides.]]></entry>
+    <entry id="str_vo_neutral_warrens_cleanse_0"><![CDATA[Ils se multiplient rapidement dans l'obscurité, 
+mais peut-être pouvons-nous les massacrer encore plus rapidement.]]></entry>
+    <entry id="str_vo_neutral_warrens_kill_alt_0"><![CDATA[La créature est si horrible qu'il est difficile de la décrire - 
+un pêle-mêle incohérent d'organes, de tendons et d'os.]]></entry>
+    <entry id="str_vo_neutral_warrens_kill_0"><![CDATA[Une abomination sans nom, un testament à 
+mes échecs - il doit être détruit!]]></entry>
+    <entry id="str_vo_neutral_warrens_activate_0"><![CDATA[Les porcs tirent leur puissance de leurs inscriptions horribles 
+et de leurs grossières idoles - démolissez-les!]]></entry>
+    <entry id="str_vo_neutral_warrens_gather_0"><![CDATA[La bête la plus féroce rendra les armes quand 
+elle n'a pas mangé. Volez leur nourriture.]]></entry>
+    <entry id="str_vo_neutral_cove_explore_0"><![CDATA[L'odeur des poissons en décomposition est presque insupportable, 
+mais nous devons trouver sa source...]]></entry>
+    <entry id="str_vo_neutral_cove_cleanse_0"><![CDATA[Ces cavernes imprégnées de sel grouillent de cauchemars maritimes - 
+elles doivent être rincées!]]></entry>
+    <entry id="str_vo_neutral_cove_kill_0"><![CDATA[Je me suis toujours demandé ce qu'il est advenu 
+de l'infortuné petit enfant abandonné...]]></entry>
+    <entry id="str_vo_neutral_cove_kill_alt_0"><![CDATA[Les pauvres diables, enchaînés et se noyant pour l'éternité...]]></entry>
+    <entry id="str_vo_neutral_cove_activate_0"><![CDATA[L'effondrement, les créatures semblables à des poissons détestent les sceaux 
+de conjuration. Laissez-nous revendiquer à nouveau cet endroit!]]></entry>
+    <entry id="str_vo_neutral_cove_gather_0"><![CDATA[Récupérer des raretés disséminées par ces expéditions perdues, nous pouvons l'empêcher 
+afin qu'elles ne tombent pas entre des mains moins scrupuleuses...]]></entry>
+    <entry id="str_vo_bad_boss_01_0"><![CDATA[Domination, féroce, terrible. Le cauchemar devient réalité!]]></entry>
+    <entry id="str_vo_bad_weald_boss_0"><![CDATA[Tordu et maniaque - un testament qui abrite 
+les puissances de la corruption!]]></entry>
+    <entry id="str_vo_bad_warrens_boss_0"><![CDATA[C'est une parodie, une forme donnée par accident - 
+une montagne maladroite remplie de haine et de rage.]]></entry>
+    <entry id="str_vo_bad_crypts_boss_alt_0"><![CDATA[Le fou se cache ici, derrière des 
+bancs, crachant son radotage insensé!]]></entry>
+    <entry id="str_vo_bad_weald_boss_alt_0"><![CDATA[Une merveille de technologie - un moteur de destruction!]]></entry>
+    <entry id="str_vo_bad_warrens_boss_alt_0"><![CDATA[Se tortillant, se tordant et s'étendant sans fin... cette 
+horreur doit être défaite!]]></entry>
+    <entry id="str_vo_bad_cove_boss_alt_0"><![CDATA[Les diables aquatiques ont transformé la pauvre fille à leur 
+image!  Elle est leur reine et leur esclave!]]></entry>
+    <entry id="str_vo_bad_cove_boss_0"><![CDATA[Même dans la mort, le capitaine rugit 
+ses ordres et l'équipage obéit...]]></entry>
+    <entry id="str_vo_good_crypts_success_explore_01_0"><![CDATA[Les couloirs décalés et les chambres fortes renversées de nos 
+ancêtres deviennent familières.]]></entry>
+    <entry id="str_vo_good_crypts_success_explore_02_0"><![CDATA[Les grandes ruines nous appartiennent et nous 
+trouverons les secrets qu'elles contiennent.]]></entry>
+    <entry id="str_vo_good_weald_success_explore_01_0"><![CDATA[Chaque chemin dégagé et chaque itinéraire répertorié sur la carte réduit 
+l'isolement de notre domaine troublé.]]></entry>
+    <entry id="str_vo_good_weald_success_explore_02_0"><![CDATA[Les chemins et les routes apportent des soldats et des approvisionnements, 
+laissez-les arriver sans vous soucier !]]></entry>
+    <entry id="str_vo_good_warrens_success_explore_01_0"><![CDATA[Le labyrinthe du peuple des porcs peut encore s'avérer navigable.]]></entry>
+    <entry id="str_vo_good_warrens_success_explore_02_0"><![CDATA[Les tunnels tortueux semblent un peu moins... impossibles.]]></entry>
+    <entry id="str_vo_good_cove_success_explore_01_0"><![CDATA[En dépit de son aspect morbide, ce sinueux 
+labyrinthe caverneux semble presque traversable.]]></entry>
+    <entry id="str_vo_good_cove_success_explore_02_0"><![CDATA[Nous trouverons de toute manière de grandes et terribles 
+choses au fond de cette tombe aquatique...]]></entry>
+    <entry id="str_vo_good_crypts_success_cleanse_01_0"><![CDATA[Plus d'os retournés au repos. Les Diables renvoyés à leur abîme.]]></entry>
+    <entry id="str_vo_good_crypts_success_cleanse_02_0"><![CDATA[salle par salle, couloir par couloir, nous réclamons ce qui est nôtre.]]></entry>
+    <entry id="str_vo_good_weald_success_cleanse_01_0"><![CDATA[La chasse de la corruption est une bataille sans fin, 
+mais elle se doit d'être poursuivie.]]></entry>
+    <entry id="str_vo_good_weald_success_cleanse_02_0"><![CDATA[Les agents de la peste devront encore être conduits hors de nos nos bois!]]></entry>
+    <entry id="str_vo_good_warrens_success_cleanse_01_0"><![CDATA[Quelques expériences devraient ne jamais s'être produites. 
+Vous effectuez juste le travail, finissez-les.]]></entry>
+    <entry id="str_vo_good_warrens_success_cleanse_02_0"><![CDATA[Leurs cris aigus se tarissent, leur confiance est ébranlée!]]></entry>
+    <entry id="str_vo_good_cove_success_cleanse_01_0"><![CDATA[L'odeur piquante diminue! Les choses 
+ont été repoussées, pendant un certain temps.]]></entry>
+    <entry id="str_vo_good_cove_success_cleanse_02_0"><![CDATA[Enfin, l'espèce marine saine peut s'épanouir 
+- si en effet, elle puisse exister.]]></entry>
+    <entry id="str_vo_good_crypts_success_boss_alt_01_0"><![CDATA[A-t-il prévu sa propre fin? Je ne m'inquiète 
+pas, tant qu'il reste mort.]]></entry>
+    <entry id="str_vo_good_crypts_success_boss_alt_02_0"><![CDATA[Dans la vie, ses prétentions à la prescience étaient douteuses 
+au mieux. Dans la mort, elles sont ridicules.]]></entry>
+    <entry id="str_vo_good_crypts_success_boss_02_0"><![CDATA[Sans le tendon vivant pour les activer, 
+le mouvement des os mène finalement à l'échec?]]></entry>
+    <entry id="str_vo_good_boss_kill_01_0"><![CDATA[Même les os réanimés peuvent tomber; même les morts peuvent mourir encore.]]></entry>
+    <entry id="str_vo_good_weald_success_boss_alt_01_0"><![CDATA[Un cadavre de métal tordu et de bois brisé 
+- chez lui, parmi les pierres tombales.]]></entry>
+    <entry id="str_vo_good_weald_success_boss_alt_02_0"><![CDATA[Les brigands sont défaits - les armoiries de notre famille 
+sont de nouveau un symbole de force!]]></entry>
+    <entry id="str_vo_good_weald_success_boss_01_0"><![CDATA[Le bois est encore empoisonné. Le chemin est toujours 
+bloqué. Mais moins de personnes seront dévorées.]]></entry>
+    <entry id="str_vo_good_weald_success_boss_02_0"><![CDATA[Laissez son cadavre pourrir, consommé par les spores qu'elle a engendrées.]]></entry>
+    <entry id="str_vo_good_warrens_success_boss_alt_01_0"><![CDATA[Il est aussi grotesque dans la mort qu'il l'était dans la vie...]]></entry>
+    <entry id="str_vo_good_warrens_success_boss_alt_02_0"><![CDATA[Sa destruction est une petite consolation, annonçant 
+les implications de sa terrible existence.]]></entry>
+    <entry id="str_vo_good_warrens_success_boss_01_0"><![CDATA[Combien de rats va t-il falloir pour ronger 
+à travers une tonne de chair putride?]]></entry>
+    <entry id="str_vo_good_warrens_success_boss_02_0"><![CDATA[La chose est bien plus horrible dans la mort. 
+La liquéfaction s'effectuera tardivement.]]></entry>
+    <entry id="str_vo_good_cove_success_boss_alt_01_0"><![CDATA[Chef de famille affreux, vile reine des profondeurs 
+de la nuit - elle n'a aucun endroit dans le monde raisonnable!]]></entry>
+    <entry id="str_vo_good_cove_success_boss_alt_02_0"><![CDATA[Le commerce de navigation, l'élément vital de n'importe quel port, peut 
+reprendre encore maintenant que les itinéraires sont sûrs.]]></entry>
+    <entry id="str_vo_good_cove_success_boss_01_0"><![CDATA[En conclusion, la mort d'un marin pour le capitaine et son équipage. Approprié.]]></entry>
+    <entry id="str_vo_good_cove_success_boss_02_0"><![CDATA[Ils sont maudits et flottent pour toujours, profondément dans le tourbillonnement 
+obscur, bien au-delà de la portée de la lumière.]]></entry>
+    <entry id="str_vo_good_crypts_success_gather_01_0"><![CDATA[Des signes d'espoir, s'extirpent d'une envahissante obscurité.]]></entry>
+    <entry id="str_vo_good_crypts_success_gather_02_0"><![CDATA[L'abbé sera reconnaissant - les signes extérieurs 
+de sa foi ont été reconstitués.]]></entry>
+    <entry id="str_vo_good_weald_success_gather_01_0"><![CDATA[Ces médecines empêcheront la manifestation 
+de l'épidémie chez notre infortuné Hamlet.]]></entry>
+    <entry id="str_vo_good_weald_success_gather_02_0"><![CDATA[Ces toniques et herbes conjureront 
+l'infection et neutraliseront la contagion.]]></entry>
+    <entry id="str_vo_good_warrens_success_gather_01_0"><![CDATA[Ces produits alimentaires apportent un double avantage : 
+la ville peut manger, et les porcs non.]]></entry>
+    <entry id="str_vo_good_warrens_success_gather_02_0"><![CDATA[Nos approvisionnements sont au oomplet, 
+les soldats se régaleront ce soir.]]></entry>
+    <entry id="str_vo_good_crypts_success_activate_01_0"><![CDATA[Ce jour appartient à la lumière!]]></entry>
+    <entry id="str_vo_good_crypts_success_activate_02_0"><![CDATA[Balises dans l'obscurité, étoiles dans le vide du néant.]]></entry>
+    <entry id="str_vo_good_weald_success_activate_01_0"><![CDATA[Une bonne part de chance et un dur labeur peuvent encore arrêter cette peste.]]></entry>
+    <entry id="str_vo_good_weald_success_activate_02_0"><![CDATA[Désinfection, enfin.]]></entry>
+    <entry id="str_vo_good_warrens_success_activate_01_0"><![CDATA[Ha ha! Laissez ces sales bêtes façonner la boue à présent!]]></entry>
+    <entry id="str_vo_good_warrens_success_activate_02_0"><![CDATA[Dépossédés de leurs écritures, les porcs n'évolueront plus jamais 
+dans l'ignorance - si une telle chose étaient possible.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_01_0"><![CDATA[Un recul, mais pas la fin des choses.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_02_0"><![CDATA[Blessures à soigner; leçons à apprendre.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_03_0"><![CDATA[Regrouper. Rassembler. Le mal est intemporel, après tout.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_04_0"><![CDATA[L'échec met à l'épreuve le courage du coeur, du cerveau, et du corps.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_05_0"><![CDATA[Vous supporterez cette perte, et apprenez d'elle.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_06_0"><![CDATA[Nous tombons de sorte que nous puissions apprendre à nous relever nous-mêmes.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_07_0"><![CDATA[Ne ruminez pas sur cet échec passager - 
+la campagne est longue et la victoire viendra.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_08_0"><![CDATA[Là où il n'y a aucun péril dans la tâche, il n'y a 
+aucune gloire dans son accomplissement.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_09_0"><![CDATA[Ignorer votre ennemi ainsi que vous-même 
+mènera invariablement vers la défaite.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_10_0"><![CDATA[La grande adversité a une beauté - elle est 
+le feu qui adoucit la lame.]]></entry>
+    <entry id="str_vo_bad_general_quest_fail_11_0"><![CDATA[Vous ne pouvez pas apprendre une chose que vous pensez déjà connaître...]]></entry>
+    <entry id="str_vo_good_kill_first_01_0"><![CDATA[Pendant que le démon tombe, un espoir faible apparait.]]></entry>
+    <entry id="str_vo_good_kill_first_02_0"><![CDATA[Un flot de confiance fait de croustillants ennemis!]]></entry>
+    <entry id="str_vo_good_kill_first_03_0"><![CDATA[Gardons cet avantage, ne leur laissons aucun répit!]]></entry>
+    <entry id="str_vo_good_kill_first_04_0"><![CDATA[Leur formation est brisée - maintenons l'offensive!]]></entry>
+    <entry id="str_vo_good_kill_first_05_0"><![CDATA[Restons en attaque. Détruisons. Eux. Tous..]]></entry>
+    <entry id="str_vo_good_general_kill_weak_01_0"><![CDATA[Exécuté avec impunité!]]></entry>
+    <entry id="str_vo_good_general_kill_weak_02_0"><![CDATA[Une autre abomination nettoyée de nos terres!]]></entry>
+    <entry id="str_vo_good_general_kill_weak_03_0"><![CDATA[Hors d'ici démon!]]></entry>
+    <entry id="str_vo_good_general_kill_weak_04_0"><![CDATA[Retourne dans la fosse!]]></entry>
+    <entry id="str_vo_good_general_kill_weak_05_0"><![CDATA[Un autre stupide larbin tombe... 
+"WAYNE DIT QU'UN AUTRE TOMBE"]]></entry>
+    <entry id="str_vo_good_general_kill_strong_01_0"><![CDATA[Décimé!]]></entry>
+    <entry id="str_vo_good_general_kill_strong_02_0"><![CDATA[Effacé!]]></entry>
+    <entry id="str_vo_good_general_kill_strong_03_0"><![CDATA[Détruit!]]></entry>
+    <entry id="str_vo_good_general_kill_strong_04_0"><![CDATA[Eradiqué!]]></entry>
+    <entry id="str_vo_good_general_kill_strong_05_0"><![CDATA[Annihilé!]]></entry>
+    <entry id="str_vo_good_general_kill_big_01_0"><![CDATA[Plus la bête est grosse, plus la gloire est grande.]]></entry>
+    <entry id="str_vo_good_general_kill_big_02_0"><![CDATA[Une victoire - peut-être un tournant!]]></entry>
+    <entry id="str_vo_good_general_kill_big_03_0"><![CDATA[Une taille prodigieuse, seule, ne peut dissuader la lame affilée.]]></entry>
+    <entry id="str_vo_good_general_kill_big_04_0"><![CDATA[Leurs maudits champions tombent!]]></entry>
+    <entry id="str_vo_good_general_kill_big_05_0"><![CDATA[La taille monstrueuse n'a aucun mérite intrinsèque, à moins qu'une
+l'exsanguination démesurée soit considérée comme une vertu...]]></entry>
+    <entry id="str_vo_good_general_kill_DOT_01_0"><![CDATA[Grande est la lame qui tranche d'elle-même.]]></entry>
+    <entry id="str_vo_good_general_kill_DOT_02_0"><![CDATA[La mort lente - imprévue, impitoyable.]]></entry>
+    <entry id="str_vo_good_general_kill_DOT_03_0"><![CDATA[Une mort, pouce par pouce...]]></entry>
+    <entry id="str_vo_good_general_kill_DOT_04_0"><![CDATA[Lentement, doucement, telle que doit être prise une vie.]]></entry>
+    <entry id="str_vo_good_general_crit_monster_01_0"><![CDATA[Joli coup!]]></entry>
+    <entry id="str_vo_good_general_crit_monster_02_0"><![CDATA[Un coup puissant!]]></entry>
+    <entry id="str_vo_good_general_crit_monster_03_0"><![CDATA[Un coup dévastateur!]]></entry>
+    <entry id="str_vo_good_general_crit_monster_04_0"><![CDATA[Une attaque singulière...]]></entry>
+    <entry id="str_vo_good_general_crit_monster_05_0"><![CDATA[Une frappe décisive!]]></entry>
+    <entry id="str_vo_good_general_crit_monster_06_0"><![CDATA[exécuté avec autorité!]]></entry>
+    <entry id="str_vo_good_general_crit_monster_07_0"><![CDATA[Précision et puissance!]]></entry>
+    <entry id="str_vo_good_general_crit_monster_08_0"><![CDATA[Impressionnant!]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_01_0"><![CDATA[Une mort clarifiée d'un coup simple.]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_02_0"><![CDATA[La mort attend dans la concentration, la plus légère faute...]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_03_0"><![CDATA[Avec quelle rapidité la marée tourne!]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_04_0"><![CDATA[Etourdi, tournoyant, jusqu'à rompre...]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_05_0"><![CDATA[Un assaut si terrible ne peut pas être laissé sans réponse...]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_06_0"><![CDATA[Blessure grave, crainte palpable!]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_07_0"><![CDATA[Oreilles bourdonnantes, vision brouillée - la fin s'approche...]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_08_0"><![CDATA[Un coup étourdissant au corps et au cerveau!]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_09_0"><![CDATA[Affaibli, déséquilibré]]></entry>
+    <entry id="str_vo_bad_general_crit_hero_10_0"><![CDATA[- exposé à un coup mortel...]]></entry>
+    <entry id="str_vo_bad_deaths_door_01_0"><![CDATA[Juché au bord du précipice de l'oubli...]]></entry>
+    <entry id="str_vo_bad_deaths_door_02_0"><![CDATA[Une main de large pour devenir une plaie...]]></entry>
+    <entry id="str_vo_bad_deaths_door_03_0"><![CDATA[Sur le point de chanceler, faisant face à l'abîme!]]></entry>
+    <entry id="str_vo_bad_deaths_door_04_0"><![CDATA[Et maintenant, le jeu de la vérité...s'accrocher, ou expirer?]]></entry>
+    <entry id="str_vo_bad_deaths_door_05_0"><![CDATA[Comme le flux de la vie, une terrible vision du néant s'offre à eux.]]></entry>
+    <entry id="str_vo_bad_death_01_0"><![CDATA[La survie est une proposition fragile dans  cette tombe étendue.]]></entry>
+    <entry id="str_vo_bad_death_02_0"><![CDATA[Plus de sang imbibe le sol, nourrissant là le mal.]]></entry>
+    <entry id="str_vo_bad_death_03_0"><![CDATA[Une autre vie gaspillée à la poursuite de la gloire et de l'or.]]></entry>
+    <entry id="str_vo_bad_death_04_0"><![CDATA[Il n'y a pas de place pour le faible, ou l'imprudent.]]></entry>
+    <entry id="str_vo_bad_death_05_0"><![CDATA[Plus de poussière, plus de cendres, plus de déception.]]></entry>
+    <entry id="str_vo_good_victory_first_01_0"><![CDATA[Ces créatures cauchemardesques peuvent 
+être terrassées, elles peut être battues!]]></entry>
+    <entry id="str_vo_good_victory_first_02_0"><![CDATA[S'énivrer d'une confiance aveugle 
+peut tuer lentement et insidieusement.]]></entry>
+    <entry id="str_vo_good_victory_first_03_0"><![CDATA[Une victoire futile, mais néanmoins une victoire.]]></entry>
+    <entry id="str_vo_good_victory_first_04_0"><![CDATA[Cette expédition, au moins, promet le succès.]]></entry>
+    <entry id="str_vo_good_victory_first_05_0"><![CDATA[Les victoires vont s'enchaîner sans souhaiter trop de résistance.]]></entry>
+    <entry id="str_vo_good_victory_first_06_0"><![CDATA[Soyons attentifs - la fierté triomphante précipite une chute vertigineuse...]]></entry>
+    <entry id="str_vo_good_victory_first_07_0"><![CDATA[Les horreurs macabres - elles provoquent la folie et conduisent dans la boue!]]></entry>
+    <entry id="str_vo_good_victory_first_08_0"><![CDATA[Profitez de cet élan - persévérez afin de terminer le travail!]]></entry>
+    <entry id="str_vo_good_victory_first_09_0"><![CDATA[Le succés est si étincelant. Ou, 
+est-ce simplement un jeu de la lumière?]]></entry>
+    <entry id="str_vo_bad_retreat_fail_01_0"><![CDATA[Le vrai désespoir se dévoile seulement quand l'évasion est impossible.]]></entry>
+    <entry id="str_vo_bad_retreat_fail_02_0"><![CDATA[Acculés !  Emprisonnés !  Et forcés à poursuivre le combat...]]></entry>
+    <entry id="str_vo_bad_retreat_fail_03_0"><![CDATA[Aucune chance de repli - cela sera t-il un massacre?]]></entry>
+    <entry id="str_vo_good_retreat_success_01_0"><![CDATA[Cette escarmouche peut être perdue, mais la bataille peut encore être gagnée.]]></entry>
+    <entry id="str_vo_good_retreat_success_02_0"><![CDATA[Un général sage diminue les pertes et regroupe.]]></entry>
+    <entry id="str_vo_good_retreat_success_03_0"><![CDATA[Le péché n'est pas celui de s'être cru supérieur, 
+mais celui d'avoir fauté pour ne pas le reconnaître.]]></entry>
+    <entry id="str_vo_good_loot_first_01_0"><![CDATA[Or éclatant, bibelots et babioles, payés dans le sang.]]></entry>
+    <entry id="str_vo_good_loot_first_02_0"><![CDATA[Si le moindre trésor pouvait étancher 
+	le flot de corruption issu de l'outre-terre.]]></entry>
+    <entry id="str_vo_good_loot_first_03_0"><![CDATA[Trouver du matériel est un premier test, 
+	maintenant il faut le rapporter au village.]]></entry>
+    <entry id="str_vo_good_loot_first_04_0"><![CDATA[Les ballots chargés avec le butin sont souvent légers lors des approvisionnements.]]></entry>
+    <entry id="str_vo_good_loot_first_05_0"><![CDATA[Richesse démésurée, attribuée au 
+brave semblable à l'imprudent.]]></entry>
+    <entry id="str_vo_good_loot_first_06_0"><![CDATA[Une fortune attendant d'être dépensée...]]></entry>
+    <entry id="str_vo_good_loot_first_07_0"><![CDATA[Une belle récompense pour une tâche bien remplie.]]></entry>
+    <entry id="str_vo_bad_afflicted_01_0"><![CDATA[L'esprit humain - fragile comme l'oeuf d'un merle.]]></entry>
+    <entry id="str_vo_bad_afflicted_02_0"><![CDATA[Pourquoi, héroisme?]]></entry>
+    <entry id="str_vo_bad_afflicted_03_0"><![CDATA[L'esprit ne peut pas espérer résister à une telle attaque.]]></entry>
+    <entry id="str_vo_bad_afflicted_04_0"><![CDATA[Même le chêne âgé tombera face aux vents de la tempête.]]></entry>
+    <entry id="str_vo_bad_afflicted_05_0"><![CDATA[Folie, notre vieux ami!]]></entry>
+    <entry id="str_vo_bad_afflicted_06_0"><![CDATA[On peut parfois trouver la clarté dans la folie, mais rarement...]]></entry>
+    <entry id="str_vo_bad_afflicted_07_0"><![CDATA[Folie - sublimité de l'intelligence, 
+ou comme il a été rapporté.]]></entry>
+    <entry id="str_vo_bad_afflicted_08_0"><![CDATA[Les remparts de l'esprit sont tombés!]]></entry>
+    <entry id="str_vo_bad_afflicted_09_0"><![CDATA[L'abîme est rendu manifeste!]]></entry>
+    <entry id="str_vo_bad_afflicted_fearful_0"><![CDATA[La crainte et la faiblesse réclament finalement leur dû.]]></entry>
+    <entry id="str_vo_bad_afflicted_paranoid_0"><![CDATA[Les murs se referment, les ombres chuchotent des complots!]]></entry>
+    <entry id="str_vo_bad_afflicted_depressed_0"><![CDATA[Il ne peut y avoir aucun espoir dans cet enfer, aucun espoir du tout.]]></entry>
+    <entry id="str_vo_bad_afflicted_selfish_0"><![CDATA[L'instinct de conservation est primordial - quel que soit le coût!]]></entry>
+    <entry id="str_vo_bad_afflicted_masochistic_0"><![CDATA[Ceux qui convoitent la blessure la trouvent dans un court délai.]]></entry>
+    <entry id="str_vo_bad_afflicted_abusive_0"><![CDATA[Frustration et fureur, plus destructives 
+que cent canons.]]></entry>
+    <entry id="str_vo_bad_afflicted_irrational_0"><![CDATA[Tituber, haleter, contrôler la frontière de la folie!]]></entry>
+    <entry id="str_vo_good_virtue_stalwart_0"><![CDATA[Beaucoup tombent face au chaos; mais pas ceux-ci, pas aujourd'hui.]]></entry>
+    <entry id="str_vo_good_virtue_powerful_0"><![CDATA[La colère est puissance - lâchons-là!]]></entry>
+    <entry id="str_vo_good_virtue_focused_0"><![CDATA[Un moment de clarté dans l'oeil du cyclone...]]></entry>
+    <entry id="str_vo_good_virtue_vigorous_0"><![CDATA[L'adversité peut stimuler l'espoir et la résilience!]]></entry>
+    <entry id="str_vo_good_affliction_pass_01_0"><![CDATA[Un moment de bravoure brille plus radieusement 
+contre un contexte de désespoir.]]></entry>
+    <entry id="str_vo_bad_obstacle_01_0"><![CDATA[Sans outils en fer, vous devez compter 
+sur la chair et une solide volonté.]]></entry>
+    <entry id="str_vo_bad_obstacle_crypts_0"><![CDATA[Même la pierre froide semble résister pour empêcher le passage.]]></entry>
+    <entry id="str_vo_bad_obstacle_weald_0"><![CDATA[La nature elle-même, une victime de la propagation de la 
+corruption, mal formée avec une mauvaise intention.]]></entry>
+    <entry id="str_vo_bad_obstacle_warrens_0"><![CDATA[De tels blocages sont prévisibles - ces tunnels 
+datent d'avant les premiers colons.]]></entry>
+    <entry id="str_vo_bad_obstacle_cove_0"><![CDATA[Un autre marin, un autre malheur.]]></entry>
+    <entry id="str_vo_bad_trap_01_0"><![CDATA[Les cruelles machinations se dévoilent dans un but singulier!]]></entry>
+    <entry id="str_vo_bad_trap_02_0"><![CDATA[Curieux est l'art des fabricants de pièges... leurs 
+propres yeux ne témoignent jamais de leur efficacité.]]></entry>
+    <entry id="str_vo_bad_trap_03_0"><![CDATA[Risques mécaniques, animés par une mauvaise intention!]]></entry>
+    <entry id="str_vo_bad_trap_04_0"><![CDATA[Attiré dans un guet-apens par une invention répugnante!]]></entry>
+    <entry id="str_vo_bad_trap_05_0"><![CDATA[Les pièges antiques dorment dans l'attente, activés et assoiffés le sang.]]></entry>
+    <entry id="str_vo_bad_trap_06_0"><![CDATA[L'inattention ne trouvera aucune clémence en cet endroit!]]></entry>
+    <entry id="str_vo_bad_trap_07_0"><![CDATA[Pensez que de tels faux pas sont l'exception et pas la règle.]]></entry>
+    <entry id="str_vo_bad_trap_08_0"><![CDATA[Regardez vos pas...]]></entry>
+    <entry id="str_vo_bad_starve_01_0"><![CDATA[La faim insatiable est en place, tournant le corps 
+contre lui-même, affaiblissant l'esprit.]]></entry>
+    <entry id="str_vo_bad_starve_02_0"><![CDATA[Tomber pour une si petite chose... des miettes de pain!]]></entry>
+    <entry id="str_vo_bad_starve_03_0"><![CDATA[Des ballots débordant d'acier et de guerre, mais 
+a peine une pensée donnée à la charrue!]]></entry>
+    <entry id="str_vo_bad_starve_04_0"><![CDATA[Aucune force de volonté ne peut rassasier un corps affamé.]]></entry>
+    <entry id="str_vo_bad_starve_05_0"><![CDATA[Les conditions de survie ne peuvent pas 
+être maintenues par un estomac vide.]]></entry>
+    <entry id="str_vo_good_camp_01_0"><![CDATA[Un moment de sursis, un répit pour l'acier 
+contre les prochaines horreurs.]]></entry>
+    <entry id="str_vo_good_camp_02_0"><![CDATA[Une étincelle qui n'embrase rien est un but sans espoir.]]></entry>
+    <entry id="str_vo_good_camp_03_0"><![CDATA[Un cercle dans l'obscurité. La bataille peut encore être gagnée.]]></entry>
+    <entry id="str_vo_good_camp_04_0"><![CDATA[Recueilli en silence dans la lumière d'un feu fragile, 
+un groupe soucieux...]]></entry>
+    <entry id="str_vo_good_camp_05_0"><![CDATA[Blottis ensemble, sournois et vulnérables. Rats dans un labyrinthe.]]></entry>
+    <entry id="str_vo_bad_torchlight_01_0"><![CDATA[L'obscurité est plus sévère qu'une 
+simple supercherie et qu'un croque-mitaine.]]></entry>
+    <entry id="str_vo_bad_torchlight_02_0"><![CDATA[L'obscurité s'abat, hantant les coeurs des hommes.]]></entry>
+    <entry id="str_vo_bad_torchlight_03_0"><![CDATA[Les terreurs peuvent en effet chasser ces ombres, 
+mais là-bas, un reflet d'or!]]></entry>
+    <entry id="str_vo_bad_torchlight_04_0"><![CDATA[Des secrets et des merveilles peuvent être trouvés dans 
+la plupart des coins ténébreux de cet endroit.]]></entry>
+    <entry id="str_vo_bad_torchlight_05_0"><![CDATA[...Et maintenant, l'obscurité domine - noire comme la mort.]]></entry>
+    <entry id="str_vo_good_torchlight_01_0"><![CDATA[La lumière, promesse de sécurité!]]></entry>
+    <entry id="str_vo_good_torchlight_02_0"><![CDATA[Le chemin est éclairé. Le chemin est dégagé. Nous exigeons 
+seulement de la force pour le suivre.]]></entry>
+    <entry id="str_vo_good_torchlight_03_0"><![CDATA[Dans le rayonnement, nous pouvons trouver la victoire!]]></entry>
+    <entry id="str_vo_good_torchlight_04_0"><![CDATA[Quand la lumière gagne de l'éclat, les esprits 
+s'élèvent et l'objectif devient plus clair.]]></entry>
+    <entry id="str_vo_good_torchlight_05_0"><![CDATA[Une allumette est craquée, une étoile flamboyante est née!]]></entry>
+    <entry id="str_vo_town_backstory_01_0"><![CDATA[Autrefois, notre domaine était la fierté de ce pays.]]></entry>
+    <entry id="str_vo_town_backstory_02_0"><![CDATA[Je me souviens des jours ou le soleil brillait et 
+des rires pouvaient être entendus de la taverne.]]></entry>
+    <entry id="str_vo_town_backstory_03_0"><![CDATA[J'étais seigneur de cet endroit, avant que 
+les corneilles et les rats n'en fassent leur domaine.]]></entry>
+    <entry id="str_vo_town_backstory_04_0"><![CDATA[Je vois quelque chose qui a été longtemps oublié sur les visages 
+submergés des passants -- une lueur d'espoir.]]></entry>
+    <entry id="str_vo_town_backstory_05_0"><![CDATA[En vérité, je ne peux pas dire combien de temps 
+s'est écoulé depuis que j'ai envoyé cette lettre.]]></entry>
+    <entry id="str_vo_town_backstory_06_0"><![CDATA[Le pauvre Cartetaker, Je crains que les fonctions de longue date 
+qu'il tenait... ne l'aient affecté.]]></entry>
+    <entry id="str_vo_town_backstory_07_0"><![CDATA[La dégénérescence du Hameau n'est rien, j'en ai peur, 
+comparé à l'état des acres environnants.]]></entry>
+    <entry id="str_vo_town_backstory_08_0"><![CDATA[Mon obsession est la cause de cette grande pollution, et il est 
+honteux de compter sur toi pour remédier à tout cela.]]></entry>
+    <entry id="str_vo_town_backstory_09_0"><![CDATA[Notre nom de famille, tellement bien considéré dans le passé, est 
+maintenant à peine chuchoté de vive voix par les gens convenables.]]></entry>
+    <entry id="str_vo_town_backstory_10_0"><![CDATA[Je peux encore voir leurs visages menaçants pendant qu'ils prenaient d'assaut le manoir, 
+mais j'étais mort avant qu'ils m'aient trouvé, et la lettre était en chemin.]]></entry>
+    <entry id="str_vo_town_backstory_11_0"><![CDATA[Il y a une grande horreur sous le manoir 
+- un chaos rampant qui doit être détruit!]]></entry>
+    <entry id="str_vo_town_backstory_12_0"><![CDATA[Curiosité, intérêt et obsession - mille 
+marqueurs sur ma route de la malédiction.]]></entry>
+    <entry id="str_vo_town_backstory_13_0"><![CDATA[Ne vous inquiétez pas du coût de cette croisade - its noble 
 end affords you broad tolerance in your choice of means.]]></entry>
-    <entry id="str_vo_town_backstory_14_0"><![CDATA[In time, you will know the tragic extent of my failings.]]></entry>
-    <entry id="str_vo_town_backstory_15_0"><![CDATA[Let me share with you the terrible 
-wonders I have come to know...]]></entry>
-    <entry id="str_vo_town_backstory_16_0"><![CDATA[You answered the letter - now like 
-me, you are part of this place.]]></entry>
-    <entry id="str_vo_town_backstory_17_0"><![CDATA[We dug for months, years - an eternity. 
-And we were rewarded with madness.]]></entry>
-    <entry id="str_vo_town_backstory_18_0"><![CDATA[The plume and the pistol - a fitting end 
-to my folly, and a curse upon us all.]]></entry>
-    <entry id="str_vo_town_backstory_19_0"><![CDATA[All the decadent horrors I have seen pale in comparison 
-with that upon which I dared not look...]]></entry>
-    <entry id="str_vo_town_backstory_20_0"><![CDATA[Can you feel it?  The walls between the sane world and that 
-unplumbed dimension of delirium are tenously thin here...]]></entry>
-    <entry id="str_vo_town_backstory_21_0"><![CDATA[All my life, I could feel an insistent 
-gnawing in the back of my mind.]]></entry>
-    <entry id="str_vo_town_backstory_21_1"><![CDATA[It was a yearning, a thirst for discovery 
-that could be neither numbed, nor sated.]]></entry>
-    <entry id="str_vo_town_backstory_22_0"><![CDATA[An eternity of futile struggle - a penance 
-for my unspeakable transgressions.]]></entry>
-    <entry id="str_vo_town_recruit_crusader_0"><![CDATA[A mighty sword arm anchored by holy 
-purpose - a zealous warrior!]]></entry>
-    <entry id="str_vo_town_recruit_hellion_0"><![CDATA[Barbaric rage and unrelenting savagery 
-make for a powerful ally.]]></entry>
-    <entry id="str_vo_town_recruit_leper_0"><![CDATA[This man understands that adversity 
-and existence are one and the same.]]></entry>
-    <entry id="str_vo_town_recruit_highwayman_0"><![CDATA[Elusive, evasive, persistent - righteous traits, for a rogue.]]></entry>
-    <entry id="str_vo_town_recruit_bounty_hunter_0"><![CDATA[The thrill of the hunt, the promise of payment.]]></entry>
-    <entry id="str_vo_town_recruit_jester_0"><![CDATA[He will be laughing still, at the end.]]></entry>
-    <entry id="str_vo_town_recruit_graverobber_0"><![CDATA[To those with a keen eye - gold gleams like a dagger's point.]]></entry>
-    <entry id="str_vo_town_recruit_plague_doctor_0"><![CDATA[What better laboratory than the blood-soaked battlefield?]]></entry>
-    <entry id="str_vo_town_recruit_vestal_0"><![CDATA[A sister of battle - pious and unrelenting!]]></entry>
-    <entry id="str_vo_town_recruit_occultist_0"><![CDATA[To fight the abyss, one must know it.]]></entry>
-    <entry id="str_vo_town_recruit_houndmaster_0"><![CDATA[A lawman and his fathful beast - a bond 
-forged by battle and bloodshed.]]></entry>
-    <entry id="str_vo_town_recruit_abomination_0"><![CDATA[Tortured and reclusive, this man 
-is more dangerous than he seems.]]></entry>
-    <entry id="str_vo_town_dismiss_general_01_0"><![CDATA[Another soul battered and broken. 
-Cast aside like a spent torch.]]></entry>
-    <entry id="str_vo_town_dismiss_general_02_0"><![CDATA[Those without the stomach for this place must move on.]]></entry>
-    <entry id="str_vo_town_dismiss_general_03_0"><![CDATA[Send this one to journey elsewhere, 
-for we have need of sterner stock.]]></entry>
-    <entry id="str_vo_town_dismiss_general_04_0"><![CDATA[Suffer not the lame horse, nor the broken man.]]></entry>
-    <entry id="str_vo_town_dismiss_general_05_0"><![CDATA[This one has become vestigial.  Useless.]]></entry>
-    <entry id="str_vo_town_dismiss_general_06_0"><![CDATA[The task ahead is terrible, and 
-weakness cannot be tolerated.]]></entry>
-    <entry id="str_vo_town_dismiss_general_07_0"><![CDATA[It is done.  Turn yourself now to the condition 
-of those poor devils who remain.]]></entry>
-    <entry id="str_vo_town_dismiss_general_08_0"><![CDATA[Slumped shoulders, wild eyes, and a stumbling 
-gait - this one is no more good.]]></entry>
+    <entry id="str_vo_town_backstory_14_0"><![CDATA[À temps, vous connaîtrez l'ampleur tragique de mes erreurs.]]></entry>
+    <entry id="str_vo_town_backstory_15_0"><![CDATA[Laissez-moi partager avec vous les terribles
+merveilles que j'ai été amené à découvrir...]]></entry>
+    <entry id="str_vo_town_backstory_16_0"><![CDATA[Vous avez répondu à la lettre - maintenant, comme 
+moi, vous faites corps avec cet endroit.]]></entry>
+    <entry id="str_vo_town_backstory_17_0"><![CDATA[Nous avons creusé pendant des mois, des années - une éternité. 
+Et nous avons été récompensés de notre folie.]]></entry>
+    <entry id="str_vo_town_backstory_18_0"><![CDATA[La plume et le pistolet - une fin convenable 
+à ma déchéance, et une malédiction sur nous tous.]]></entry>
+    <entry id="str_vo_town_backstory_19_0"><![CDATA[Toutes les horreurs décadentes que j'ai vu sont pâles en comparaison 
+avec d'autres sur lesquelles je n'ai pas osé porter le regard...]]></entry>
+    <entry id="str_vo_town_backstory_20_0"><![CDATA[Pouvez-vous le sentir? Les murs entre le monde normal et la 
+la dimension insondée du délire sont ténus ici...]]></entry>
+    <entry id="str_vo_town_backstory_21_0"><![CDATA[Toute ma vie, je pourrais sentir un insistant 
+rongement derrière mon esprit.]]></entry>
+    <entry id="str_vo_town_backstory_21_1"><![CDATA[C'était un désir, une soif de découverte 
+qui ni l'un ni l'autre n'ont jamais pu être rassasiés, ni assouvis.]]></entry>
+    <entry id="str_vo_town_backstory_22_0"><![CDATA[Une éternité de lutte futile - une pénitence 
+pour mes transgressions innomables.]]></entry>
+    <entry id="str_vo_town_recruit_crusader_0"><![CDATA[Un bras armé d'une épée puissante, ancré dans une sainte 
+mission - un guerrier ardent!]]></entry>
+    <entry id="str_vo_town_recruit_hellion_0"><![CDATA[Rage barbare et sauvagerie tenace 
+en font une puissant alliée.]]></entry>
+    <entry id="str_vo_town_recruit_leper_0"><![CDATA[Cet homme comprend que l'adversité 
+et l'existence ne font qu'une.]]></entry>
+    <entry id="str_vo_town_recruit_highwayman_0"><![CDATA[Discret, obscur, tenace - traits justes, pour un escroc.]]></entry>
+    <entry id="str_vo_town_recruit_bounty_hunter_0"><![CDATA[Le frisson de la chasse, la promesse du paiement.]]></entry>
+    <entry id="str_vo_town_recruit_jester_0"><![CDATA[Il rira toujours, à la fin.]]></entry>
+    <entry id="str_vo_town_recruit_graverobber_0"><![CDATA[À ceux qui ont l'oeil vif - l'or brille comme la pointe d'un poignard.]]></entry>
+    <entry id="str_vo_town_recruit_plague_doctor_0"><![CDATA[Quel meilleur laboratoire que le champ de bataille ensanglanté?]]></entry>
+    <entry id="str_vo_town_recruit_vestal_0"><![CDATA[Une soeur de la bataille - pieuse et obstinée!]]></entry>
+    <entry id="str_vo_town_recruit_occultist_0"><![CDATA[Pour combattre l'abîme, on doit le connaître.]]></entry>
+    <entry id="str_vo_town_recruit_houndmaster_0"><![CDATA[Un représentant de la loi et son fidèle animal - un lien 
+forgé par la bataille et le carnage.]]></entry>
+    <entry id="str_vo_town_recruit_abomination_0"><![CDATA[Torturé et reclus, cet homme 
+est plus dangereux qu'il ne le laisse paraître.]]></entry>
+    <entry id="str_vo_town_dismiss_general_01_0"><![CDATA[Une autre âme battue et brisée. 
+Mise de côté comme une torche épuisée.]]></entry>
+    <entry id="str_vo_town_dismiss_general_02_0"><![CDATA[Ceux qui n'ont pas l'estomac à l'endroit doivent circuler.]]></entry>
+    <entry id="str_vo_town_dismiss_general_03_0"><![CDATA[Envoyez celui-ci pour voyager ailleurs, 
+nous avons besoin d'actions plus sévères.]]></entry>
+    <entry id="str_vo_town_dismiss_general_04_0"><![CDATA[Le cheval boiteux ne souffre pas, ni l'homme secoué.]]></entry>
+    <entry id="str_vo_town_dismiss_general_05_0"><![CDATA[Celui-ci est devenu rudimentaire.  Inutile.]]></entry>
+    <entry id="str_vo_town_dismiss_general_06_0"><![CDATA[La tâche qui se profile est terrible, et 
+la faiblesse ne peut pas être tolérée.]]></entry>
+    <entry id="str_vo_town_dismiss_general_07_0"><![CDATA[C'est fini. Tournez-vous maintenant vers la condition 
+de ces pauvres diables qui restent.]]></entry>
+    <entry id="str_vo_town_dismiss_general_08_0"><![CDATA[Épaules tombantes, yeux sauvages, une démarche trébuchante 
+- celui-ci est meilleur.]]></entry>
     <entry id="str_vo_town_upgrade_stagecoach_01_0"><![CDATA[De grands héros peuvent être trouvés ici même, dans la boue et la pluie.]]></entry>
     <entry id="str_vo_town_upgrade_stagecoach_02_0"><![CDATA[Le mot se diffuse. Les ambitions sont grandes 
-dans les villes lointaines. Nous pouvons l'utiliser.]]></entry>
+dans les villes lointaines. Nous pouvons la mettre à profit.]]></entry>
     <entry id="str_vo_town_upgrade_stagecoach_03_0"><![CDATA[Plus d'arrivants, à la recherche idiote de fortune 
 et de gloire dans ce domaine des damnés.]]></entry>
     <entry id="str_vo_town_upgrade_tavern_01_0"><![CDATA[Avec suffisamment de bière, peut-être pourront-ils être 
