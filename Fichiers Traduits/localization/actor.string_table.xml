@@ -63,7 +63,7 @@
     <entry id="buff_rule_tooltip_actorStatus"><![CDATA[%s vs %s+]]></entry>
     <entry id="buff_rule_tooltip_monsterType"><![CDATA[%s vs %s]]></entry>
     <entry id="buff_rule_tooltip_at_deaths_door"><![CDATA[%s aux Portes de la Mort]]></entry>
-    <entry id="buff_rule_tooltip_in_rank"><![CDATA[%s si dans rang %d]]></entry>
+    <entry id="buff_rule_tooltip_in_rank"><![CDATA[%s si position %d]]></entry>
     <entry id="buff_rule_tooltip_in_camp"><![CDATA[%s pendant campement]]></entry>
     <entry id="buff_rule_tooltip_in_dungeon"><![CDATA[%s dans %s]]></entry>
     <entry id="buff_rule_tooltip_stress_above"><![CDATA[%s si Stress au-dessus %d]]></entry>
@@ -88,7 +88,7 @@
     <entry id="buff_rule_tooltip_monsterStatus_false"><![CDATA[%s pas vs %s+]]></entry>
     <entry id="buff_rule_tooltip_monsterType_false"><![CDATA[%s pas vs %s]]></entry>
     <entry id="buff_rule_tooltip_at_deaths_door_false"><![CDATA[%s si pas Portes de la Mort]]></entry>
-    <entry id="buff_rule_tooltip_in_rank_false"><![CDATA[%s si pas dans rang %d]]></entry>
+    <entry id="buff_rule_tooltip_in_rank_false"><![CDATA[%s si pas position %d]]></entry>
     <entry id="buff_rule_tooltip_in_camp_false"><![CDATA[%s quand campe pas]]></entry>
     <entry id="buff_rule_data_tooltip_stunned"><![CDATA[Étourdi]]></entry>
     <entry id="buff_rule_data_tooltip_tagged"><![CDATA[Marqué]]></entry>
